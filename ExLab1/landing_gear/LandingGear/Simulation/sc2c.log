@@ -1,0 +1,93 @@
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-09-26T07:54:56
+** Command: scade -code "C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\LandingGear.etp" -root LandingGear -conf Simulation -build -all
+*************************************************************$
+*** Build Execution Warning (MAKEEXE):  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\make_win64.log, line 0, character 0
+ make_win64.log: Warning(s) occurs during Makefile execution.
+  at file C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_private.c:75, line 32, character 0
+ ~LandingGear_UA_1_private.c:75(32) : cast from pointer to integer of different size [-Wpointer-to-int-cast]
+  at file C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_private.c:94, line 32, character 0
+ ~LandingGear_UA_1_private.c:94(32) : cast from pointer to integer of different size [-Wpointer-to-int-cast]
+  at file C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_LAY_1.c:67, line 12, character 0
+ ~LandingGear_UA_1_LAY_1.c:67(12) : pointer targets in passing argument 7 of 'a661_com_csp_widget_Label' differ in signedness [-Wpointer-sign]
+  at file C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_LAY_1.c:73, line 12, character 0
+ ~LandingGear_UA_1_LAY_1.c:73(12) : pointer targets in passing argument 7 of 'a661_com_csp_widget_Label' differ in signedness [-Wpointer-sign]
+  at file C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_LAY_1.c:79, line 33, character 0
+ ~LandingGear_UA_1_LAY_1.c:79(33) : pointer targets in passing argument 7 of 'a661_com_csp_widget_Label' differ in signedness [-Wpointer-sign]
+  at file C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_LAY_1.c:85, line 33, character 0
+ ~LandingGear_UA_1_LAY_1.c:85(33) : pointer targets in passing argument 5 of 'a661_com_csp_widget_PushButton' differ in signedness [-Wpointer-sign]
+  at file C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_LAY_1.c:91, line 33, character 0
+ ~LandingGear_UA_1_LAY_1.c:91(33) : pointer targets in passing argument 5 of 'a661_com_csp_widget_PushButton' differ in signedness [-Wpointer-sign]
+*** Generated Files Information (GENFIL): KCG- Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\mapping.xml, line 0, character 0
+ ~mapping.xml
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\kcg_metrics.txt, line 0, character 0
+ ~kcg_metrics.txt
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear.c, line 0, character 0
+ ~LandingGear.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear.h, line 0, character 0
+ ~LandingGear.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\kcg_types.h, line 0, character 0
+ ~kcg_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\kcg_consts.h, line 0, character 0
+ ~kcg_consts.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\kcg_sensors.h, line 0, character 0
+ ~kcg_sensors.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\kcg_types.c, line 0, character 0
+ ~kcg_types.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\kcg_consts.c, line 0, character 0
+ ~kcg_consts.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\config.txt, line 0, character 0
+ ~config.txt
+*** Generated Files Information (GENFIL): Code Generator Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\user_macros.h, line 0, character 0
+ ~user_macros.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\kcg_imported_types.h, line 0, character 0
+ ~kcg_imported_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\sc2c.log, line 0, character 0
+ ~sc2c.log
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\sc2c_integration_files.txt, line 0, character 0
+ ~sc2c_integration_files.txt
+*** Generated Files Information (GENFIL): Simulator Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_cosim.c, line 0, character 0
+ ~LandingGear_cosim.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_interface.h, line 0, character 0
+ ~LandingGear_interface.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_interface.c, line 0, character 0
+ ~LandingGear_interface.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_dll.c, line 0, character 0
+ ~LandingGear_dll.c
+*** Generated Files Information (GENFIL): Type Utils Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_type.h, line 0, character 0
+ ~LandingGear_type.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_type.c, line 0, character 0
+ ~LandingGear_type.c
+*** Generated Files Information (GENFIL): Mapping Utils Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_mapping.h, line 0, character 0
+ ~LandingGear_mapping.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_mapping.c, line 0, character 0
+ ~LandingGear_mapping.c
+*** Generated Files Information (GENFIL): SCADE UA Adaptor Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_UA_1.h, line 0, character 0
+ ~LandingGear_UA_1.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_UA_1.c, line 0, character 0
+ ~LandingGear_UA_1.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_UA_1_constants.h, line 0, character 0
+ ~LandingGear_UA_1_constants.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_UA_1_private.h, line 0, character 0
+ ~LandingGear_UA_1_private.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_UA_1_private.c, line 0, character 0
+ ~LandingGear_UA_1_private.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear_UA_1_LAY_1.c, line 0, character 0
+ ~LandingGear_UA_1_LAY_1.c
+*** Generated Files Information (GENFIL): Build Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\Makefile_win64, line 0, character 0
+ ~Makefile_win64
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear.dll, line 0, character 0
+ ~LandingGear.dll
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\Simulation\LandingGear.exe, line 0, character 0
+ ~LandingGear.exe
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-09-26T07:55:32
+** sc2c.log
+*************************************************************$

@@ -1,0 +1,68 @@
+[scade_version: 2019 R2a]
+[scade_project: C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp]
+[Code Generator]
+e623092a9dbb07c9ffdab41890129be1 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/scade_model_without_unused.scade
+5135296eda78b866d172bd4437c220eb C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear.c
+26a10aac46d97aeaf489b5610d4810d8 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear.h
+2d2edf744d5d0571ca85e1ea4070e4dc C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/cmd_cg.log
+f21661f8a1c164bafa50de979a8395fd C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/config.txt
+f51e315f49a55fd49395b84a1c6e3fe8 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_consts.c
+a2227eb7c91cba8792b69a75aeda3f81 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_consts.h
+656a4d3bc7af0e7a3f1f0b5e92bfe04c C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_files.txt
+c570e85441febaa6f6d5e23e14e58b55 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_imported_types.h
+5f4c459c862ae6b08f08a418b25c6a7b C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_metrics.txt
+0e573c43a60b901a0f4868bd8c52a6f0 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_sensors.h
+4e3cb1ffa75a673823983fd6413cb800 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_types.c
+04f65de909e36536407ba30993f6e221 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/kcg_types.h
+2320ede5cd03a05b6dca8b0b98f8ab47 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/mapping.xml
+ae3eb7ab76cdc5ab7228e39b505e73d6 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/user_macros.h
+[Macro Wrapper]
+34dd2497723352670d1cb9d2554cc3a5 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp
+1d06dec6ef4c994751c5235304d87e73 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_macro.h
+[Mapping Utils]
+2320ede5cd03a05b6dca8b0b98f8ab47 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/mapping.xml
+e35fa38a5c65554f97685971912af758 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuLib.c
+97846ecf46f63ce7853bb421d7471f4a C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuVTable.c
+34dd2497723352670d1cb9d2554cc3a5 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp
+fc55f0fd13a5f0b3afeddc1df792dbf8 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_mapping.c
+65f2ba2f10d664c497c83197fdc08689 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_mapping.h
+[SCADE Display Co-simulation/LandingGear_UA_1]
+bba8c9002fe5ab63dd33d215c67aad5f C:/Program Files/ANSYS Inc/v194/SCADE/SCADE Display/config/a661_description/Tables/linestylesTable.xml
+788f0892e8de6e6ca9039e4a44bdd6b4 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE Display/config/a661_description/Tables/picturesTable.xml
+0d1882ee40186856cdfe011676d28d35 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE Display/config/a661_description/Tables/symbolsTable.xml
+2d794789adcbc5c416827b73334f9767 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE Display/config/a661_description/a661.xml
+5297a44c1929ca5d874171b678c72a6b C:/Program Files/ANSYS Inc/v194/SCADE/SCADE Display/templates/uapc/look_capacities.slc
+1dc08d2e262853ddcd678274f02cbe93 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LG.sgfx
+53e34c08fe9b715903cfe0106469049e C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/color_table.sct
+dfe0e7c4e4d069b1e76b66b137cb6713 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/font_table.sft
+262bbf0d049c5cd86b7d8a1508ea66d1 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/line_stipple_table.sst
+3945084d07df90452479947ad336617b C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/line_width_table.swt
+0a20074121f8357bd1042d632a0d3e4f C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/look_definition.sld
+94ea51436dd69cb5621221cac5529297 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.sdy
+7332796597829fd9c5fe52d036985d8d C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1.bat
+04a352bf436ba6809332c525f9fff9b3 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1.c
+1c885c78e702074689c05fca6d06766c C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_LAY_1.c
+63af5726663498b1f1b5d4576253d9b7 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1_private.c
+[SCADE Display Co-simulation/standalone]
+1e2f11ca6a1b6a49e12da56a69e790d0 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/A661Cosim.c
+94ea51436dd69cb5621221cac5529297 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.sdy
+7332796597829fd9c5fe52d036985d8d C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_UA_1.bat
+be84b8c58187e001c35dc9b68ff0cd5c C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_cosim.c
+[Simulator Wrapper]
+2320ede5cd03a05b6dca8b0b98f8ab47 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/mapping.xml
+34dd2497723352670d1cb9d2554cc3a5 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp
+2f389304c0d7972fb879985444ffb501 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_dll.c
+84020d2784da157b1d1e4cc8ec72b2cf C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_interface.c
+e4ec04cac8efff9d35de679e0331e0bc C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_interface.h
+[Type Utils]
+2320ede5cd03a05b6dca8b0b98f8ab47 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/mapping.xml
+e35fa38a5c65554f97685971912af758 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuLib.c
+2ff4b49fd444307fbe2ac67a8132b9ae C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuPredefConv.c
+97846ecf46f63ce7853bb421d7471f4a C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuVTable.c
+34dd2497723352670d1cb9d2554cc3a5 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp
+696b8c9cac9194f4f43bf93bd836d06d C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_type.c
+8a32c1945f7b5aed15509c9fc48688df C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/Simulation/LandingGear_type.h

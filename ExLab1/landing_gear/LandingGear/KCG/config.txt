@@ -1,0 +1,3 @@
+-target_dir "C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG" -expall -target C -name_length 200 -significance_length 31 -user_config "./user_macros.h" -input_threshold 2 
+-root LandingGear
+"C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/scade_model_without_unused.scade"

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+  <Model commandLine="" date="">
+    <Option name="use_types" value="#off#"/>
+    <Option name="imported_root_package" value="#off#"/>
+    <Option name="root_package" value="#off#"/>
+    <Option name="xml_basename" value="kcg_xml_filter_out.scade"/>
+    <Option name="state_vector" value="#off#"/>
+    <Option name="static" value="#off#"/>
+    <Option name="separate_io_all" value="#off#"/>
+    <Option name="no_separate_io" value="#off#"/>
+    <Option name="separate_io" value="#off#"/>
+    <Option name="warn_error" value="#off#"/>
+    <Option name="short_circuit" value="#off#"/>
+    <Option name="wrap_c_ops" value="#off#"/>
+    <Option name="input_file" value="C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/scade_model_without_unused.scade"/>
+    <Option name="probes" value="#off#"/>
+    <Option name="debug" value="#off#"/>
+    <Option name="no_observe" value="#off#"/>
+    <Option name="observe" value="#off#"/>
+    <Option name="user_config" value="./user_macros.h"/>
+    <Option name="input_threshold" value="2"/>
+    <Option name="header" value="#off#"/>
+    <Option name="significance_length" value="31"/>
+    <Option name="name_length" value="200"/>
+    <Option name="globals_prefix" value="#off#"/>
+    <Option name="keep_asserts" value="#off#"/>
+    <Option name="global_root_context" value="#off#"/>
+    <Option name="noexp" value="#off#"/>
+    <Option name="exp" value="#off#"/>
+    <Option name="expall" value="#on#"/>
+    <Option name="target_dir" value="C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG"/>
+    <Option name="target" value="C"/>
+    <Option name="root" value="LandingGear"/>
+    <Option name="auth" value="#off#"/>
+    <Constant scadeName="LG_DOWN_TEXT" scadeType="T_String" targetName="LG_DOWN_TEXT" targetType="T_String"/>
+    <Constant macroDef="true" scadeName="STR_SIZE" scadeType="uint16" targetName="STR_SIZE" targetType="kcg_uint16"/>
+    <Constant scadeName="LG_UP_TEXT" scadeType="T_String" targetName="LG_UP_TEXT" targetType="T_String"/>
+    <Constant scadeName="LG_BTN_NORM_TEXT" scadeType="T_String" targetName="LG_BTN_NORM_TEXT" targetType="T_String"/>
+    <Constant scadeName="LG_BTN_FAIL_TEXT" scadeType="T_String" targetName="LG_BTN_FAIL_TEXT" targetType="T_String"/>
+    <Constant macroDef="true" scadeName="GREEN" scadeType="uint8" targetName="GREEN" targetType="kcg_uint8"/>
+    <Constant macroDef="true" scadeName="WHITE" scadeType="uint8" targetName="WHITE" targetType="kcg_uint8"/>
+    <Constant macroDef="true" scadeName="RED" scadeType="uint8" targetName="RED" targetType="kcg_uint8"/>
+    <Constant scadeName="LG_BTN_EMPTY_TEXT" scadeType="T_String" targetName="LG_BTN_EMPTY_TEXT" targetType="T_String"/>
+    <Constant macroDef="true" scadeName="AMBAR" scadeType="uint8" targetName="AMBAR" targetType="kcg_uint8"/>
+    <NamedType refType="T_String" scadeName="T_String" targetName="T_String"/>
+    <RootNode headerFile="LandingGear.h" scadeName="LandingGear" targetCycleFct="LandingGear" targetInitFct="LandingGear_reset" targetInitializationFct="LandingGear_init">
+      <Input inCtx="true" scadeName="LG_UpBtn" scadeType="bool" targetName="LG_UpBtn" targetType="kcg_bool"/>
+      <Input inCtx="true" scadeName="LG_FailBtn" scadeType="bool" targetName="LG_FailBtn" targetType="kcg_bool"/>
+      <Output inCtx="true" scadeName="LG_UpBtnTextString" scadeType="T_String" targetName="LG_UpBtnTextString" targetType="T_String"/>
+      <Output inCtx="true" scadeName="LG_FailBtnTextString" scadeType="T_String" targetName="LG_FailBtnTextString" targetType="T_String"/>
+      <Output inCtx="true" scadeName="Layer1Active" scadeType="bool" targetName="Layer1Active" targetType="kcg_bool"/>
+      <Output inCtx="true" scadeName="Layer1Visible" scadeType="bool" targetName="Layer1Visible" targetType="kcg_bool"/>
+      <Output inCtx="true" scadeName="NoseSquareBorderColor" scadeType="uint8" targetName="NoseSquareBorderColor" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="LeftSquareBorderColor" scadeType="uint8" targetName="LeftSquareBorderColor" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="RightSquareBorderColor" scadeType="uint8" targetName="RightSquareBorderColor" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="NoseSquareFillColor" scadeType="uint8" targetName="NoseSquareFillColor" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="LeftSquareFillColor" scadeType="uint8" targetName="LeftSquareFillColor" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="RightSquareFillColor" scadeType="uint8" targetName="RightSquareFillColor" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="NoseTextColorIndex" scadeType="uint8" targetName="NoseTextColorIndex" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="LeftTextColorIndex" scadeType="uint8" targetName="LeftTextColorIndex" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="RightTextColorIndex" scadeType="uint8" targetName="RightTextColorIndex" targetType="kcg_uint8"/>
+      <Output inCtx="true" scadeName="NoseTextString" scadeType="T_String" targetName="NoseTextString" targetType="T_String"/>
+      <Output inCtx="true" scadeName="LeftTextString" scadeType="T_String" targetName="LeftTextString" targetType="T_String"/>
+      <Output inCtx="true" scadeName="RightTextString" scadeType="T_String" targetName="RightTextString" targetType="T_String"/>
+      <Output inCtx="true" scadeName="StringSize" scadeType="uint16" targetName="StringSize" targetType="kcg_uint16"/>
+      <Output inCtx="true" scadeName="Emit2CDS" scadeType="bool" targetName="Emit2CDS" targetType="kcg_bool"/>
+      <FbyOp instName="1">
+        <Memory inCtx="true" targetName="_L14" targetType="kcg_bool"/>
+      </FbyOp>
+      <NodeInlining instName="1" scadeName="Switch">
+        <Input inCtx="true" scadeName="Input1" scadeType="bool" targetName="LG_UpBtn" targetType="kcg_bool"/>
+        <FbyOp instName="1">
+          <Memory inCtx="true" targetName="_L2_Switch_1" targetType="kcg_bool"/>
+        </FbyOp>
+      </NodeInlining>
+      <NodeInlining instName="2" scadeName="Switch">
+        <Input inCtx="true" scadeName="Input1" scadeType="bool" targetName="LG_FailBtn" targetType="kcg_bool"/>
+        <FbyOp instName="1">
+          <Memory inCtx="true" targetName="_L2_Switch_2" targetType="kcg_bool"/>
+        </FbyOp>
+      </NodeInlining>
+      <Automaton scadeName="SM1" targetStatesType="SSM_ST_SM1" targetTransitionsType="SSM_TR_SM1">
+        <State scadeName="DOWN" targetName="SSM_st_DOWN_SM1">
+          <ActivateIf scadeName="IfBlock2">
+            <Else/>
+            <Then/>
+          </ActivateIf>
+          <Fork priority="1">
+            <Condition/>
+            <Transition kind="strong" scadeDest="TRANSITION" targetName="SSM_TR_DOWN_TRANSITION_1_DOWN_SM1"/>
+          </Fork>
+        </State>
+        <State scadeName="TRANSITION" targetName="SSM_st_TRANSITION_SM1">
+          <FbyOp instName="2">
+            <Init inCtx="true" targetName="init" targetType="kcg_bool"/>
+            <Memory inCtx="true" targetName="_L2_TRANSITION_SM1" targetType="kcg_int32"/>
+          </FbyOp>
+          <ActivateIf scadeName="IfBlock1">
+            <Else/>
+            <Then/>
+          </ActivateIf>
+          <ActivateIf scadeName="IfBlock2">
+            <Else/>
+            <Then/>
+          </ActivateIf>
+          <Fork priority="1">
+            <Condition/>
+            <Transition kind="weak" scadeDest="UP" targetName="SSM_TR_TRANSITION_UP_1_TRANSITION_SM1"/>
+          </Fork>
+          <Fork priority="2">
+            <Condition/>
+            <Transition kind="weak" scadeDest="DOWN" targetName="SSM_TR_TRANSITION_DOWN_2_TRANSITION_SM1"/>
+          </Fork>
+        </State>
+        <State scadeName="UP" targetName="SSM_st_UP_SM1">
+          <ActivateIf scadeName="IfBlock2">
+            <Else/>
+            <Then/>
+          </ActivateIf>
+          <Fork priority="1">
+            <Condition/>
+            <Transition kind="strong" scadeDest="TRANSITION" targetName="SSM_TR_UP_TRANSITION_1_UP_SM1"/>
+          </Fork>
+        </State>
+        <NextState inCtx="true" mem="true" targetName="SM1_state_nxt"/>
+      </Automaton>
+      <Init inCtx="true" targetName="init" targetType="kcg_bool"/>
+      <Memory inCtx="true" targetName="_L2_Switch_1" targetType="kcg_bool"/>
+      <Memory inCtx="true" targetName="_L2_Switch_2" targetType="kcg_bool"/>
+      <Memory inCtx="true" targetName="_L2_TRANSITION_SM1" targetType="kcg_int32"/>
+      <Memory inCtx="true" targetName="_L14" targetType="kcg_bool"/>
+      <OutCtxType targetName="outC_LandingGear"/>
+      <InCtxType targetName="inC_LandingGear"/>
+    </RootNode>
+    <ExpNode scadeName="Switch"/>
+    <ArrayType cellType="kcg_char" size="5" targetCompFct="kcg_comp_T_String" targetCopyFct="kcg_copy_T_String" targetName="T_String"/>
+    <PredefType scadeName="int8" targetName="kcg_int8"/>
+    <PredefType scadeName="int16" targetName="kcg_int16"/>
+    <PredefType scadeName="int32" targetName="kcg_int32"/>
+    <PredefType scadeName="int64" targetName="kcg_int64"/>
+    <PredefType scadeName="uint8" targetName="kcg_uint8"/>
+    <PredefType scadeName="uint16" targetName="kcg_uint16"/>
+    <PredefType scadeName="uint32" targetName="kcg_uint32"/>
+    <PredefType scadeName="uint64" targetName="kcg_uint64"/>
+    <PredefType scadeName="size" targetName="kcg_size"/>
+    <PredefType scadeName="float32" targetName="kcg_float32"/>
+    <PredefType scadeName="float64" targetName="kcg_float64"/>
+    <PredefType scadeName="bool" targetName="kcg_bool"/>
+    <PredefType scadeName="char" targetName="kcg_char"/>
+  </Model>

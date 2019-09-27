@@ -1,0 +1,43 @@
+[scade_version: 2019 R2a]
+[scade_project: C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp]
+[Code Generator]
+e623092a9dbb07c9ffdab41890129be1 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/scade_model_without_unused.scade
+89dc04c7ae685faf3ae110130847f12c C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear.c
+4d823e68b1ce5ba4ada1fc3a09826080 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear.h
+eeb483855ef498bb822ae72822f51940 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/cmd_cg.log
+05a378def71cd7e95e9ab9a25e2c3d37 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/config.txt
+83d5fc3d678f440cffa2c2e0ea6d6179 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_consts.c
+3503c99d367ca90e264e82633fe32f4d C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_consts.h
+656a4d3bc7af0e7a3f1f0b5e92bfe04c C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_files.txt
+c570e85441febaa6f6d5e23e14e58b55 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_imported_types.h
+ee703190795b9e80875e684ef55867a2 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_metrics.txt
+6ef1c7f0ff04069f6cfe37e410ce5515 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_sensors.h
+6274f5affc20c6daf1c9e15bd577e6de C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_types.c
+a4bd5bd2a4c90b71856ed69a8a75dd24 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/kcg_types.h
+e95c9bbd4aaade66775b64e533446a7d C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/mapping.xml
+ae3eb7ab76cdc5ab7228e39b505e73d6 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/user_macros.h
+[Mapping Utils]
+e08b5173afbfe1155d76b5e88c4c79cf C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/mapping.xml
+e35fa38a5c65554f97685971912af758 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuLib.c
+97846ecf46f63ce7853bb421d7471f4a C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuVTable.c
+b45ded3a724381c530371b8dfc8fe788 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp
+ff4acc2ced609a38d855e3527edcd4e2 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear_mapping.c
+65f2ba2f10d664c497c83197fdc08689 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear_mapping.h
+[Simulator Wrapper]
+e08b5173afbfe1155d76b5e88c4c79cf C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/mapping.xml
+b45ded3a724381c530371b8dfc8fe788 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp
+2f389304c0d7972fb879985444ffb501 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear_dll.c
+4fa43287cabb7b4744770d993debf889 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear_interface.c
+e4ec04cac8efff9d35de679e0331e0bc C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear_interface.h
+[Type Utils]
+e08b5173afbfe1155d76b5e88c4c79cf C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/mapping.xml
+e35fa38a5c65554f97685971912af758 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuConfig.c
+63ca1258f2bc557f4914a90547c1afad C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuLib.c
+2ff4b49fd444307fbe2ac67a8132b9ae C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuPredefConv.c
+97846ecf46f63ce7853bb421d7471f4a C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuTypes.c
+fdc236851fcc107ead222892aa7071b4 C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/lib/C/SmuVTable.c
+b45ded3a724381c530371b8dfc8fe788 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/LandingGear.etp
+4d8ff77e9e91c942affa5bfb6cb339e1 C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear_type.c
+70b0e9afc0da2abe876f1b3d65a173ef C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/LandingGear_type.h

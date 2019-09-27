@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** Command: kcg66.exe -config C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/config.txt
+** Generation date: 2019-09-25T14:43:43
+*************************************************************$-->
+<mapping>
+  <config>
+    <option name="use_types" value="#off#"/>
+    <option name="imported_root_package" value="#off#"/>
+    <option name="root_package" value="#off#"/>
+    <option name="xml_basename" value="kcg_xml_filter_out.scade"/>
+    <option name="state_vector" value="#off#"/>
+    <option name="static" value="#off#"/>
+    <option name="separate_io_all" value="#off#"/>
+    <option name="no_separate_io" value="#off#"/>
+    <option name="separate_io" value="#off#"/>
+    <option name="warn_error" value="#off#"/>
+    <option name="short_circuit" value="#off#"/>
+    <option name="wrap_c_ops" value="#off#"/>
+    <option name="input_file"
+        value="C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG/scade_model_without_unused.scade"/>
+    <option name="probes" value="#off#"/>
+    <option name="debug" value="#off#"/>
+    <option name="no_observe" value="#off#"/>
+    <option name="observe" value="#off#"/>
+    <option name="user_config" value="./user_macros.h"/>
+    <option name="input_threshold" value="2"/>
+    <option name="header" value="#off#"/>
+    <option name="significance_length" value="31"/>
+    <option name="name_length" value="200"/>
+    <option name="globals_prefix" value="#off#"/>
+    <option name="keep_asserts" value="#off#"/>
+    <option name="global_root_context" value="#off#"/>
+    <option name="noexp" value="#off#"/>
+    <option name="exp" value="#off#"/>
+    <option name="expall" value="#on#"/>
+    <option name="target_dir" value="C:/Repositorio_ITA/SCADE/ExLab1/landing_gear/LandingGear/KCG"/>
+    <option name="target" value="C"/>
+    <option name="root" value="LandingGear"/>
+    <option name="auth" value="#off#"/>
+  </config>
+  <model>
+    <array id="1" baseType="3" size="5"/>
+    <predefType id="2" name="bool"/>
+    <predefType id="3" name="char"/>
+    <predefType id="4" name="int8"/>
+    <predefType id="5" name="int16"/>
+    <predefType id="6" name="int32"/>
+    <predefType id="7" name="int64"/>
+    <predefType id="8" name="uint8"/>
+    <predefType id="9" name="uint16"/>
+    <predefType id="10" name="uint32"/>
+    <predefType id="11" name="uint64"/>
+    <predefType id="12" name="float32"/>
+    <predefType id="13" name="float64"/>
+    <predefType id="14" name="size"/>
+    <constant id="15" name="LG_DOWN_TEXT" imported="false" type="25"/>
+    <constant id="16" name="STR_SIZE" imported="false" type="9"/>
+    <constant id="17" name="LG_UP_TEXT" imported="false" type="25"/>
+    <constant id="18" name="LG_BTN_NORM_TEXT" imported="false" type="25"/>
+    <constant id="19" name="LG_BTN_FAIL_TEXT" imported="false" type="25"/>
+    <constant id="20" name="GREEN" imported="false" type="8"/>
+    <constant id="21" name="WHITE" imported="false" type="8"/>
+    <constant id="22" name="RED" imported="false" type="8"/>
+    <constant id="23" name="LG_BTN_EMPTY_TEXT" imported="false" type="25"/>
+    <constant id="24" name="AMBAR" imported="false" type="8"/>
+    <type id="25" name="T_String" imported="false" type="1"/>
+    <operator id="26" name="LandingGear" imported="false" root="true" expanded="false">
+      <input id="27" name="LG_UpBtn" clock="false" type="2"/>
+      <input id="28" name="LG_FailBtn" clock="false" type="2"/>
+      <output id="29" name="LG_UpBtnTextString" clock="false" type="25"/>
+      <output id="30" name="LG_FailBtnTextString" clock="false" type="25"/>
+      <output id="31" name="Layer1Active" clock="false" type="2"/>
+      <output id="32" name="Layer1Visible" clock="false" type="2"/>
+      <output id="33" name="NoseSquareBorderColor" clock="false" type="8"/>
+      <output id="34" name="LeftSquareBorderColor" clock="false" type="8"/>
+      <output id="35" name="RightSquareBorderColor" clock="false" type="8"/>
+      <output id="36" name="NoseSquareFillColor" clock="false" type="8"/>
+      <output id="37" name="LeftSquareFillColor" clock="false" type="8"/>
+      <output id="38" name="RightSquareFillColor" clock="false" type="8"/>
+      <output id="39" name="NoseTextColorIndex" clock="false" type="8"/>
+      <output id="40" name="LeftTextColorIndex" clock="false" type="8"/>
+      <output id="41" name="RightTextColorIndex" clock="false" type="8"/>
+      <output id="42" name="NoseTextString" clock="false" type="25"/>
+      <output id="43" name="LeftTextString" clock="false" type="25"/>
+      <output id="44" name="RightTextString" clock="false" type="25"/>
+      <output id="45" name="StringSize" clock="false" type="9"/>
+      <output id="46" name="Emit2CDS" clock="false" type="2"/>
+      <fby id="47" name="1"/>
+      <instance id="48" name="1" op="81" expanded="true">
+        <input id="49" name="Input1" clock="false" type="2"/>
+        <output id="50" name="Output1" clock="false" type="2"/>
+        <fby id="51" name="1"/>
+      </instance>
+      <instance id="52" name="2" op="81" expanded="true">
+        <input id="53" name="Input1" clock="false" type="2"/>
+        <output id="54" name="Output1" clock="false" type="2"/>
+        <fby id="55" name="1"/>
+      </instance>
+      <automaton id="56" name="SM1">
+        <state id="57" name="DOWN" initial="true" final="false" default="false">
+          <block id="58" name="IfBlock2" type="2">
+            <branch id="59" name="else"/>
+            <branch id="60" name="then"/>
+          </block>
+          <fork id="61" name="1" kind="strong">
+            <transition id="62" dest="63"/>
+          </fork>
+        </state>
+        <state id="63" name="TRANSITION" initial="false" final="false" default="false">
+          <fby id="64" name="2"/>
+          <block id="65" name="IfBlock1" type="2">
+            <branch id="66" name="else"/>
+            <branch id="67" name="then"/>
+          </block>
+          <block id="68" name="IfBlock2" type="2">
+            <branch id="69" name="else"/>
+            <branch id="70" name="then"/>
+          </block>
+          <fork id="71" name="1" kind="weak">
+            <transition id="72" dest="75"/>
+          </fork>
+          <fork id="73" name="2" kind="weak">
+            <transition id="74" dest="57"/>
+          </fork>
+        </state>
+        <state id="75" name="UP" initial="false" final="false" default="false">
+          <block id="76" name="IfBlock2" type="2">
+            <branch id="77" name="else"/>
+            <branch id="78" name="then"/>
+          </block>
+          <fork id="79" name="1" kind="strong">
+            <transition id="80" dest="63"/>
+          </fork>
+        </state>
+      </automaton>
+    </operator>
+    <operator id="81" name="Switch" imported="false" root="false" expanded="true"/>
+  </model>
+  <generated>
+    <c>
+      <file id="82" name="LandingGear.h">
+        <function id="83" name="LandingGear_init">
+          <parameter id="84" name="outC" type="90" pointer="true"/>
+        </function>
+        <function id="85" name="LandingGear_reset">
+          <parameter id="86" name="outC" type="90" pointer="true"/>
+        </function>
+        <function id="87" name="LandingGear">
+          <parameter id="88" name="inC" type="115" pointer="true"/>
+          <parameter id="89" name="outC" type="90" pointer="true"/>
+        </function>
+        <struct id="90" name="outC_LandingGear">
+          <field id="91" name="LG_UpBtnTextString" type="124" pointer="false"/>
+          <field id="92" name="LG_FailBtnTextString" type="124" pointer="false"/>
+          <field id="93" name="Layer1Active" type="169" pointer="false"/>
+          <field id="94" name="Layer1Visible" type="169" pointer="false"/>
+          <field id="95" name="NoseSquareBorderColor" type="162" pointer="false"/>
+          <field id="96" name="LeftSquareBorderColor" type="162" pointer="false"/>
+          <field id="97" name="RightSquareBorderColor" type="162" pointer="false"/>
+          <field id="98" name="NoseSquareFillColor" type="162" pointer="false"/>
+          <field id="99" name="LeftSquareFillColor" type="162" pointer="false"/>
+          <field id="100" name="RightSquareFillColor" type="162" pointer="false"/>
+          <field id="101" name="NoseTextColorIndex" type="162" pointer="false"/>
+          <field id="102" name="LeftTextColorIndex" type="162" pointer="false"/>
+          <field id="103" name="RightTextColorIndex" type="162" pointer="false"/>
+          <field id="104" name="NoseTextString" type="124" pointer="false"/>
+          <field id="105" name="LeftTextString" type="124" pointer="false"/>
+          <field id="106" name="RightTextString" type="124" pointer="false"/>
+          <field id="107" name="StringSize" type="163" pointer="false"/>
+          <field id="108" name="Emit2CDS" type="169" pointer="false"/>
+          <field id="109" name="init" type="169" pointer="false"/>
+          <field id="110" name="_L2_Switch_1" type="169" pointer="false"/>
+          <field id="111" name="_L2_Switch_2" type="169" pointer="false"/>
+          <field id="112" name="_L2_TRANSITION_SM1" type="160" pointer="false"/>
+          <field id="113" name="SM1_state_nxt" type="125" pointer="false"/>
+          <field id="114" name="_L14" type="169" pointer="false"/>
+        </struct>
+        <struct id="115" name="inC_LandingGear">
+          <field id="116" name="LG_UpBtn" type="169" pointer="false"/>
+          <field id="117" name="LG_FailBtn" type="169" pointer="false"/>
+        </struct>
+      </file>
+      <file id="118" name="kcg_types.h">
+        <ifdef id="119" name="kcg_use_T_String">
+          <function id="120" name="kcg_comp_T_String" returnType="169">
+            <parameter id="121" name="kcg_c1" type="124" pointer="true"/>
+            <parameter id="122" name="kcg_c2" type="124" pointer="true"/>
+          </function>
+        </ifdef>
+        <macro id="123" name="kcg_copy_T_String"/>
+        <array id="124" name="T_String" baseType="170" size="5"/>
+        <enum id="125" name="SSM_ST_SM1" tagName="kcg_tag_SSM_ST_SM1">
+          <value id="126" name="SSM_st_DOWN_SM1"/>
+          <value id="127" name="SSM_st_TRANSITION_SM1"/>
+          <value id="128" name="SSM_st_UP_SM1"/>
+        </enum>
+        <enum id="129" name="SSM_TR_SM1" tagName="kcg_tag_SSM_TR_SM1">
+          <value id="130" name="SSM_TR_no_trans_SM1"/>
+          <value id="131" name="SSM_TR_DOWN_TRANSITION_1_DOWN_SM1"/>
+          <value id="132" name="SSM_TR_TRANSITION_UP_1_TRANSITION_SM1"/>
+          <value id="133" name="SSM_TR_TRANSITION_DOWN_2_TRANSITION_SM1"/>
+          <value id="134" name="SSM_TR_UP_TRANSITION_1_UP_SM1"/>
+        </enum>
+        <macro id="135" name="kcg_assign_array"/>
+        <macro id="136" name="kcg_assign_struct"/>
+        <macro id="137" name="kcg_lnot_uint8"/>
+        <macro id="138" name="kcg_lnot_uint16"/>
+        <macro id="139" name="kcg_lnot_uint32"/>
+        <macro id="140" name="kcg_lnot_uint64"/>
+        <macro id="141" name="kcg_lsl_uint8"/>
+        <macro id="142" name="kcg_lsl_uint16"/>
+        <macro id="143" name="kcg_lsl_uint32"/>
+        <macro id="144" name="kcg_lsl_uint64"/>
+        <macro id="145" name="kcg_true"/>
+        <macro id="146" name="kcg_false"/>
+        <macro id="147" name="kcg_lit_int8"/>
+        <macro id="148" name="kcg_lit_int16"/>
+        <macro id="149" name="kcg_lit_int32"/>
+        <macro id="150" name="kcg_lit_int64"/>
+        <macro id="151" name="kcg_lit_uint8"/>
+        <macro id="152" name="kcg_lit_uint16"/>
+        <macro id="153" name="kcg_lit_uint32"/>
+        <macro id="154" name="kcg_lit_uint64"/>
+        <macro id="155" name="kcg_lit_size"/>
+        <macro id="156" name="kcg_lit_float64"/>
+        <macro id="157" name="kcg_lit_float32"/>
+        <predefType id="158" name="kcg_int8"/>
+        <predefType id="159" name="kcg_int16"/>
+        <predefType id="160" name="kcg_int32"/>
+        <predefType id="161" name="kcg_int64"/>
+        <predefType id="162" name="kcg_uint8"/>
+        <predefType id="163" name="kcg_uint16"/>
+        <predefType id="164" name="kcg_uint32"/>
+        <predefType id="165" name="kcg_uint64"/>
+        <predefType id="166" name="kcg_size"/>
+        <predefType id="167" name="kcg_float64"/>
+        <predefType id="168" name="kcg_float32"/>
+        <predefType id="169" name="kcg_bool"/>
+        <predefType id="170" name="kcg_char"/>
+        <macro id="171" name="KCG_MAPW_CPY"/>
+      </file>
+      <file id="172" name="kcg_consts.h">
+        <macro id="173" name="STR_SIZE" type="163"/>
+        <constant id="174" name="LG_DOWN_TEXT" type="124" pointer="false"/>
+        <constant id="175" name="LG_UP_TEXT" type="124" pointer="false"/>
+        <constant id="176" name="LG_BTN_NORM_TEXT" type="124" pointer="false"/>
+        <constant id="177" name="LG_BTN_FAIL_TEXT" type="124" pointer="false"/>
+        <macro id="178" name="GREEN" type="162"/>
+        <macro id="179" name="WHITE" type="162"/>
+        <macro id="180" name="RED" type="162"/>
+        <constant id="181" name="LG_BTN_EMPTY_TEXT" type="124" pointer="false"/>
+        <macro id="182" name="AMBAR" type="162"/>
+      </file>
+      <file id="183" name="kcg_sensors.h"/>
+    </c>
+    <map srcId="167" dstId="156" role="wrapped-lit"/>
+    <map srcId="168" dstId="157" role="wrapped-lit"/>
+    <map srcId="166" dstId="155" role="wrapped-lit"/>
+    <map srcId="165" dstId="154" role="wrapped-lit"/>
+    <map srcId="165" dstId="140" role="wrapped-lnot"/>
+    <map srcId="165" dstId="144" role="wrapped-lsl"/>
+    <map srcId="164" dstId="153" role="wrapped-lit"/>
+    <map srcId="164" dstId="139" role="wrapped-lnot"/>
+    <map srcId="164" dstId="143" role="wrapped-lsl"/>
+    <map srcId="163" dstId="152" role="wrapped-lit"/>
+    <map srcId="163" dstId="138" role="wrapped-lnot"/>
+    <map srcId="163" dstId="142" role="wrapped-lsl"/>
+    <map srcId="162" dstId="151" role="wrapped-lit"/>
+    <map srcId="162" dstId="137" role="wrapped-lnot"/>
+    <map srcId="162" dstId="141" role="wrapped-lsl"/>
+    <map srcId="161" dstId="150" role="wrapped-lit"/>
+    <map srcId="160" dstId="149" role="wrapped-lit"/>
+    <map srcId="159" dstId="148" role="wrapped-lit"/>
+    <map srcId="158" dstId="147" role="wrapped-lit"/>
+    <map srcId="124" dstId="119" role="type-use"/>
+    <map srcId="124" dstId="120" role="type-comparison"/>
+    <map srcId="124" dstId="123" role="type-copy"/>
+  </generated>
+  <map modelId="74" generatedId="133"/>
+  <map modelId="72" generatedId="132"/>
+  <map modelId="57" generatedId="126"/>
+  <map modelId="62" generatedId="131"/>
+  <map modelId="56" generatedId="130" role="autom-no-trans-enum"/>
+  <map modelId="75" generatedId="128"/>
+  <map modelId="80" generatedId="134"/>
+  <map modelId="63" generatedId="127"/>
+  <map modelId="26" generatedId="84" role="context-parameter"/>
+  <map modelId="26" generatedId="83" role="init-method"/>
+  <map modelId="26" generatedId="86" role="context-parameter"/>
+  <map modelId="26" generatedId="85" role="reset-method"/>
+  <map modelId="26" generatedId="88" role="input-struct-parameter"/>
+  <map modelId="28" generatedId="117"/>
+  <map modelId="53" generatedId="117"/>
+  <map modelId="27" generatedId="116"/>
+  <map modelId="49" generatedId="116"/>
+  <map modelId="26" generatedId="115" role="input-struct-type"/>
+  <map modelId="26" generatedId="89" role="context-parameter"/>
+  <map modelId="47" generatedId="114" role="memory"/>
+  <map modelId="56" generatedId="113" role="autom-next-state"/>
+  <map modelId="64" generatedId="112" role="memory"/>
+  <map modelId="55" generatedId="111" role="memory"/>
+  <map modelId="51" generatedId="110" role="memory"/>
+  <map modelId="64" generatedId="109" role="init"/>
+  <map modelId="46" generatedId="108"/>
+  <map modelId="45" generatedId="107"/>
+  <map modelId="44" generatedId="106"/>
+  <map modelId="43" generatedId="105"/>
+  <map modelId="42" generatedId="104"/>
+  <map modelId="41" generatedId="103"/>
+  <map modelId="40" generatedId="102"/>
+  <map modelId="39" generatedId="101"/>
+  <map modelId="38" generatedId="100"/>
+  <map modelId="37" generatedId="99"/>
+  <map modelId="36" generatedId="98"/>
+  <map modelId="35" generatedId="97"/>
+  <map modelId="34" generatedId="96"/>
+  <map modelId="33" generatedId="95"/>
+  <map modelId="32" generatedId="94"/>
+  <map modelId="31" generatedId="93"/>
+  <map modelId="30" generatedId="92"/>
+  <map modelId="29" generatedId="91"/>
+  <map modelId="26" generatedId="90" role="context-type"/>
+  <map modelId="26" generatedId="82" role="interface-file"/>
+  <map modelId="26" generatedId="87" role="cycle-method"/>
+  <map modelId="24" generatedId="182"/>
+  <map modelId="23" generatedId="181"/>
+  <map modelId="22" generatedId="180"/>
+  <map modelId="21" generatedId="179"/>
+  <map modelId="20" generatedId="178"/>
+  <map modelId="19" generatedId="177"/>
+  <map modelId="18" generatedId="176"/>
+  <map modelId="17" generatedId="175"/>
+  <map modelId="15" generatedId="174"/>
+  <map modelId="16" generatedId="173"/>
+  <map modelId="56" generatedId="129" role="autom-transitions-type"/>
+  <map modelId="56" generatedId="125" role="autom-states-type"/>
+  <map modelId="25" generatedId="124"/>
+  <map modelId="1" generatedId="124"/>
+  <map modelId="3" generatedId="170"/>
+  <map modelId="2" generatedId="169"/>
+  <map modelId="13" generatedId="167"/>
+  <map modelId="12" generatedId="168"/>
+  <map modelId="14" generatedId="166"/>
+  <map modelId="11" generatedId="165"/>
+  <map modelId="10" generatedId="164"/>
+  <map modelId="9" generatedId="163"/>
+  <map modelId="8" generatedId="162"/>
+  <map modelId="7" generatedId="161"/>
+  <map modelId="6" generatedId="160"/>
+  <map modelId="5" generatedId="159"/>
+  <map modelId="4" generatedId="158"/>
+</mapping>
+<!--$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** mapping.xml
+** Generation date: 2019-09-25T14:43:43
+*************************************************************$-->

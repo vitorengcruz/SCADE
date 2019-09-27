@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MappingFile>
+	 	<operatorMappings>
+		<OperatorMapping name="LandingGear" oid="!ed/4ae7/74AA/628/5d8a1d84eae">
+			<mappingItems>
+				<MappingItem>
+					<output>
+						<Variable name="Layer1Active" type="bool" oid="!ed/4b00/74AA/628/5d8a1ebb2c06" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_REQ_LAYER_ACTIVE name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" LayerIdent="1" WidgetIdent="-1" ParameterIdent="A661_REQ_LAYER_ACTIVE">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_REQ_LAYER_ACTIVE>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="Layer1Visible" type="bool" oid="!ed/4b01/74AA/628/5d8a1ed23cb3" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_REQ_LAYER_VISIBLE name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" LayerIdent="1" WidgetIdent="-1" ParameterIdent="A661_REQ_LAYER_VISIBLE">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_REQ_LAYER_VISIBLE>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="NoseSquareBorderColor" type="uint8" oid="!ed/4b02/74AA/628/5d8a1ee245f3" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="ColorIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="ca5c4312-6785-429f-b145-11bf8da8611d" LayerIdent="1" WidgetIdent="1" ParameterIdent="A661_COLOR_INDEX" WidgetType="GpRectangle" WidgetName="Nose_GpRectangle">
+							<A661Data>
+								<DataField value="ColorIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="Emit2CDS" type="bool" oid="!ed/4b7a/74AA/628/5d8a1fec37f2" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="ca5c4312-6785-429f-b145-11bf8da8611d" LayerIdent="1" WidgetIdent="1" ParameterIdent="A661_COLOR_INDEX" WidgetType="GpRectangle" WidgetName="Nose_GpRectangle">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="ca5c4312-6785-429f-b145-11bf8da8611d" LayerIdent="1" WidgetIdent="1" ParameterIdent="A661_FILL_INDEX" WidgetType="GpRectangle" WidgetName="Nose_GpRectangle">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="82a0e87c-9bda-4a49-8898-2e7f78fc6d98" LayerIdent="1" WidgetIdent="2" ParameterIdent="A661_COLOR_INDEX" WidgetType="GpRectangle" WidgetName="Left_GpRectangle">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="82a0e87c-9bda-4a49-8898-2e7f78fc6d98" LayerIdent="1" WidgetIdent="2" ParameterIdent="A661_FILL_INDEX" WidgetType="GpRectangle" WidgetName="Left_GpRectangle">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="b38e36b4-b036-43e2-846c-5761179819a2" LayerIdent="1" WidgetIdent="3" ParameterIdent="A661_COLOR_INDEX" WidgetType="GpRectangle" WidgetName="Right_GpRectangle">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="b38e36b4-b036-43e2-846c-5761179819a2" LayerIdent="1" WidgetIdent="3" ParameterIdent="A661_FILL_INDEX" WidgetType="GpRectangle" WidgetName="Right_GpRectangle">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="eeb6a4ec-550e-4df7-9d5b-53bbad4cfe31" LayerIdent="1" WidgetIdent="4" ParameterIdent="A661_COLOR_INDEX" WidgetType="Label" WidgetName="Nose_Label">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="eeb6a4ec-550e-4df7-9d5b-53bbad4cfe31" LayerIdent="1" WidgetIdent="4" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Nose_Label">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="72c7562b-ba5e-4f9d-9def-59a8e802304c" LayerIdent="1" WidgetIdent="5" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Left_Label">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="72c7562b-ba5e-4f9d-9def-59a8e802304c" LayerIdent="1" WidgetIdent="5" ParameterIdent="A661_COLOR_INDEX" WidgetType="Label" WidgetName="Left_Label">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="4161e00a-d0a7-4954-8c2d-f5e67ea84dcf" LayerIdent="1" WidgetIdent="6" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Right_Label">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="4161e00a-d0a7-4954-8c2d-f5e67ea84dcf" LayerIdent="1" WidgetIdent="6" ParameterIdent="A661_COLOR_INDEX" WidgetType="Label" WidgetName="Right_Label">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="73a5c310-3121-491b-96f3-c9bb09a6a2c4" LayerIdent="1" WidgetIdent="7" ParameterIdent="A661_STRING" WidgetType="PushButton" WidgetName="LG_Up_PushButton">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="Emit" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="23222398-db9d-4d0f-b067-7235870a084e" LayerIdent="1" WidgetIdent="8" ParameterIdent="A661_STRING" WidgetType="PushButton" WidgetName="LG_Fail_PushButton">
+							<A661Data>
+								<Emit/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="NoseSquareFillColor" type="uint8" oid="!ed/4b1d/74AA/628/5d8a1f3449a2" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="FillIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="ca5c4312-6785-429f-b145-11bf8da8611d" LayerIdent="1" WidgetIdent="1" ParameterIdent="A661_FILL_INDEX" WidgetType="GpRectangle" WidgetName="Nose_GpRectangle">
+							<A661Data>
+								<DataField value="FillIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="LeftSquareBorderColor" type="uint8" oid="!ed/4b0b/74AA/628/5d8a1eff85d" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="ColorIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="82a0e87c-9bda-4a49-8898-2e7f78fc6d98" LayerIdent="1" WidgetIdent="2" ParameterIdent="A661_COLOR_INDEX" WidgetType="GpRectangle" WidgetName="Left_GpRectangle">
+							<A661Data>
+								<DataField value="ColorIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="LeftSquareFillColor" type="uint8" oid="!ed/4b26/74AA/628/5d8a1f46152" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="FillIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="82a0e87c-9bda-4a49-8898-2e7f78fc6d98" LayerIdent="1" WidgetIdent="2" ParameterIdent="A661_FILL_INDEX" WidgetType="GpRectangle" WidgetName="Left_GpRectangle">
+							<A661Data>
+								<DataField value="FillIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="RightSquareBorderColor" type="uint8" oid="!ed/4b14/74AA/628/5d8a1f1b451" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="ColorIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="b38e36b4-b036-43e2-846c-5761179819a2" LayerIdent="1" WidgetIdent="3" ParameterIdent="A661_COLOR_INDEX" WidgetType="GpRectangle" WidgetName="Right_GpRectangle">
+							<A661Data>
+								<DataField value="ColorIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="RightSquareFillColor" type="uint8" oid="!ed/4b2f/74AA/628/5d8a1f5b7835" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="FillIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="b38e36b4-b036-43e2-846c-5761179819a2" LayerIdent="1" WidgetIdent="3" ParameterIdent="A661_FILL_INDEX" WidgetType="GpRectangle" WidgetName="Right_GpRectangle">
+							<A661Data>
+								<DataField value="FillIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="NoseTextColorIndex" type="uint8" oid="!ed/4b38/74AA/628/5d8a1f6c5b27" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="ColorIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="eeb6a4ec-550e-4df7-9d5b-53bbad4cfe31" LayerIdent="1" WidgetIdent="4" ParameterIdent="A661_COLOR_INDEX" WidgetType="Label" WidgetName="Nose_Label">
+							<A661Data>
+								<DataField value="ColorIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="NoseTextString" type="T_String" oid="!ed/4b53/74AA/628/5d8a1fb2b25" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="LabelString" type="str" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="eeb6a4ec-550e-4df7-9d5b-53bbad4cfe31" LayerIdent="1" WidgetIdent="4" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Nose_Label">
+							<A661Data>
+								<DataField value="LabelString"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="StringSize" type="uint16" oid="!ed/4b71/74AA/628/5d8a1fe01a96" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="String_size" type="ushort" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="eeb6a4ec-550e-4df7-9d5b-53bbad4cfe31" LayerIdent="1" WidgetIdent="4" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Nose_Label">
+							<A661Data>
+								<DataField value="String_size"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="String_size" type="ushort" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="72c7562b-ba5e-4f9d-9def-59a8e802304c" LayerIdent="1" WidgetIdent="5" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Left_Label">
+							<A661Data>
+								<DataField value="String_size"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="String_size" type="ushort" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="4161e00a-d0a7-4954-8c2d-f5e67ea84dcf" LayerIdent="1" WidgetIdent="6" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Right_Label">
+							<A661Data>
+								<DataField value="String_size"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="String_size" type="ushort" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="73a5c310-3121-491b-96f3-c9bb09a6a2c4" LayerIdent="1" WidgetIdent="7" ParameterIdent="A661_STRING" WidgetType="PushButton" WidgetName="LG_Up_PushButton">
+							<A661Data>
+								<DataField value="String_size"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+						<A661_CMD_SET_PARAMETER name="String_size" type="ushort" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="23222398-db9d-4d0f-b067-7235870a084e" LayerIdent="1" WidgetIdent="8" ParameterIdent="A661_STRING" WidgetType="PushButton" WidgetName="LG_Fail_PushButton">
+							<A661Data>
+								<DataField value="String_size"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="LeftTextColorIndex" type="uint8" oid="!ed/4b41/74AA/628/5d8a1f816b99" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="ColorIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="72c7562b-ba5e-4f9d-9def-59a8e802304c" LayerIdent="1" WidgetIdent="5" ParameterIdent="A661_COLOR_INDEX" WidgetType="Label" WidgetName="Left_Label">
+							<A661Data>
+								<DataField value="ColorIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="LeftTextString" type="T_String" oid="!ed/4b5d/74AA/628/5d8a1fc04321" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="LabelString" type="str" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="72c7562b-ba5e-4f9d-9def-59a8e802304c" LayerIdent="1" WidgetIdent="5" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Left_Label">
+							<A661Data>
+								<DataField value="LabelString"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="RightTextColorIndex" type="uint8" oid="!ed/4b4a/74AA/628/5d8a1fa4171" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="ColorIndex" type="uchar" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="4161e00a-d0a7-4954-8c2d-f5e67ea84dcf" LayerIdent="1" WidgetIdent="6" ParameterIdent="A661_COLOR_INDEX" WidgetType="Label" WidgetName="Right_Label">
+							<A661Data>
+								<DataField value="ColorIndex"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="RightTextString" type="T_String" oid="!ed/4b67/74AA/628/5d8a1fd359dd" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="LabelString" type="str" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="4161e00a-d0a7-4954-8c2d-f5e67ea84dcf" LayerIdent="1" WidgetIdent="6" ParameterIdent="A661_STRING" WidgetType="Label" WidgetName="Right_Label">
+							<A661Data>
+								<DataField value="LabelString"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<A661_NOTIFY_WIDGET_EVENT name="Notify" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="73a5c310-3121-491b-96f3-c9bb09a6a2c4" LayerIdent="1" WidgetIdent="7" ParameterIdent="A661_EVT_SELECTION" WidgetType="PushButton" WidgetName="LG_Up_PushButton">
+							<A661Data>
+								<Notify/>
+							</A661Data>
+						</A661_NOTIFY_WIDGET_EVENT>
+					</output>
+					<inputs>
+						<Variable name="LG_UpBtn" type="bool" oid="!ed/4ae9/74AA/628/5d8a1e2d71de" instancepath="LandingGear/"/>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="LG_UpBtnTextString" type="T_String" oid="!ed/4aeb/74AA/628/5d8a1e75a3a" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="LabelString" type="str" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="73a5c310-3121-491b-96f3-c9bb09a6a2c4" LayerIdent="1" WidgetIdent="7" ParameterIdent="A661_STRING" WidgetType="PushButton" WidgetName="LG_Up_PushButton">
+							<A661Data>
+								<DataField value="LabelString"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<A661_NOTIFY_WIDGET_EVENT name="Notify" type="a661_bool" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="23222398-db9d-4d0f-b067-7235870a084e" LayerIdent="1" WidgetIdent="8" ParameterIdent="A661_EVT_SELECTION" WidgetType="PushButton" WidgetName="LG_Fail_PushButton">
+							<A661Data>
+								<Notify/>
+							</A661Data>
+						</A661_NOTIFY_WIDGET_EVENT>
+					</output>
+					<inputs>
+						<Variable name="LG_FailBtn" type="bool" oid="!ed/4aea/74AA/628/5d8a1e674dca" instancepath="LandingGear/"/>
+					</inputs>
+				</MappingItem>
+				<MappingItem>
+					<output>
+						<Variable name="LG_FailBtnTextString" type="T_String" oid="!ed/4af6/74AA/628/5d8a1ea34d7e" instancepath="LandingGear/"/>
+					</output>
+					<inputs>
+						<A661_CMD_SET_PARAMETER name="LabelString" type="str" pathname="..\LG.sgfx" layer="a661_layer" layerOid="bac434fe-5e58-45bb-8ed0-9f8c134d7cb1" widgetOid="23222398-db9d-4d0f-b067-7235870a084e" LayerIdent="1" WidgetIdent="8" ParameterIdent="A661_STRING" WidgetType="PushButton" WidgetName="LG_Fail_PushButton">
+							<A661Data>
+								<DataField value="LabelString"/>
+							</A661Data>
+						</A661_CMD_SET_PARAMETER>
+					</inputs>
+				</MappingItem>
+			</mappingItems>
+		</OperatorMapping>
+	</operatorMappings>
+</MappingFile>

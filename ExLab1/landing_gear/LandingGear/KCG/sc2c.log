@@ -1,0 +1,38 @@
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-09-25T14:43:35
+** Command: scade -code "C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\LandingGear.etp" -root LandingGear -conf KCG
+*************************************************************$
+*** Generated Files Information (GENFIL): KCG- Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\mapping.xml, line 0, character 0
+ ~mapping.xml
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\kcg_metrics.txt, line 0, character 0
+ ~kcg_metrics.txt
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\LandingGear.c, line 0, character 0
+ ~LandingGear.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\LandingGear.h, line 0, character 0
+ ~LandingGear.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\kcg_types.h, line 0, character 0
+ ~kcg_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\kcg_consts.h, line 0, character 0
+ ~kcg_consts.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\kcg_sensors.h, line 0, character 0
+ ~kcg_sensors.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\kcg_types.c, line 0, character 0
+ ~kcg_types.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\kcg_consts.c, line 0, character 0
+ ~kcg_consts.c
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\config.txt, line 0, character 0
+ ~config.txt
+*** Generated Files Information (GENFIL): Code Generator Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\user_macros.h, line 0, character 0
+ ~user_macros.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\kcg_imported_types.h, line 0, character 0
+ ~kcg_imported_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\sc2c.log, line 0, character 0
+ ~sc2c.log
+  at file C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LandingGear\KCG\sc2c_integration_files.txt, line 0, character 0
+ ~sc2c_integration_files.txt
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-09-25T14:43:44
+** sc2c.log
+*************************************************************$
