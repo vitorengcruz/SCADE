@@ -79,6 +79,7 @@
 			<value>52</value>
 		</Prop>
 		<Prop id="54" name="@SDYREP:CONFSOURCE">
+			<value>LG.sgfx</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="55" name="@SDY:@SDYREP:OUTPUT">
@@ -196,7 +197,7 @@ $(CreatedDate)</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="84" name="@SDYREP:FORMAT">
-			<value>HTML</value>
+			<value>RTF</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="85" name="@SDYREP:TRANSPSCREENSHOTS">

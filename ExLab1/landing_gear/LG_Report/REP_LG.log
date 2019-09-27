@@ -25,7 +25,7 @@ Reporter Properties:
 - @SDYREP:FOOTERCENTER: <Corporate Info>
 - @SDYREP:FOOTERLEFT: 
 - @SDYREP:FOOTERRIGHT: 
-- @SDYREP:FORMAT: HTML
+- @SDYREP:FORMAT: RTF
 - @SDYREP:HEADERCENTER: $(IssueNr)
 - @SDYREP:HEADERLEFT: $(ReferenceNr)
 $(CreatedDate)

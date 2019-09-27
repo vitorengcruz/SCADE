@@ -393,7 +393,7 @@
 			<configuration>36</configuration>
 		</Prop>
 		<Prop id="116" name="@REPORTER:DOCUMENT">
-			<value>C:\Repositorio_ITA\SCADE\ExLab1\landing_gear\LG_Report\LG.rtf</value>
+			<value>Landing_gear</value>
 			<configuration>41</configuration>
 		</Prop>
 	</props>
