@@ -1,0 +1,3 @@
+-target_dir "C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/KCG" -expall -target C -name_length 200 -significance_length 31 -user_config "./user_macros.h" -input_threshold 2 
+-root Main
+"C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/KCG/scade_model_without_unused.scade"

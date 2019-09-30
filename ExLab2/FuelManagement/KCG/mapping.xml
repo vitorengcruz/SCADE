@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** Command: kcg66.exe -config C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/KCG/config.txt
+** Generation date: 2019-09-29T22:23:11
+*************************************************************$-->
+<mapping>
+  <config>
+    <option name="use_types" value="#off#"/>
+    <option name="imported_root_package" value="#off#"/>
+    <option name="root_package" value="#off#"/>
+    <option name="xml_basename" value="kcg_xml_filter_out.scade"/>
+    <option name="state_vector" value="#off#"/>
+    <option name="static" value="#off#"/>
+    <option name="separate_io_all" value="#off#"/>
+    <option name="no_separate_io" value="#off#"/>
+    <option name="separate_io" value="#off#"/>
+    <option name="warn_error" value="#off#"/>
+    <option name="short_circuit" value="#off#"/>
+    <option name="wrap_c_ops" value="#off#"/>
+    <option name="input_file" value="C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/KCG/scade_model_without_unused.scade"/>
+    <option name="probes" value="#off#"/>
+    <option name="debug" value="#off#"/>
+    <option name="no_observe" value="#off#"/>
+    <option name="observe" value="#off#"/>
+    <option name="user_config" value="./user_macros.h"/>
+    <option name="input_threshold" value="2"/>
+    <option name="header" value="#off#"/>
+    <option name="significance_length" value="31"/>
+    <option name="name_length" value="200"/>
+    <option name="globals_prefix" value="#off#"/>
+    <option name="keep_asserts" value="#off#"/>
+    <option name="global_root_context" value="#off#"/>
+    <option name="noexp" value="#off#"/>
+    <option name="exp" value="#off#"/>
+    <option name="expall" value="#on#"/>
+    <option name="target_dir" value="C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/KCG"/>
+    <option name="target" value="C"/>
+    <option name="root" value="Main"/>
+    <option name="auth" value="#off#"/>
+  </config>
+  <model>
+    <struct id="1">
+      <field id="2" name="Emit" type="10"/>
+      <field id="3" name="Value" type="10"/>
+    </struct>
+    <struct id="4">
+      <field id="5" name="Emit" type="10"/>
+      <field id="6" name="Value" type="18"/>
+    </struct>
+    <struct id="7">
+      <field id="8" name="Emit" type="10"/>
+      <field id="9" name="Value" type="16"/>
+    </struct>
+    <predefType id="10" name="bool"/>
+    <predefType id="11" name="char"/>
+    <predefType id="12" name="int8"/>
+    <predefType id="13" name="int16"/>
+    <predefType id="14" name="int32"/>
+    <predefType id="15" name="int64"/>
+    <predefType id="16" name="uint8"/>
+    <predefType id="17" name="uint16"/>
+    <predefType id="18" name="uint32"/>
+    <predefType id="19" name="uint64"/>
+    <predefType id="20" name="float32"/>
+    <predefType id="21" name="float64"/>
+    <predefType id="22" name="size"/>
+    <constant id="23" name="MAX_FUEL_LEVEL" imported="false" type="18"/>
+    <constant id="24" name="FUEL_INCREMENT" imported="false" type="18"/>
+    <constant id="25" name="FUEL_LEVEL_OFFSET" imported="false" type="18"/>
+    <constant id="26" name="OPEN_ID" imported="false" type="18"/>
+    <constant id="27" name="A661_TRUE" imported="false" type="10"/>
+    <constant id="28" name="A661_FALSE" imported="false" type="10"/>
+    <constant id="29" name="ALCOHOL_COLOR" imported="false" type="16"/>
+    <constant id="30" name="DIESEL_COLOR" imported="false" type="16"/>
+    <constant id="31" name="GASOLINE_COLOR" imported="false" type="16"/>
+    <constant id="32" name="CLOSED_ID" imported="false" type="18"/>
+    <type id="33" name="BoolMsg" imported="false" type="1"/>
+    <type id="34" name="intMsg" imported="false" type="4"/>
+    <type id="35" name="intMsg2" imported="false" type="7"/>
+    <operator id="36" name="Main" imported="false" root="true" expanded="false">
+      <input id="37" name="TankStatus" clock="false" type="10"/>
+      <input id="38" name="FuelType" clock="false" type="17"/>
+      <input id="39" name="Refuel" clock="false" type="10"/>
+      <input id="40" name="EmptyTank" clock="false" type="10"/>
+      <output id="41" name="LayerVisible" clock="false" type="10"/>
+      <output id="42" name="FuelVisible" clock="false" type="33"/>
+      <output id="43" name="FuelLevel" clock="false" type="34"/>
+      <output id="44" name="RefuelEnable" clock="false" type="33"/>
+      <output id="45" name="FuelTypeEnable" clock="false" type="33"/>
+      <output id="46" name="TankFullVisible" clock="false" type="33"/>
+      <output id="47" name="FuelColor" clock="false" type="35"/>
+      <instance id="48" name="1" op="79" expanded="true">
+        <output id="49" name="LayerVisible" clock="false" type="10"/>
+        <fby id="50" name="1"/>
+      </instance>
+      <instance id="51" name="1" op="80" expanded="true">
+        <input id="52" name="Refuel" clock="false" type="10"/>
+        <input id="53" name="Empty" clock="false" type="10"/>
+        <output id="54" name="FuelLevelValue" clock="false" type="18"/>
+        <fby id="55" name="1"/>
+      </instance>
+      <instance id="56" name="1" op="81" expanded="true">
+        <input id="57" name="FuelType" clock="false" type="17"/>
+        <input id="58" name="FuelStatus" clock="false" type="18"/>
+        <input id="59" name="FuelLevelValue" clock="false" type="18"/>
+        <output id="60" name="RefuelEnable" clock="false" type="33"/>
+        <output id="61" name="FuelTypeEnable" clock="false" type="33"/>
+      </instance>
+      <instance id="62" name="1" op="82" expanded="true">
+        <input id="63" name="Value" clock="false" type="18"/>
+        <output id="64" name="FuelVisible" clock="false" type="33"/>
+        <output id="65" name="FuelLevel" clock="false" type="34"/>
+      </instance>
+      <instance id="66" name="1" op="83" expanded="true">
+        <input id="67" name="FuelLevelValue" clock="false" type="18"/>
+        <output id="68" name="TankFullVisible" clock="false" type="33"/>
+      </instance>
+      <instance id="69" name="1" op="84" expanded="true">
+        <input id="70" name="FuelType" clock="false" type="17"/>
+        <output id="71" name="FuelColor" clock="false" type="35"/>
+      </instance>
+      <automaton id="72" name="SM1">
+        <state id="73" name="TankClosed" initial="true" final="false" default="false">
+          <fork id="74" name="1" kind="strong">
+            <transition id="75" dest="76"/>
+          </fork>
+        </state>
+        <state id="76" name="TankOpen" initial="false" final="false" default="false">
+          <fork id="77" name="1" kind="strong">
+            <transition id="78" dest="73"/>
+          </fork>
+        </state>
+      </automaton>
+    </operator>
+    <operator id="79" name="ShowLayer" imported="false" root="false" expanded="true"/>
+    <operator id="80" name="SetFuelLevel" imported="false" root="false" expanded="true"/>
+    <operator id="81" name="EnableWidgets" imported="false" root="false" expanded="true"/>
+    <operator id="82" name="RepaintFuelLevel" imported="false" root="false" expanded="true"/>
+    <operator id="83" name="SetTankFullVisible" imported="false" root="false" expanded="true"/>
+    <operator id="84" name="SetFuelColor" imported="false" root="false" expanded="true"/>
+  </model>
+  <generated>
+    <c>
+      <file id="85" name="Main.h">
+        <function id="86" name="Main_init">
+          <parameter id="87" name="outC" type="93" pointer="true"/>
+        </function>
+        <function id="88" name="Main_reset">
+          <parameter id="89" name="outC" type="93" pointer="true"/>
+        </function>
+        <function id="90" name="Main">
+          <parameter id="91" name="inC" type="103" pointer="true"/>
+          <parameter id="92" name="outC" type="93" pointer="true"/>
+        </function>
+        <struct id="93" name="outC_Main">
+          <field id="94" name="LayerVisible" type="174" pointer="false"/>
+          <field id="95" name="FuelVisible" type="130" pointer="false"/>
+          <field id="96" name="FuelLevel" type="127" pointer="false"/>
+          <field id="97" name="RefuelEnable" type="130" pointer="false"/>
+          <field id="98" name="FuelTypeEnable" type="130" pointer="false"/>
+          <field id="99" name="TankFullVisible" type="130" pointer="false"/>
+          <field id="100" name="FuelColor" type="124" pointer="false"/>
+          <field id="101" name="_L4_SetFuelLevel_1" type="169" pointer="false"/>
+          <field id="102" name="_L1_ShowLayer_1" type="174" pointer="false"/>
+        </struct>
+        <struct id="103" name="inC_Main">
+          <field id="104" name="TankStatus" type="174" pointer="false"/>
+          <field id="105" name="FuelType" type="168" pointer="false"/>
+          <field id="106" name="Refuel" type="174" pointer="false"/>
+          <field id="107" name="EmptyTank" type="174" pointer="false"/>
+        </struct>
+      </file>
+      <file id="108" name="kcg_types.h">
+        <ifdef id="109" name="kcg_use_BoolMsg">
+          <function id="110" name="kcg_comp_BoolMsg" returnType="174">
+            <parameter id="119" name="kcg_c1" type="130" pointer="true"/>
+            <parameter id="120" name="kcg_c2" type="130" pointer="true"/>
+          </function>
+        </ifdef>
+        <ifdef id="113" name="kcg_use_intMsg2">
+          <function id="114" name="kcg_comp_intMsg2" returnType="174">
+            <parameter id="119" name="kcg_c1" type="124" pointer="true"/>
+            <parameter id="120" name="kcg_c2" type="124" pointer="true"/>
+          </function>
+        </ifdef>
+        <ifdef id="117" name="kcg_use_intMsg">
+          <function id="118" name="kcg_comp_intMsg" returnType="174">
+            <parameter id="119" name="kcg_c1" type="127" pointer="true"/>
+            <parameter id="120" name="kcg_c2" type="127" pointer="true"/>
+          </function>
+        </ifdef>
+        <macro id="121" name="kcg_copy_BoolMsg"/>
+        <macro id="122" name="kcg_copy_intMsg2"/>
+        <macro id="123" name="kcg_copy_intMsg"/>
+        <struct id="124" name="intMsg2" tagName="kcg_tag_intMsg2">
+          <field id="125" name="Emit" type="174" pointer="false"/>
+          <field id="126" name="Value" type="167" pointer="false"/>
+        </struct>
+        <struct id="127" name="intMsg" tagName="kcg_tag_intMsg">
+          <field id="128" name="Emit" type="174" pointer="false"/>
+          <field id="129" name="Value" type="169" pointer="false"/>
+        </struct>
+        <struct id="130" name="BoolMsg" tagName="kcg_tag_BoolMsg">
+          <field id="131" name="Emit" type="174" pointer="false"/>
+          <field id="132" name="Value" type="174" pointer="false"/>
+        </struct>
+        <enum id="133" name="SSM_ST_SM1" tagName="kcg_tag_SSM_ST_SM1">
+          <value id="134" name="SSM_st_TankClosed_SM1"/>
+          <value id="135" name="SSM_st_TankOpen_SM1"/>
+        </enum>
+        <enum id="136" name="SSM_TR_SM1" tagName="kcg_tag_SSM_TR_SM1">
+          <value id="137" name="SSM_TR_no_trans_SM1"/>
+          <value id="138" name="SSM_TR_TankClosed_TankOpen_1_TankClosed_SM1"/>
+          <value id="139" name="SSM_TR_TankOpen_TankClosed_1_TankOpen_SM1"/>
+        </enum>
+        <macro id="140" name="kcg_assign_array"/>
+        <macro id="141" name="kcg_assign_struct"/>
+        <macro id="142" name="kcg_lnot_uint8"/>
+        <macro id="143" name="kcg_lnot_uint16"/>
+        <macro id="144" name="kcg_lnot_uint32"/>
+        <macro id="145" name="kcg_lnot_uint64"/>
+        <macro id="146" name="kcg_lsl_uint8"/>
+        <macro id="147" name="kcg_lsl_uint16"/>
+        <macro id="148" name="kcg_lsl_uint32"/>
+        <macro id="149" name="kcg_lsl_uint64"/>
+        <macro id="150" name="kcg_true"/>
+        <macro id="151" name="kcg_false"/>
+        <macro id="152" name="kcg_lit_int8"/>
+        <macro id="153" name="kcg_lit_int16"/>
+        <macro id="154" name="kcg_lit_int32"/>
+        <macro id="155" name="kcg_lit_int64"/>
+        <macro id="156" name="kcg_lit_uint8"/>
+        <macro id="157" name="kcg_lit_uint16"/>
+        <macro id="158" name="kcg_lit_uint32"/>
+        <macro id="159" name="kcg_lit_uint64"/>
+        <macro id="160" name="kcg_lit_size"/>
+        <macro id="161" name="kcg_lit_float64"/>
+        <macro id="162" name="kcg_lit_float32"/>
+        <predefType id="163" name="kcg_int8"/>
+        <predefType id="164" name="kcg_int16"/>
+        <predefType id="165" name="kcg_int32"/>
+        <predefType id="166" name="kcg_int64"/>
+        <predefType id="167" name="kcg_uint8"/>
+        <predefType id="168" name="kcg_uint16"/>
+        <predefType id="169" name="kcg_uint32"/>
+        <predefType id="170" name="kcg_uint64"/>
+        <predefType id="171" name="kcg_size"/>
+        <predefType id="172" name="kcg_float64"/>
+        <predefType id="173" name="kcg_float32"/>
+        <predefType id="174" name="kcg_bool"/>
+        <predefType id="175" name="kcg_char"/>
+        <macro id="176" name="KCG_MAPW_CPY"/>
+      </file>
+      <file id="177" name="kcg_consts.h">
+        <macro id="178" name="OPEN_ID" type="169"/>
+        <macro id="179" name="CLOSED_ID" type="169"/>
+        <macro id="180" name="MAX_FUEL_LEVEL" type="169"/>
+        <macro id="181" name="FUEL_INCREMENT" type="169"/>
+        <macro id="182" name="FUEL_LEVEL_OFFSET" type="169"/>
+        <macro id="183" name="A661_TRUE" type="174"/>
+        <macro id="184" name="A661_FALSE" type="174"/>
+        <macro id="185" name="ALCOHOL_COLOR" type="167"/>
+        <macro id="186" name="DIESEL_COLOR" type="167"/>
+        <macro id="187" name="GASOLINE_COLOR" type="167"/>
+      </file>
+      <file id="188" name="kcg_sensors.h"/>
+    </c>
+    <map srcId="172" dstId="161" role="wrapped-lit"/>
+    <map srcId="173" dstId="162" role="wrapped-lit"/>
+    <map srcId="171" dstId="160" role="wrapped-lit"/>
+    <map srcId="170" dstId="159" role="wrapped-lit"/>
+    <map srcId="170" dstId="145" role="wrapped-lnot"/>
+    <map srcId="170" dstId="149" role="wrapped-lsl"/>
+    <map srcId="169" dstId="158" role="wrapped-lit"/>
+    <map srcId="169" dstId="144" role="wrapped-lnot"/>
+    <map srcId="169" dstId="148" role="wrapped-lsl"/>
+    <map srcId="168" dstId="157" role="wrapped-lit"/>
+    <map srcId="168" dstId="143" role="wrapped-lnot"/>
+    <map srcId="168" dstId="147" role="wrapped-lsl"/>
+    <map srcId="167" dstId="156" role="wrapped-lit"/>
+    <map srcId="167" dstId="142" role="wrapped-lnot"/>
+    <map srcId="167" dstId="146" role="wrapped-lsl"/>
+    <map srcId="166" dstId="155" role="wrapped-lit"/>
+    <map srcId="165" dstId="154" role="wrapped-lit"/>
+    <map srcId="164" dstId="153" role="wrapped-lit"/>
+    <map srcId="163" dstId="152" role="wrapped-lit"/>
+    <map srcId="130" dstId="109" role="type-use"/>
+    <map srcId="130" dstId="110" role="type-comparison"/>
+    <map srcId="130" dstId="121" role="type-copy"/>
+    <map srcId="124" dstId="113" role="type-use"/>
+    <map srcId="124" dstId="114" role="type-comparison"/>
+    <map srcId="124" dstId="122" role="type-copy"/>
+    <map srcId="127" dstId="117" role="type-use"/>
+    <map srcId="127" dstId="118" role="type-comparison"/>
+    <map srcId="127" dstId="123" role="type-copy"/>
+  </generated>
+  <map modelId="78" generatedId="139"/>
+  <map modelId="75" generatedId="138"/>
+  <map modelId="72" generatedId="137" role="autom-no-trans-enum"/>
+  <map modelId="76" generatedId="135"/>
+  <map modelId="73" generatedId="134"/>
+  <map modelId="36" generatedId="87" role="context-parameter"/>
+  <map modelId="36" generatedId="86" role="init-method"/>
+  <map modelId="36" generatedId="89" role="context-parameter"/>
+  <map modelId="36" generatedId="88" role="reset-method"/>
+  <map modelId="36" generatedId="91" role="input-struct-parameter"/>
+  <map modelId="40" generatedId="107"/>
+  <map modelId="53" generatedId="107"/>
+  <map modelId="39" generatedId="106"/>
+  <map modelId="52" generatedId="106"/>
+  <map modelId="38" generatedId="105"/>
+  <map modelId="57" generatedId="105"/>
+  <map modelId="70" generatedId="105"/>
+  <map modelId="37" generatedId="104"/>
+  <map modelId="36" generatedId="103" role="input-struct-type"/>
+  <map modelId="36" generatedId="92" role="context-parameter"/>
+  <map modelId="50" generatedId="102" role="memory"/>
+  <map modelId="55" generatedId="101" role="memory"/>
+  <map modelId="47" generatedId="100"/>
+  <map modelId="71" generatedId="100"/>
+  <map modelId="46" generatedId="99"/>
+  <map modelId="68" generatedId="99"/>
+  <map modelId="45" generatedId="98"/>
+  <map modelId="61" generatedId="98"/>
+  <map modelId="44" generatedId="97"/>
+  <map modelId="60" generatedId="97"/>
+  <map modelId="43" generatedId="96"/>
+  <map modelId="65" generatedId="96"/>
+  <map modelId="42" generatedId="95"/>
+  <map modelId="64" generatedId="95"/>
+  <map modelId="41" generatedId="94"/>
+  <map modelId="49" generatedId="94"/>
+  <map modelId="36" generatedId="93" role="context-type"/>
+  <map modelId="36" generatedId="85" role="interface-file"/>
+  <map modelId="36" generatedId="90" role="cycle-method"/>
+  <map modelId="31" generatedId="187"/>
+  <map modelId="30" generatedId="186"/>
+  <map modelId="29" generatedId="185"/>
+  <map modelId="28" generatedId="184"/>
+  <map modelId="27" generatedId="183"/>
+  <map modelId="25" generatedId="182"/>
+  <map modelId="24" generatedId="181"/>
+  <map modelId="23" generatedId="180"/>
+  <map modelId="32" generatedId="179"/>
+  <map modelId="26" generatedId="178"/>
+  <map modelId="72" generatedId="136" role="autom-transitions-type"/>
+  <map modelId="72" generatedId="133" role="autom-states-type"/>
+  <map modelId="3" generatedId="132"/>
+  <map modelId="2" generatedId="131"/>
+  <map modelId="33" generatedId="130"/>
+  <map modelId="1" generatedId="130"/>
+  <map modelId="9" generatedId="126"/>
+  <map modelId="8" generatedId="125"/>
+  <map modelId="35" generatedId="124"/>
+  <map modelId="7" generatedId="124"/>
+  <map modelId="6" generatedId="129"/>
+  <map modelId="5" generatedId="128"/>
+  <map modelId="34" generatedId="127"/>
+  <map modelId="4" generatedId="127"/>
+  <map modelId="11" generatedId="175"/>
+  <map modelId="10" generatedId="174"/>
+  <map modelId="21" generatedId="172"/>
+  <map modelId="20" generatedId="173"/>
+  <map modelId="22" generatedId="171"/>
+  <map modelId="19" generatedId="170"/>
+  <map modelId="18" generatedId="169"/>
+  <map modelId="17" generatedId="168"/>
+  <map modelId="16" generatedId="167"/>
+  <map modelId="15" generatedId="166"/>
+  <map modelId="14" generatedId="165"/>
+  <map modelId="13" generatedId="164"/>
+  <map modelId="12" generatedId="163"/>
+</mapping>
+<!--$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** mapping.xml
+** Generation date: 2019-09-29T22:23:11
+*************************************************************$-->

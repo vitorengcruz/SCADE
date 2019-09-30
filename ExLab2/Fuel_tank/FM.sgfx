@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="19.0" ?>
+
+<specification>
+    <IDE>
+        <project path="Fuel_tank.etp"/>
+        <ratio horizontal="20" vertical="20"/>
+    </IDE>
+    <symbology>
+        <dimension height="768" width="768"/>
+    </symbology>
+    <A661 library_version="1" supp_version="6">
+        <intprop name="ApplicationId">1</intprop>
+    </A661>
+    <children>
+        <A661Layer name="a661_layer" oid="60e3d7f1-1ca0-4fc6-85d6-e87b9e5eea2a">
+            <IDE>
+                <ratio horizontal="20" vertical="20"/>
+            </IDE>
+            <model>
+                <intprop name="LayerId">1</intprop>
+                <intprop name="ContextNumber">0</intprop>
+                <intprop name="Width">15360</intprop>
+                <intprop name="Height">15360</intprop>
+            </model>
+            <runtime>
+                <connect msg_id="A661_UA_CONTEXT_NUMBER" name="a661_layer_A661_UA_CONTEXT_NUMBER"/>
+                <connect msg_id="A661_REQ_LAYER_ACTIVE" name="a661_layer_A661_REQ_LAYER_ACTIVE"/>
+                <connect msg_id="A661_REQ_LAYER_INACTIVE" name="a661_layer_A661_REQ_LAYER_INACTIVE"/>
+                <connect msg_id="A661_REQ_LAYER_VISIBLE" name="a661_layer_A661_REQ_LAYER_VISIBLE"/>
+            </runtime>
+            <events/>
+            <children>
+                <widget name="GpRectangle" oid="b536688c-9c28-4f22-839e-e23a23493263" type="GpRectangle">
+                    <model>
+                        <intprop name="WidgetIdent">1</intprop>
+                        <enumprop name="Anonymous">A661_FALSE</enumprop>
+                        <enumprop name="Visible">A661_TRUE</enumprop>
+                        <intprop name="PosX">200</intprop>
+                        <intprop name="PosY">14260</intprop>
+                        <intprop name="SizeX">14960</intprop>
+                        <intprop name="SizeY">800</intprop>
+                        <intprop name="StyleSet">1</intprop>
+                        <intprop name="ColorIndex">1</intprop>
+                        <enumprop name="Filled">A661_TRUE</enumprop>
+                        <intprop name="FillIndex">74</intprop>
+                        <enumprop name="Halo">A661_FALSE</enumprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_VISIBLE" name="GpRectangle_A661_VISIBLE"/>
+                        <connect msg_id="A661_STYLE_SET" name="GpRectangle_A661_STYLE_SET"/>
+                        <connect msg_id="A661_POS_XY" name="GpRectangle_A661_POS_XY"/>
+                        <connect msg_id="A661_POS_X" name="GpRectangle_A661_POS_X"/>
+                        <connect msg_id="A661_POS_Y" name="GpRectangle_A661_POS_Y"/>
+                        <connect msg_id="A661_SIZE_X" name="GpRectangle_A661_SIZE_X"/>
+                        <connect msg_id="A661_SIZE_Y" name="GpRectangle_A661_SIZE_Y"/>
+                        <connect msg_id="A661_SIZE_XY" name="GpRectangle_A661_SIZE_XY"/>
+                        <connect msg_id="A661_COLOR_INDEX" name="GpRectangle_A661_COLOR_INDEX"/>
+                        <connect msg_id="A661_FILL_INDEX" name="GpRectangle_A661_FILL_INDEX"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="GpRectangle_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="GpRectangle_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <children/>
+                </widget>
+                <widget name="GprTank" oid="f226fbfc-5c98-45d1-9072-6c07e387da10" type="GpRectangle">
+                    <model>
+                        <intprop name="WidgetIdent">2</intprop>
+                        <enumprop name="Anonymous">A661_FALSE</enumprop>
+                        <enumprop name="Visible">A661_TRUE</enumprop>
+                        <intprop name="PosX">9500</intprop>
+                        <intprop name="PosY">2150</intprop>
+                        <intprop name="SizeX">5000</intprop>
+                        <intprop name="SizeY">10000</intprop>
+                        <intprop name="StyleSet">1</intprop>
+                        <intprop name="ColorIndex">1</intprop>
+                        <enumprop name="Filled">A661_TRUE</enumprop>
+                        <intprop name="FillIndex">0</intprop>
+                        <enumprop name="Halo">A661_FALSE</enumprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_VISIBLE" name="GprTank_A661_VISIBLE"/>
+                        <connect msg_id="A661_STYLE_SET" name="GprTank_A661_STYLE_SET"/>
+                        <connect msg_id="A661_POS_XY" name="GprTank_A661_POS_XY"/>
+                        <connect msg_id="A661_POS_X" name="GprTank_A661_POS_X"/>
+                        <connect msg_id="A661_POS_Y" name="GprTank_A661_POS_Y"/>
+                        <connect msg_id="A661_SIZE_X" name="GprTank_A661_SIZE_X"/>
+                        <connect msg_id="A661_SIZE_Y" name="GprTank_A661_SIZE_Y"/>
+                        <connect msg_id="A661_SIZE_XY" name="GprTank_A661_SIZE_XY"/>
+                        <connect msg_id="A661_COLOR_INDEX" name="GprTank_A661_COLOR_INDEX"/>
+                        <connect msg_id="A661_FILL_INDEX" name="GprTank_A661_FILL_INDEX"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="GprTank_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="GprTank_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <children/>
+                </widget>
+                <widget name="GprFuel" oid="8ee4d8c9-e56a-4180-a883-b175032a4fc0" type="GpRectangle">
+                    <model>
+                        <intprop name="WidgetIdent">3</intprop>
+                        <enumprop name="Anonymous">A661_FALSE</enumprop>
+                        <enumprop name="Visible">A661_FALSE</enumprop>
+                        <intprop name="PosX">9550</intprop>
+                        <intprop name="PosY">2200</intprop>
+                        <intprop name="SizeX">4900</intprop>
+                        <intprop name="SizeY">1000</intprop>
+                        <intprop name="StyleSet">1</intprop>
+                        <intprop name="ColorIndex">1</intprop>
+                        <enumprop name="Filled">A661_TRUE</enumprop>
+                        <intprop name="FillIndex">74</intprop>
+                        <enumprop name="Halo">A661_FALSE</enumprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_VISIBLE" name="GprFuel_A661_VISIBLE"/>
+                        <connect msg_id="A661_STYLE_SET" name="GprFuel_A661_STYLE_SET"/>
+                        <connect msg_id="A661_POS_XY" name="GprFuel_A661_POS_XY"/>
+                        <connect msg_id="A661_POS_X" name="GprFuel_A661_POS_X"/>
+                        <connect msg_id="A661_POS_Y" name="GprFuel_A661_POS_Y"/>
+                        <connect msg_id="A661_SIZE_X" name="GprFuel_A661_SIZE_X"/>
+                        <connect msg_id="A661_SIZE_Y" name="GprFuel_A661_SIZE_Y"/>
+                        <connect msg_id="A661_SIZE_XY" name="GprFuel_A661_SIZE_XY"/>
+                        <connect msg_id="A661_COLOR_INDEX" name="GprFuel_A661_COLOR_INDEX"/>
+                        <connect msg_id="A661_FILL_INDEX" name="GprFuel_A661_FILL_INDEX"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="GprFuel_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="GprFuel_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <children/>
+                </widget>
+                <widget name="LbTitle" oid="55420c9d-cf8d-4f18-9c89-d7a31029a85b" type="Label">
+                    <model>
+                        <intprop name="WidgetIdent">4</intprop>
+                        <enumprop name="Anonymous">A661_FALSE</enumprop>
+                        <enumprop name="Visible">A661_TRUE</enumprop>
+                        <intprop name="PosX">5740</intprop>
+                        <intprop name="PosY">14250</intprop>
+                        <intprop name="SizeX">5000</intprop>
+                        <intprop name="SizeY">800</intprop>
+                        <intprop name="RotationAngle">0</intprop>
+                        <intprop name="StyleSet">1</intprop>
+                        <intprop name="MaxStringLength">32</intprop>
+                        <enumprop name="MotionAllowed">A661_TRUE</enumprop>
+                        <intprop name="Font">2</intprop>
+                        <intprop name="ColorIndex">1</intprop>
+                        <enumprop name="Alignment">A661_LEFT</enumprop>
+                        <stringprop name="LabelString">Fuel Management</stringprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_VISIBLE" name="LbTitle_A661_VISIBLE"/>
+                        <connect msg_id="A661_STRING" name="LbTitle_A661_STRING"/>
+                        <connect msg_id="A661_POS_XY" name="LbTitle_A661_POS_XY"/>
+                        <connect msg_id="A661_POS_X" name="LbTitle_A661_POS_X"/>
+                        <connect msg_id="A661_POS_Y" name="LbTitle_A661_POS_Y"/>
+                        <connect msg_id="A661_STYLE_SET" name="LbTitle_A661_STYLE_SET"/>
+                        <connect msg_id="A661_ORIENTATION" name="LbTitle_A661_ORIENTATION"/>
+                        <connect msg_id="A661_COLOR_INDEX" name="LbTitle_A661_COLOR_INDEX"/>
+                        <connect msg_id="A661_FONT" name="LbTitle_A661_FONT"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="LbTitle_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="LbTitle_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <children/>
+                </widget>
+                <widget name="BcTankFull" oid="5e5f5550-283b-4793-8802-38068101ad50" type="BlinkingContainer">
+                    <model>
+                        <intprop name="WidgetIdent">6</intprop>
+                        <intprop name="BlinkingType">2</intprop>
+                        <enumprop name="Visible">A661_FALSE</enumprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_VISIBLE" name="BcTankFull_A661_VISIBLE"/>
+                        <connect msg_id="A661_BLINKING_TYPE" name="BcTankFull_A661_BLINKING_TYPE"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="BcTankFull_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="BcTankFull_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <children>
+                        <widget name="LbTankFull" oid="c8392e35-45d4-4a79-8fec-1c8ebdccb18d" type="Label">
+                            <model>
+                                <intprop name="WidgetIdent">5</intprop>
+                                <enumprop name="Anonymous">A661_FALSE</enumprop>
+                                <enumprop name="Visible">A661_TRUE</enumprop>
+                                <intprop name="PosX">870</intprop>
+                                <intprop name="PosY">9400</intprop>
+                                <intprop name="SizeX">3000</intprop>
+                                <intprop name="SizeY">800</intprop>
+                                <intprop name="RotationAngle">0</intprop>
+                                <intprop name="StyleSet">1</intprop>
+                                <intprop name="MaxStringLength">32</intprop>
+                                <enumprop name="MotionAllowed">A661_TRUE</enumprop>
+                                <intprop name="Font">2</intprop>
+                                <intprop name="ColorIndex">21</intprop>
+                                <enumprop name="Alignment">A661_LEFT</enumprop>
+                                <stringprop name="LabelString">Tank Full</stringprop>
+                            </model>
+                            <runtime>
+                                <connect msg_id="A661_VISIBLE" name="LbTankFull_A661_VISIBLE"/>
+                                <connect msg_id="A661_STRING" name="LbTankFull_A661_STRING"/>
+                                <connect msg_id="A661_POS_XY" name="LbTankFull_A661_POS_XY"/>
+                                <connect msg_id="A661_POS_X" name="LbTankFull_A661_POS_X"/>
+                                <connect msg_id="A661_POS_Y" name="LbTankFull_A661_POS_Y"/>
+                                <connect msg_id="A661_STYLE_SET" name="LbTankFull_A661_STYLE_SET"/>
+                                <connect msg_id="A661_ORIENTATION" name="LbTankFull_A661_ORIENTATION"/>
+                                <connect msg_id="A661_COLOR_INDEX" name="LbTankFull_A661_COLOR_INDEX"/>
+                                <connect msg_id="A661_FONT" name="LbTankFull_A661_FONT"/>
+                                <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="LbTankFull_A661_REQ_FOCUS_ON_WIDGET"/>
+                                <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="LbTankFull_A661_REQ_CURSOR_ON_WIDGET"/>
+                            </runtime>
+                            <children/>
+                        </widget>
+                    </children>
+                </widget>
+                <widget name="TbTankStatus" oid="eec5e062-768f-42da-959b-cb2a7ddf7d27" type="ToggleButton">
+                    <model>
+                        <intprop name="WidgetIdent">7</intprop>
+                        <enumprop name="Enable">A661_TRUE</enumprop>
+                        <enumprop name="Visible">A661_TRUE</enumprop>
+                        <intprop name="PosX">840</intprop>
+                        <intprop name="PosY">12500</intprop>
+                        <intprop name="SizeX">3000</intprop>
+                        <intprop name="SizeY">800</intprop>
+                        <intprop name="StyleSet">110</intprop>
+                        <intprop name="NextFocusedWidget">0</intprop>
+                        <intprop name="MaxStringLength">32</intprop>
+                        <enumprop name="ToggleState">A661_UNSELECTED</enumprop>
+                        <enumprop name="AlternateFlag">A661_FALSE</enumprop>
+                        <enumprop name="AutomaticFocusMotion">A661_FALSE</enumprop>
+                        <enumprop name="Alignment">A661_LEFT</enumprop>
+                        <stringprop name="LabelString">Tank Closed</stringprop>
+                        <stringprop name="AlternateLabelString">Tank Open</stringprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_INNER_STATE_TOGGLE" name="TbTankStatus_A661_INNER_STATE_TOGGLE"/>
+                        <connect msg_id="A661_ENABLE" name="TbTankStatus_A661_ENABLE"/>
+                        <connect msg_id="A661_VISIBLE" name="TbTankStatus_A661_VISIBLE"/>
+                        <connect msg_id="A661_STYLE_SET" name="TbTankStatus_A661_STYLE_SET"/>
+                        <connect msg_id="A661_STRING" name="TbTankStatus_A661_STRING"/>
+                        <connect msg_id="A661_STRING_ALTERNATE" name="TbTankStatus_A661_STRING_ALTERNATE"/>
+                        <connect msg_id="A661_ENTRY_VALID" name="TbTankStatus_A661_ENTRY_VALID"/>
+                        <connect msg_id="A661_NEXT_FOCUSED_WIDGET" name="TbTankStatus_A661_NEXT_FOCUSED_WIDGET"/>
+                        <connect msg_id="A661_AUTO_FOCUS_MOTION" name="TbTankStatus_A661_AUTO_FOCUS_MOTION"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="TbTankStatus_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="TbTankStatus_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <events>
+                        <connect msg_id="A661_EVT_STATE_CHANGE" name="TbTankStatus_A661_EVT_STATE_CHANGE"/>
+                    </events>
+                    <children/>
+                </widget>
+                <widget name="PbRefuel" oid="c5b8cec2-c3a6-4274-ad94-a38b9c414743" type="PushButton">
+                    <model>
+                        <intprop name="WidgetIdent">8</intprop>
+                        <enumprop name="Enable">A661_TRUE</enumprop>
+                        <enumprop name="Visible">A661_TRUE</enumprop>
+                        <intprop name="PosX">10550</intprop>
+                        <intprop name="PosY">12500</intprop>
+                        <intprop name="SizeX">3000</intprop>
+                        <intprop name="SizeY">800</intprop>
+                        <intprop name="StyleSet">110</intprop>
+                        <intprop name="NextFocusedWidget">0</intprop>
+                        <intprop name="MaxStringLength">32</intprop>
+                        <enumprop name="AutomaticFocusMotion">A661_FALSE</enumprop>
+                        <enumprop name="Alignment">A661_LEFT</enumprop>
+                        <stringprop name="LabelString">Refuel</stringprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_ENABLE" name="PbRefuel_A661_ENABLE"/>
+                        <connect msg_id="A661_VISIBLE" name="PbRefuel_A661_VISIBLE"/>
+                        <connect msg_id="A661_STRING" name="PbRefuel_A661_STRING"/>
+                        <connect msg_id="A661_STYLE_SET" name="PbRefuel_A661_STYLE_SET"/>
+                        <connect msg_id="A661_ENTRY_VALID" name="PbRefuel_A661_ENTRY_VALID"/>
+                        <connect msg_id="A661_NEXT_FOCUSED_WIDGET" name="PbRefuel_A661_NEXT_FOCUSED_WIDGET"/>
+                        <connect msg_id="A661_AUTO_FOCUS_MOTION" name="PbRefuel_A661_AUTO_FOCUS_MOTION"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="PbRefuel_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="PbRefuel_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <events>
+                        <connect msg_id="A661_EVT_SELECTION" name="PbRefuel_A661_EVT_SELECTION"/>
+                    </events>
+                    <children/>
+                </widget>
+                <widget name="PbEmptyTank" oid="cd6aecc3-f6e2-40ef-916b-c7e9ac4ccd87" type="PushButton">
+                    <model>
+                        <intprop name="WidgetIdent">9</intprop>
+                        <enumprop name="Enable">A661_TRUE</enumprop>
+                        <enumprop name="Visible">A661_TRUE</enumprop>
+                        <intprop name="PosX">10550</intprop>
+                        <intprop name="PosY">1000</intprop>
+                        <intprop name="SizeX">3000</intprop>
+                        <intprop name="SizeY">800</intprop>
+                        <intprop name="StyleSet">112</intprop>
+                        <intprop name="NextFocusedWidget">0</intprop>
+                        <intprop name="MaxStringLength">32</intprop>
+                        <enumprop name="AutomaticFocusMotion">A661_FALSE</enumprop>
+                        <enumprop name="Alignment">A661_LEFT</enumprop>
+                        <stringprop name="LabelString">Empty Tank</stringprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_ENABLE" name="PbEmptyTank_A661_ENABLE"/>
+                        <connect msg_id="A661_VISIBLE" name="PbEmptyTank_A661_VISIBLE"/>
+                        <connect msg_id="A661_STRING" name="PbEmptyTank_A661_STRING"/>
+                        <connect msg_id="A661_STYLE_SET" name="PbEmptyTank_A661_STYLE_SET"/>
+                        <connect msg_id="A661_ENTRY_VALID" name="PbEmptyTank_A661_ENTRY_VALID"/>
+                        <connect msg_id="A661_NEXT_FOCUSED_WIDGET" name="PbEmptyTank_A661_NEXT_FOCUSED_WIDGET"/>
+                        <connect msg_id="A661_AUTO_FOCUS_MOTION" name="PbEmptyTank_A661_AUTO_FOCUS_MOTION"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="PbEmptyTank_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="PbEmptyTank_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <events>
+                        <connect msg_id="A661_EVT_SELECTION" name="PbEmptyTank_A661_EVT_SELECTION"/>
+                    </events>
+                    <children/>
+                </widget>
+                <widget name="CbFuelType" oid="c76be933-36f1-4ed3-b63c-c22ed26f1c03" type="ComboBox">
+                    <model>
+                        <intprop name="WidgetIdent">10</intprop>
+                        <enumprop name="Enable">A661_TRUE</enumprop>
+                        <enumprop name="Visible">A661_TRUE</enumprop>
+                        <intprop name="PosX">840</intprop>
+                        <intprop name="PosY">11020</intprop>
+                        <intprop name="SizeX">3000</intprop>
+                        <intprop name="SizeY">800</intprop>
+                        <intprop name="SelectingAreaWidth">3000</intprop>
+                        <intprop name="SelectingAreaHeight">4900</intprop>
+                        <intprop name="StyleSet">110</intprop>
+                        <intprop name="NextFocusedWidget">0</intprop>
+                        <intprop name="MaxNumberOfEntries">16</intprop>
+                        <intprop name="NumberOfEntries">4</intprop>
+                        <intprop name="SelectedEntry">1</intprop>
+                        <intprop name="MaxStringLength">32</intprop>
+                        <intprop name="OpeningEntry">1</intprop>
+                        <enumprop name="Alignment">A661_LEFT</enumprop>
+                        <enumprop name="OpeningMode">A661_OPEN_DOWN</enumprop>
+                        <enumprop name="AutomaticFocusMotion">A661_FALSE</enumprop>
+                        <arrayprop name="EntryList">
+                            <stringprop name="1">Fuel Type</stringprop>
+                            <stringprop name="2">Alcohol</stringprop>
+                            <stringprop name="3">Diesel</stringprop>
+                            <stringprop name="4">Gasoline</stringprop>
+                        </arrayprop>
+                    </model>
+                    <runtime>
+                        <connect msg_id="A661_ENABLE" name="CbFuelType_A661_ENABLE"/>
+                        <connect msg_id="A661_VISIBLE" name="CbFuelType_A661_VISIBLE"/>
+                        <connect msg_id="A661_STYLE_SET" name="CbFuelType_A661_STYLE_SET"/>
+                        <connect msg_id="A661_SELECTED_ENTRY" name="CbFuelType_A661_SELECTED_ENTRY"/>
+                        <connect msg_id="A661_NUMBER_OF_ENTRIES" name="CbFuelType_A661_NUMBER_OF_ENTRIES"/>
+                        <connect msg_id="A661_STRING_ARRAY" name="CbFuelType_A661_STRING_ARRAY"/>
+                        <connect msg_id="A661_OPENING_ENTRY" name="CbFuelType_A661_OPENING_ENTRY"/>
+                        <connect msg_id="A661_ENTRY_VALID" name="CbFuelType_A661_ENTRY_VALID"/>
+                        <connect msg_id="A661_NEXT_FOCUSED_WIDGET" name="CbFuelType_A661_NEXT_FOCUSED_WIDGET"/>
+                        <connect msg_id="A661_AUTO_FOCUS_MOTION" name="CbFuelType_A661_AUTO_FOCUS_MOTION"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="CbFuelType_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="CbFuelType_A661_REQ_CURSOR_ON_WIDGET"/>
+                    </runtime>
+                    <events>
+                        <connect msg_id="A661_EVT_SEL_ENTRY_CHANGE" name="CbFuelType_A661_EVT_SEL_ENTRY_CHANGE"/>
+                    </events>
+                    <children/>
+                </widget>
+            </children>
+        </A661Layer>
+    </children>
+</specification>
+
+<!-- crc32 : 1466853685 -->
+

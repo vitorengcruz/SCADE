@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** Command: kcg66.exe -config C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/Simulation/config.txt
+** Generation date: 2019-09-29T23:26:56
+*************************************************************$-->
+<mapping>
+  <config>
+    <option name="use_types" value="#off#"/>
+    <option name="imported_root_package" value="#off#"/>
+    <option name="root_package" value="#off#"/>
+    <option name="xml_basename" value="kcg_xml_filter_out.scade"/>
+    <option name="state_vector" value="#off#"/>
+    <option name="static" value="#off#"/>
+    <option name="separate_io_all" value="#off#"/>
+    <option name="no_separate_io" value="#off#"/>
+    <option name="separate_io" value="#off#"/>
+    <option name="warn_error" value="#off#"/>
+    <option name="short_circuit" value="#off#"/>
+    <option name="wrap_c_ops" value="#off#"/>
+    <option name="input_file"
+        value="C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/Simulation/scade_model_without_unused.scade"/>
+    <option name="probes" value="#on#"/>
+    <option name="no_observe" value="#off#"/>
+    <option name="observe" value="#off#"/>
+    <option name="debug" value="#on#"/>
+    <option name="user_config" value="./user_macros.h"/>
+    <option name="input_threshold" value="2"/>
+    <option name="header" value="#off#"/>
+    <option name="significance_length" value="31"/>
+    <option name="name_length" value="200"/>
+    <option name="globals_prefix" value="#off#"/>
+    <option name="keep_asserts" value="#off#"/>
+    <option name="global_root_context" value="#off#"/>
+    <option name="noexp" value="#off#"/>
+    <option name="exp" value="#off#"/>
+    <option name="expall" value="#on#"/>
+    <option name="target_dir" value="C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/Simulation"/>
+    <option name="target" value="C"/>
+    <option name="root" value="Main"/>
+    <option name="auth" value="#off#"/>
+  </config>
+  <model>
+    <struct id="1">
+      <field id="2" name="Emit" type="10"/>
+      <field id="3" name="Value" type="10"/>
+    </struct>
+    <struct id="4">
+      <field id="5" name="Emit" type="10"/>
+      <field id="6" name="Value" type="18"/>
+    </struct>
+    <struct id="7">
+      <field id="8" name="Emit" type="10"/>
+      <field id="9" name="Value" type="16"/>
+    </struct>
+    <predefType id="10" name="bool"/>
+    <predefType id="11" name="char"/>
+    <predefType id="12" name="int8"/>
+    <predefType id="13" name="int16"/>
+    <predefType id="14" name="int32"/>
+    <predefType id="15" name="int64"/>
+    <predefType id="16" name="uint8"/>
+    <predefType id="17" name="uint16"/>
+    <predefType id="18" name="uint32"/>
+    <predefType id="19" name="uint64"/>
+    <predefType id="20" name="float32"/>
+    <predefType id="21" name="float64"/>
+    <predefType id="22" name="size"/>
+    <constant id="23" name="MAX_FUEL_LEVEL" imported="false" type="18"/>
+    <constant id="24" name="FUEL_INCREMENT" imported="false" type="18"/>
+    <constant id="25" name="FUEL_LEVEL_OFFSET" imported="false" type="18"/>
+    <constant id="26" name="OPEN_ID" imported="false" type="18"/>
+    <constant id="27" name="A661_TRUE" imported="false" type="10"/>
+    <constant id="28" name="A661_FALSE" imported="false" type="10"/>
+    <constant id="29" name="ALCOHOL_COLOR" imported="false" type="16"/>
+    <constant id="30" name="DIESEL_COLOR" imported="false" type="16"/>
+    <constant id="31" name="GASOLINE_COLOR" imported="false" type="16"/>
+    <constant id="32" name="CLOSED_ID" imported="false" type="18"/>
+    <type id="33" name="BoolMsg" imported="false" type="1"/>
+    <type id="34" name="intMsg" imported="false" type="4"/>
+    <type id="35" name="intMsg2" imported="false" type="7"/>
+    <operator id="36" name="Main" imported="false" root="true" expanded="false">
+      <input id="37" name="TankStatus" clock="false" type="10"/>
+      <input id="38" name="FuelType" clock="false" type="17"/>
+      <input id="39" name="Refuel" clock="false" type="10"/>
+      <input id="40" name="EmptyTank" clock="false" type="10"/>
+      <output id="41" name="LayerVisible" clock="false" type="10"/>
+      <output id="42" name="FuelVisible" clock="false" type="33"/>
+      <output id="43" name="FuelLevel" clock="false" type="34"/>
+      <output id="44" name="RefuelEnable" clock="false" type="33"/>
+      <output id="45" name="FuelTypeEnable" clock="false" type="33"/>
+      <output id="46" name="TankFullVisible" clock="false" type="33"/>
+      <output id="47" name="FuelColor" clock="false" type="35"/>
+      <local id="48" name="tank_status" clock="false" type="18"/>
+      <local id="49" name="_L1" clock="false" type="10"/>
+      <local id="50" name="_L2" clock="false" type="18"/>
+      <local id="51" name="_L3" clock="false" type="10"/>
+      <local id="52" name="_L4" clock="false" type="10"/>
+      <local id="53" name="_L6" clock="false" type="33"/>
+      <local id="54" name="_L5" clock="false" type="33"/>
+      <local id="55" name="_L8" clock="false" type="17"/>
+      <local id="56" name="_L9" clock="false" type="18"/>
+      <local id="57" name="_L11" clock="false" type="34"/>
+      <local id="58" name="_L10" clock="false" type="33"/>
+      <local id="59" name="_L12" clock="false" type="33"/>
+      <local id="60" name="_L13" clock="false" type="35"/>
+      <local id="61" name="_L14" clock="false" type="17"/>
+      <instance id="62" name="1" op="170" expanded="true">
+        <output id="63" name="LayerVisible" clock="false" type="10"/>
+        <local id="64" name="_L1" clock="false" type="10"/>
+        <local id="65" name="_L2" clock="false" type="10"/>
+        <fby id="66" name="1"/>
+      </instance>
+      <instance id="67" name="1" op="171" expanded="true">
+        <input id="68" name="Refuel" clock="false" type="10"/>
+        <input id="69" name="Empty" clock="false" type="10"/>
+        <output id="70" name="FuelLevelValue" clock="false" type="18"/>
+        <local id="71" name="value" clock="false" type="18"/>
+        <local id="72" name="_L1" clock="false" type="10"/>
+        <local id="73" name="_L2" clock="false" type="18"/>
+        <local id="74" name="_L3" clock="false" type="18"/>
+        <local id="75" name="_L4" clock="false" type="18"/>
+        <local id="76" name="_L5" clock="false" type="10"/>
+        <local id="77" name="_L6" clock="false" type="18"/>
+        <local id="78" name="_L7" clock="false" type="10"/>
+        <local id="79" name="_L8" clock="false" type="18"/>
+        <local id="80" name="_L9" clock="false" type="18"/>
+        <local id="81" name="_L10" clock="false" type="18"/>
+        <local id="82" name="_L11" clock="false" type="18"/>
+        <local id="83" name="_L12" clock="false" type="18"/>
+        <local id="84" name="_L14" clock="false" type="18"/>
+        <local id="85" name="_L15" clock="false" type="10"/>
+        <local id="86" name="_L16" clock="false" type="18"/>
+        <local id="87" name="_L17" clock="false" type="18"/>
+        <local id="88" name="_L18" clock="false" type="18"/>
+        <local id="89" name="_L19" clock="false" type="18"/>
+        <local id="90" name="_L20" clock="false" type="18"/>
+        <local id="91" name="_L21" clock="false" type="18"/>
+        <local id="92" name="_L22" clock="false" type="18"/>
+        <local id="93" name="_L23" clock="false" type="10"/>
+        <local id="94" name="_L24" clock="false" type="18"/>
+        <local id="95" name="_L25" clock="false" type="10"/>
+        <local id="96" name="_L26" clock="false" type="18"/>
+        <local id="97" name="_L27" clock="false" type="18"/>
+        <fby id="98" name="1"/>
+      </instance>
+      <instance id="99" name="1" op="172" expanded="true">
+        <input id="100" name="FuelType" clock="false" type="17"/>
+        <input id="101" name="FuelStatus" clock="false" type="18"/>
+        <input id="102" name="FuelLevelValue" clock="false" type="18"/>
+        <output id="103" name="RefuelEnable" clock="false" type="33"/>
+        <output id="104" name="FuelTypeEnable" clock="false" type="33"/>
+        <local id="105" name="_L1" clock="false" type="17"/>
+        <local id="106" name="_L2" clock="false" type="10"/>
+        <local id="107" name="_L3" clock="false" type="17"/>
+        <local id="108" name="_L4" clock="false" type="10"/>
+        <local id="109" name="_L5" clock="false" type="18"/>
+        <local id="110" name="_L6" clock="false" type="18"/>
+        <local id="111" name="_L7" clock="false" type="10"/>
+        <local id="112" name="_L8" clock="false" type="18"/>
+        <local id="113" name="_L9" clock="false" type="18"/>
+        <local id="114" name="_L10" clock="false" type="10"/>
+        <local id="115" name="_L11" clock="false" type="10"/>
+        <local id="116" name="_L12" clock="false" type="10"/>
+        <local id="117" name="_L13" clock="false" type="10"/>
+        <local id="118" name="_L14" clock="false" type="1"/>
+        <local id="119" name="_L15" clock="false" type="10"/>
+        <local id="120" name="_L16" clock="false" type="10"/>
+        <local id="121" name="_L17" clock="false" type="18"/>
+        <local id="122" name="_L18" clock="false" type="18"/>
+        <local id="123" name="_L19" clock="false" type="10"/>
+        <local id="124" name="_L21" clock="false" type="1"/>
+        <local id="125" name="_L22" clock="false" type="10"/>
+      </instance>
+      <instance id="126" name="1" op="173" expanded="true">
+        <input id="127" name="Value" clock="false" type="18"/>
+        <output id="128" name="FuelVisible" clock="false" type="33"/>
+        <output id="129" name="FuelLevel" clock="false" type="34"/>
+        <local id="130" name="_L1" clock="false" type="18"/>
+        <local id="131" name="_L2" clock="false" type="10"/>
+        <local id="132" name="_L3" clock="false" type="18"/>
+        <local id="133" name="_L4" clock="false" type="10"/>
+        <local id="134" name="_L5" clock="false" type="10"/>
+        <local id="135" name="_L6" clock="false" type="10"/>
+        <local id="136" name="_L7" clock="false" type="1"/>
+        <local id="137" name="_L8" clock="false" type="10"/>
+        <local id="138" name="_L9" clock="false" type="4"/>
+        <local id="139" name="_L10" clock="false" type="10"/>
+      </instance>
+      <instance id="140" name="1" op="174" expanded="true">
+        <input id="141" name="FuelLevelValue" clock="false" type="18"/>
+        <output id="142" name="TankFullVisible" clock="false" type="33"/>
+        <local id="143" name="_L1" clock="false" type="18"/>
+        <local id="144" name="_L2" clock="false" type="10"/>
+        <local id="145" name="_L3" clock="false" type="18"/>
+        <local id="146" name="_L4" clock="false" type="10"/>
+        <local id="147" name="_L5" clock="false" type="10"/>
+        <local id="148" name="_L6" clock="false" type="10"/>
+        <local id="149" name="_L8" clock="false" type="1"/>
+        <local id="150" name="_L9" clock="false" type="10"/>
+      </instance>
+      <instance id="151" name="1" op="175" expanded="true">
+        <input id="152" name="FuelType" clock="false" type="17"/>
+        <output id="153" name="FuelColor" clock="false" type="35"/>
+        <local id="154" name="_L1" clock="false" type="17"/>
+        <local id="155" name="_L2" clock="false" type="16"/>
+        <local id="156" name="_L3" clock="false" type="16"/>
+        <local id="157" name="_L4" clock="false" type="16"/>
+        <local id="158" name="_L5" clock="false" type="16"/>
+        <local id="159" name="_L6" clock="false" type="7"/>
+        <local id="160" name="_L7" clock="false" type="10"/>
+      </instance>
+      <automaton id="161" name="SM1">
+        <state id="162" name="TankClosed" initial="true" final="false" default="false">
+          <local id="163" name="_L1" clock="false" type="18"/>
+          <fork id="164" name="1" kind="strong">
+            <transition id="165" dest="166"/>
+          </fork>
+        </state>
+        <state id="166" name="TankOpen" initial="false" final="false" default="false">
+          <local id="167" name="_L1" clock="false" type="18"/>
+          <fork id="168" name="1" kind="strong">
+            <transition id="169" dest="162"/>
+          </fork>
+        </state>
+      </automaton>
+    </operator>
+    <operator id="170" name="ShowLayer" imported="false" root="false" expanded="true"/>
+    <operator id="171" name="SetFuelLevel" imported="false" root="false" expanded="true"/>
+    <operator id="172" name="EnableWidgets" imported="false" root="false" expanded="true"/>
+    <operator id="173" name="RepaintFuelLevel" imported="false" root="false" expanded="true"/>
+    <operator id="174" name="SetTankFullVisible" imported="false" root="false" expanded="true"/>
+    <operator id="175" name="SetFuelColor" imported="false" root="false" expanded="true"/>
+  </model>
+  <generated>
+    <c>
+      <file id="176" name="Main.h">
+        <function id="177" name="Main_init">
+          <parameter id="178" name="outC" type="184" pointer="true"/>
+        </function>
+        <function id="179" name="Main_reset">
+          <parameter id="180" name="outC" type="184" pointer="true"/>
+        </function>
+        <function id="181" name="Main">
+          <parameter id="182" name="inC" type="307" pointer="true"/>
+          <parameter id="183" name="outC" type="184" pointer="true"/>
+        </function>
+        <struct id="184" name="outC_Main">
+          <field id="185" name="LayerVisible" type="378" pointer="false"/>
+          <field id="186" name="FuelVisible" type="334" pointer="false"/>
+          <field id="187" name="FuelLevel" type="331" pointer="false"/>
+          <field id="188" name="RefuelEnable" type="334" pointer="false"/>
+          <field id="189" name="FuelTypeEnable" type="334" pointer="false"/>
+          <field id="190" name="TankFullVisible" type="334" pointer="false"/>
+          <field id="191" name="FuelColor" type="328" pointer="false"/>
+          <field id="192" name="init" type="378" pointer="false"/>
+          <field id="193" name="_L1_ShowLayer_1" type="378" pointer="false"/>
+          <field id="194" name="_L4_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="195" name="SM1_state_nxt" type="337" pointer="false"/>
+          <field id="196" name="SM1_reset_act" type="378" pointer="false"/>
+          <field id="197" name="SM1_reset_nxt" type="378" pointer="false"/>
+          <field id="198" name="SM1_state_act" type="337" pointer="false"/>
+          <field id="199" name="LayerVisible_ShowLayer_1" type="378" pointer="false"/>
+          <field id="200" name="_L2_ShowLayer_1" type="378" pointer="false"/>
+          <field id="201" name="FuelLevelValue_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="202" name="Empty_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="203" name="Refuel_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="204" name="_L27_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="205" name="_L26_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="206" name="_L25_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="207" name="_L24_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="208" name="_L23_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="209" name="_L22_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="210" name="_L21_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="211" name="_L20_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="212" name="_L19_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="213" name="_L18_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="214" name="_L17_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="215" name="_L16_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="216" name="_L15_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="217" name="_L14_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="218" name="_L12_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="219" name="_L11_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="220" name="_L10_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="221" name="_L9_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="222" name="_L8_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="223" name="_L7_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="224" name="_L6_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="225" name="_L5_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="226" name="_L3_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="227" name="_L2_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="228" name="_L1_SetFuelLevel_1" type="378" pointer="false"/>
+          <field id="229" name="value_SetFuelLevel_1" type="373" pointer="false"/>
+          <field id="230" name="FuelTypeEnable_EnableWidgets_1" type="334" pointer="false"/>
+          <field id="231" name="RefuelEnable_EnableWidgets_1" type="334" pointer="false"/>
+          <field id="232" name="FuelLevelValue_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="233" name="FuelStatus_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="234" name="FuelType_EnableWidgets_1" type="372" pointer="false"/>
+          <field id="235" name="_L22_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="236" name="_L21_EnableWidgets_1" type="334" pointer="false"/>
+          <field id="237" name="_L19_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="238" name="_L18_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="239" name="_L17_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="240" name="_L16_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="241" name="_L15_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="242" name="_L14_EnableWidgets_1" type="334" pointer="false"/>
+          <field id="243" name="_L13_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="244" name="_L12_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="245" name="_L11_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="246" name="_L10_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="247" name="_L9_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="248" name="_L8_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="249" name="_L7_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="250" name="_L6_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="251" name="_L5_EnableWidgets_1" type="373" pointer="false"/>
+          <field id="252" name="_L4_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="253" name="_L3_EnableWidgets_1" type="372" pointer="false"/>
+          <field id="254" name="_L2_EnableWidgets_1" type="378" pointer="false"/>
+          <field id="255" name="_L1_EnableWidgets_1" type="372" pointer="false"/>
+          <field id="256" name="FuelLevel_RepaintFuelLevel_1" type="331" pointer="false"/>
+          <field id="257" name="FuelVisible_RepaintFuelLevel_1" type="334" pointer="false"/>
+          <field id="258" name="Value_RepaintFuelLevel_1" type="373" pointer="false"/>
+          <field id="259" name="_L10_RepaintFuelLevel_1" type="378" pointer="false"/>
+          <field id="260" name="_L9_RepaintFuelLevel_1" type="331" pointer="false"/>
+          <field id="261" name="_L8_RepaintFuelLevel_1" type="378" pointer="false"/>
+          <field id="262" name="_L7_RepaintFuelLevel_1" type="334" pointer="false"/>
+          <field id="263" name="_L6_RepaintFuelLevel_1" type="378" pointer="false"/>
+          <field id="264" name="_L5_RepaintFuelLevel_1" type="378" pointer="false"/>
+          <field id="265" name="_L4_RepaintFuelLevel_1" type="378" pointer="false"/>
+          <field id="266" name="_L3_RepaintFuelLevel_1" type="373" pointer="false"/>
+          <field id="267" name="_L2_RepaintFuelLevel_1" type="378" pointer="false"/>
+          <field id="268" name="_L1_RepaintFuelLevel_1" type="373" pointer="false"/>
+          <field id="269" name="TankFullVisible_SetTankFullVisible_1" type="334" pointer="false"/>
+          <field id="270" name="FuelLevelValue_SetTankFullVisible_1" type="373" pointer="false"/>
+          <field id="271" name="_L9_SetTankFullVisible_1" type="378" pointer="false"/>
+          <field id="272" name="_L8_SetTankFullVisible_1" type="334" pointer="false"/>
+          <field id="273" name="_L6_SetTankFullVisible_1" type="378" pointer="false"/>
+          <field id="274" name="_L5_SetTankFullVisible_1" type="378" pointer="false"/>
+          <field id="275" name="_L4_SetTankFullVisible_1" type="378" pointer="false"/>
+          <field id="276" name="_L3_SetTankFullVisible_1" type="373" pointer="false"/>
+          <field id="277" name="_L2_SetTankFullVisible_1" type="378" pointer="false"/>
+          <field id="278" name="_L1_SetTankFullVisible_1" type="373" pointer="false"/>
+          <field id="279" name="FuelColor_SetFuelColor_1" type="328" pointer="false"/>
+          <field id="280" name="FuelType_SetFuelColor_1" type="372" pointer="false"/>
+          <field id="281" name="_L7_SetFuelColor_1" type="378" pointer="false"/>
+          <field id="282" name="_L6_SetFuelColor_1" type="328" pointer="false"/>
+          <field id="283" name="_L5_SetFuelColor_1" type="371" pointer="false"/>
+          <field id="284" name="_L4_SetFuelColor_1" type="371" pointer="false"/>
+          <field id="285" name="_L3_SetFuelColor_1" type="371" pointer="false"/>
+          <field id="286" name="_L2_SetFuelColor_1" type="371" pointer="false"/>
+          <field id="287" name="_L1_SetFuelColor_1" type="372" pointer="false"/>
+          <field id="288" name="_L1_TankClosed_SM1" type="373" pointer="false"/>
+          <field id="289" name="_L1_TankOpen_SM1" type="373" pointer="false"/>
+          <field id="290" name="SM1_state_sel" type="337" pointer="false"/>
+          <field id="291" name="SM1_fired_strong" type="340" pointer="false"/>
+          <field id="292" name="SM1_fired" type="340" pointer="false"/>
+          <field id="293" name="tank_status" type="373" pointer="false"/>
+          <field id="294" name="_L1" type="378" pointer="false"/>
+          <field id="295" name="_L2" type="373" pointer="false"/>
+          <field id="296" name="_L3" type="378" pointer="false"/>
+          <field id="297" name="_L4" type="378" pointer="false"/>
+          <field id="298" name="_L6" type="334" pointer="false"/>
+          <field id="299" name="_L5" type="334" pointer="false"/>
+          <field id="300" name="_L8" type="372" pointer="false"/>
+          <field id="301" name="_L9" type="373" pointer="false"/>
+          <field id="302" name="_L11" type="331" pointer="false"/>
+          <field id="303" name="_L10" type="334" pointer="false"/>
+          <field id="304" name="_L12" type="334" pointer="false"/>
+          <field id="305" name="_L13" type="328" pointer="false"/>
+          <field id="306" name="_L14" type="372" pointer="false"/>
+        </struct>
+        <struct id="307" name="inC_Main">
+          <field id="308" name="TankStatus" type="378" pointer="false"/>
+          <field id="309" name="FuelType" type="372" pointer="false"/>
+          <field id="310" name="Refuel" type="378" pointer="false"/>
+          <field id="311" name="EmptyTank" type="378" pointer="false"/>
+        </struct>
+      </file>
+      <file id="312" name="kcg_types.h">
+        <ifdef id="313" name="kcg_use_BoolMsg">
+          <function id="314" name="kcg_comp_BoolMsg" returnType="378">
+            <parameter id="323" name="kcg_c1" type="334" pointer="true"/>
+            <parameter id="324" name="kcg_c2" type="334" pointer="true"/>
+          </function>
+        </ifdef>
+        <ifdef id="317" name="kcg_use_intMsg2">
+          <function id="318" name="kcg_comp_intMsg2" returnType="378">
+            <parameter id="323" name="kcg_c1" type="328" pointer="true"/>
+            <parameter id="324" name="kcg_c2" type="328" pointer="true"/>
+          </function>
+        </ifdef>
+        <ifdef id="321" name="kcg_use_intMsg">
+          <function id="322" name="kcg_comp_intMsg" returnType="378">
+            <parameter id="323" name="kcg_c1" type="331" pointer="true"/>
+            <parameter id="324" name="kcg_c2" type="331" pointer="true"/>
+          </function>
+        </ifdef>
+        <macro id="325" name="kcg_copy_BoolMsg"/>
+        <macro id="326" name="kcg_copy_intMsg2"/>
+        <macro id="327" name="kcg_copy_intMsg"/>
+        <struct id="328" name="intMsg2" tagName="kcg_tag_intMsg2">
+          <field id="329" name="Emit" type="378" pointer="false"/>
+          <field id="330" name="Value" type="371" pointer="false"/>
+        </struct>
+        <struct id="331" name="intMsg" tagName="kcg_tag_intMsg">
+          <field id="332" name="Emit" type="378" pointer="false"/>
+          <field id="333" name="Value" type="373" pointer="false"/>
+        </struct>
+        <struct id="334" name="BoolMsg" tagName="kcg_tag_BoolMsg">
+          <field id="335" name="Emit" type="378" pointer="false"/>
+          <field id="336" name="Value" type="378" pointer="false"/>
+        </struct>
+        <enum id="337" name="SSM_ST_SM1" tagName="kcg_tag_SSM_ST_SM1">
+          <value id="338" name="SSM_st_TankClosed_SM1"/>
+          <value id="339" name="SSM_st_TankOpen_SM1"/>
+        </enum>
+        <enum id="340" name="SSM_TR_SM1" tagName="kcg_tag_SSM_TR_SM1">
+          <value id="341" name="SSM_TR_no_trans_SM1"/>
+          <value id="342" name="SSM_TR_TankClosed_TankOpen_1_TankClosed_SM1"/>
+          <value id="343" name="SSM_TR_TankOpen_TankClosed_1_TankOpen_SM1"/>
+        </enum>
+        <macro id="344" name="kcg_assign_array"/>
+        <macro id="345" name="kcg_assign_struct"/>
+        <macro id="346" name="kcg_lnot_uint8"/>
+        <macro id="347" name="kcg_lnot_uint16"/>
+        <macro id="348" name="kcg_lnot_uint32"/>
+        <macro id="349" name="kcg_lnot_uint64"/>
+        <macro id="350" name="kcg_lsl_uint8"/>
+        <macro id="351" name="kcg_lsl_uint16"/>
+        <macro id="352" name="kcg_lsl_uint32"/>
+        <macro id="353" name="kcg_lsl_uint64"/>
+        <macro id="354" name="kcg_true"/>
+        <macro id="355" name="kcg_false"/>
+        <macro id="356" name="kcg_lit_int8"/>
+        <macro id="357" name="kcg_lit_int16"/>
+        <macro id="358" name="kcg_lit_int32"/>
+        <macro id="359" name="kcg_lit_int64"/>
+        <macro id="360" name="kcg_lit_uint8"/>
+        <macro id="361" name="kcg_lit_uint16"/>
+        <macro id="362" name="kcg_lit_uint32"/>
+        <macro id="363" name="kcg_lit_uint64"/>
+        <macro id="364" name="kcg_lit_size"/>
+        <macro id="365" name="kcg_lit_float64"/>
+        <macro id="366" name="kcg_lit_float32"/>
+        <predefType id="367" name="kcg_int8"/>
+        <predefType id="368" name="kcg_int16"/>
+        <predefType id="369" name="kcg_int32"/>
+        <predefType id="370" name="kcg_int64"/>
+        <predefType id="371" name="kcg_uint8"/>
+        <predefType id="372" name="kcg_uint16"/>
+        <predefType id="373" name="kcg_uint32"/>
+        <predefType id="374" name="kcg_uint64"/>
+        <predefType id="375" name="kcg_size"/>
+        <predefType id="376" name="kcg_float64"/>
+        <predefType id="377" name="kcg_float32"/>
+        <predefType id="378" name="kcg_bool"/>
+        <predefType id="379" name="kcg_char"/>
+        <macro id="380" name="KCG_MAPW_CPY"/>
+      </file>
+      <file id="381" name="kcg_consts.h">
+        <macro id="382" name="OPEN_ID" type="373"/>
+        <macro id="383" name="CLOSED_ID" type="373"/>
+        <macro id="384" name="MAX_FUEL_LEVEL" type="373"/>
+        <macro id="385" name="FUEL_INCREMENT" type="373"/>
+        <macro id="386" name="FUEL_LEVEL_OFFSET" type="373"/>
+        <macro id="387" name="A661_TRUE" type="378"/>
+        <macro id="388" name="A661_FALSE" type="378"/>
+        <macro id="389" name="ALCOHOL_COLOR" type="371"/>
+        <macro id="390" name="DIESEL_COLOR" type="371"/>
+        <macro id="391" name="GASOLINE_COLOR" type="371"/>
+      </file>
+      <file id="392" name="kcg_sensors.h"/>
+    </c>
+    <map srcId="376" dstId="365" role="wrapped-lit"/>
+    <map srcId="377" dstId="366" role="wrapped-lit"/>
+    <map srcId="375" dstId="364" role="wrapped-lit"/>
+    <map srcId="374" dstId="363" role="wrapped-lit"/>
+    <map srcId="374" dstId="349" role="wrapped-lnot"/>
+    <map srcId="374" dstId="353" role="wrapped-lsl"/>
+    <map srcId="373" dstId="362" role="wrapped-lit"/>
+    <map srcId="373" dstId="348" role="wrapped-lnot"/>
+    <map srcId="373" dstId="352" role="wrapped-lsl"/>
+    <map srcId="372" dstId="361" role="wrapped-lit"/>
+    <map srcId="372" dstId="347" role="wrapped-lnot"/>
+    <map srcId="372" dstId="351" role="wrapped-lsl"/>
+    <map srcId="371" dstId="360" role="wrapped-lit"/>
+    <map srcId="371" dstId="346" role="wrapped-lnot"/>
+    <map srcId="371" dstId="350" role="wrapped-lsl"/>
+    <map srcId="370" dstId="359" role="wrapped-lit"/>
+    <map srcId="369" dstId="358" role="wrapped-lit"/>
+    <map srcId="368" dstId="357" role="wrapped-lit"/>
+    <map srcId="367" dstId="356" role="wrapped-lit"/>
+    <map srcId="334" dstId="313" role="type-use"/>
+    <map srcId="334" dstId="314" role="type-comparison"/>
+    <map srcId="334" dstId="325" role="type-copy"/>
+    <map srcId="328" dstId="317" role="type-use"/>
+    <map srcId="328" dstId="318" role="type-comparison"/>
+    <map srcId="328" dstId="326" role="type-copy"/>
+    <map srcId="331" dstId="321" role="type-use"/>
+    <map srcId="331" dstId="322" role="type-comparison"/>
+    <map srcId="331" dstId="327" role="type-copy"/>
+    <map srcId="289" dstId="198" role="clock"/>
+    <map srcId="289" dstId="339" role="clock-value"/>
+    <map srcId="288" dstId="198" role="clock"/>
+    <map srcId="288" dstId="338" role="clock-value"/>
+  </generated>
+  <map modelId="165" generatedId="342"/>
+  <map modelId="161" generatedId="341" role="autom-no-trans-enum"/>
+  <map modelId="169" generatedId="343"/>
+  <map modelId="166" generatedId="339"/>
+  <map modelId="162" generatedId="338"/>
+  <map modelId="36" generatedId="178" role="context-parameter"/>
+  <map modelId="36" generatedId="177" role="init-method"/>
+  <map modelId="36" generatedId="180" role="context-parameter"/>
+  <map modelId="36" generatedId="179" role="reset-method"/>
+  <map modelId="36" generatedId="182" role="input-struct-parameter"/>
+  <map modelId="40" generatedId="311"/>
+  <map modelId="39" generatedId="310"/>
+  <map modelId="38" generatedId="309"/>
+  <map modelId="37" generatedId="308"/>
+  <map modelId="36" generatedId="307" role="input-struct-type"/>
+  <map modelId="36" generatedId="183" role="context-parameter"/>
+  <map modelId="61" generatedId="306"/>
+  <map modelId="60" generatedId="305"/>
+  <map modelId="59" generatedId="304"/>
+  <map modelId="58" generatedId="303"/>
+  <map modelId="57" generatedId="302"/>
+  <map modelId="56" generatedId="301"/>
+  <map modelId="55" generatedId="300"/>
+  <map modelId="54" generatedId="299"/>
+  <map modelId="53" generatedId="298"/>
+  <map modelId="52" generatedId="297"/>
+  <map modelId="51" generatedId="296"/>
+  <map modelId="50" generatedId="295"/>
+  <map modelId="49" generatedId="294"/>
+  <map modelId="48" generatedId="293"/>
+  <map modelId="161" generatedId="292" role="autom-weak-transition"/>
+  <map modelId="161" generatedId="291" role="autom-strong-transition"/>
+  <map modelId="161" generatedId="290" role="autom-selected-state"/>
+  <map modelId="167" generatedId="289"/>
+  <map modelId="163" generatedId="288"/>
+  <map modelId="154" generatedId="287"/>
+  <map modelId="155" generatedId="286"/>
+  <map modelId="156" generatedId="285"/>
+  <map modelId="157" generatedId="284"/>
+  <map modelId="158" generatedId="283"/>
+  <map modelId="159" generatedId="282"/>
+  <map modelId="160" generatedId="281"/>
+  <map modelId="152" generatedId="280"/>
+  <map modelId="153" generatedId="279"/>
+  <map modelId="143" generatedId="278"/>
+  <map modelId="144" generatedId="277"/>
+  <map modelId="145" generatedId="276"/>
+  <map modelId="146" generatedId="275"/>
+  <map modelId="147" generatedId="274"/>
+  <map modelId="148" generatedId="273"/>
+  <map modelId="149" generatedId="272"/>
+  <map modelId="150" generatedId="271"/>
+  <map modelId="141" generatedId="270"/>
+  <map modelId="142" generatedId="269"/>
+  <map modelId="130" generatedId="268"/>
+  <map modelId="131" generatedId="267"/>
+  <map modelId="132" generatedId="266"/>
+  <map modelId="133" generatedId="265"/>
+  <map modelId="134" generatedId="264"/>
+  <map modelId="135" generatedId="263"/>
+  <map modelId="136" generatedId="262"/>
+  <map modelId="137" generatedId="261"/>
+  <map modelId="138" generatedId="260"/>
+  <map modelId="139" generatedId="259"/>
+  <map modelId="127" generatedId="258"/>
+  <map modelId="128" generatedId="257"/>
+  <map modelId="129" generatedId="256"/>
+  <map modelId="105" generatedId="255"/>
+  <map modelId="106" generatedId="254"/>
+  <map modelId="107" generatedId="253"/>
+  <map modelId="108" generatedId="252"/>
+  <map modelId="109" generatedId="251"/>
+  <map modelId="110" generatedId="250"/>
+  <map modelId="111" generatedId="249"/>
+  <map modelId="112" generatedId="248"/>
+  <map modelId="113" generatedId="247"/>
+  <map modelId="114" generatedId="246"/>
+  <map modelId="115" generatedId="245"/>
+  <map modelId="116" generatedId="244"/>
+  <map modelId="117" generatedId="243"/>
+  <map modelId="118" generatedId="242"/>
+  <map modelId="119" generatedId="241"/>
+  <map modelId="120" generatedId="240"/>
+  <map modelId="121" generatedId="239"/>
+  <map modelId="122" generatedId="238"/>
+  <map modelId="123" generatedId="237"/>
+  <map modelId="124" generatedId="236"/>
+  <map modelId="125" generatedId="235"/>
+  <map modelId="100" generatedId="234"/>
+  <map modelId="101" generatedId="233"/>
+  <map modelId="102" generatedId="232"/>
+  <map modelId="103" generatedId="231"/>
+  <map modelId="104" generatedId="230"/>
+  <map modelId="71" generatedId="229"/>
+  <map modelId="72" generatedId="228"/>
+  <map modelId="73" generatedId="227"/>
+  <map modelId="74" generatedId="226"/>
+  <map modelId="76" generatedId="225"/>
+  <map modelId="77" generatedId="224"/>
+  <map modelId="78" generatedId="223"/>
+  <map modelId="79" generatedId="222"/>
+  <map modelId="80" generatedId="221"/>
+  <map modelId="81" generatedId="220"/>
+  <map modelId="82" generatedId="219"/>
+  <map modelId="83" generatedId="218"/>
+  <map modelId="84" generatedId="217"/>
+  <map modelId="85" generatedId="216"/>
+  <map modelId="86" generatedId="215"/>
+  <map modelId="87" generatedId="214"/>
+  <map modelId="88" generatedId="213"/>
+  <map modelId="89" generatedId="212"/>
+  <map modelId="90" generatedId="211"/>
+  <map modelId="91" generatedId="210"/>
+  <map modelId="92" generatedId="209"/>
+  <map modelId="93" generatedId="208"/>
+  <map modelId="94" generatedId="207"/>
+  <map modelId="95" generatedId="206"/>
+  <map modelId="96" generatedId="205"/>
+  <map modelId="97" generatedId="204"/>
+  <map modelId="68" generatedId="203"/>
+  <map modelId="69" generatedId="202"/>
+  <map modelId="70" generatedId="201"/>
+  <map modelId="65" generatedId="200"/>
+  <map modelId="63" generatedId="199"/>
+  <map modelId="161" generatedId="198" role="autom-active-state"/>
+  <map modelId="161" generatedId="197" role="autom-next-reset"/>
+  <map modelId="161" generatedId="196" role="autom-active-reset"/>
+  <map modelId="161" generatedId="195" role="autom-next-state"/>
+  <map modelId="75" generatedId="194"/>
+  <map modelId="98" generatedId="194" role="memory"/>
+  <map modelId="64" generatedId="193"/>
+  <map modelId="66" generatedId="193" role="memory"/>
+  <map modelId="66" generatedId="192" role="init"/>
+  <map modelId="98" generatedId="192" role="init"/>
+  <map modelId="47" generatedId="191"/>
+  <map modelId="46" generatedId="190"/>
+  <map modelId="45" generatedId="189"/>
+  <map modelId="44" generatedId="188"/>
+  <map modelId="43" generatedId="187"/>
+  <map modelId="42" generatedId="186"/>
+  <map modelId="41" generatedId="185"/>
+  <map modelId="36" generatedId="184" role="context-type"/>
+  <map modelId="36" generatedId="176" role="interface-file"/>
+  <map modelId="36" generatedId="181" role="cycle-method"/>
+  <map modelId="31" generatedId="391"/>
+  <map modelId="30" generatedId="390"/>
+  <map modelId="29" generatedId="389"/>
+  <map modelId="28" generatedId="388"/>
+  <map modelId="27" generatedId="387"/>
+  <map modelId="25" generatedId="386"/>
+  <map modelId="24" generatedId="385"/>
+  <map modelId="23" generatedId="384"/>
+  <map modelId="32" generatedId="383"/>
+  <map modelId="26" generatedId="382"/>
+  <map modelId="161" generatedId="340" role="autom-transitions-type"/>
+  <map modelId="161" generatedId="337" role="autom-states-type"/>
+  <map modelId="3" generatedId="336"/>
+  <map modelId="2" generatedId="335"/>
+  <map modelId="33" generatedId="334"/>
+  <map modelId="1" generatedId="334"/>
+  <map modelId="9" generatedId="330"/>
+  <map modelId="8" generatedId="329"/>
+  <map modelId="35" generatedId="328"/>
+  <map modelId="7" generatedId="328"/>
+  <map modelId="6" generatedId="333"/>
+  <map modelId="5" generatedId="332"/>
+  <map modelId="34" generatedId="331"/>
+  <map modelId="4" generatedId="331"/>
+  <map modelId="11" generatedId="379"/>
+  <map modelId="10" generatedId="378"/>
+  <map modelId="21" generatedId="376"/>
+  <map modelId="20" generatedId="377"/>
+  <map modelId="22" generatedId="375"/>
+  <map modelId="19" generatedId="374"/>
+  <map modelId="18" generatedId="373"/>
+  <map modelId="17" generatedId="372"/>
+  <map modelId="16" generatedId="371"/>
+  <map modelId="15" generatedId="370"/>
+  <map modelId="14" generatedId="369"/>
+  <map modelId="13" generatedId="368"/>
+  <map modelId="12" generatedId="367"/>
+</mapping>
+<!--$********** SCADE Suite KCG 32-bit 6.6 (build i19) ***********
+** mapping.xml
+** Generation date: 2019-09-29T23:26:56
+*************************************************************$-->

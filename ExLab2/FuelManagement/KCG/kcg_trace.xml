@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+  <Model commandLine="" date="">
+    <Option name="use_types" value="#off#"/>
+    <Option name="imported_root_package" value="#off#"/>
+    <Option name="root_package" value="#off#"/>
+    <Option name="xml_basename" value="kcg_xml_filter_out.scade"/>
+    <Option name="state_vector" value="#off#"/>
+    <Option name="static" value="#off#"/>
+    <Option name="separate_io_all" value="#off#"/>
+    <Option name="no_separate_io" value="#off#"/>
+    <Option name="separate_io" value="#off#"/>
+    <Option name="warn_error" value="#off#"/>
+    <Option name="short_circuit" value="#off#"/>
+    <Option name="wrap_c_ops" value="#off#"/>
+    <Option name="input_file" value="C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/KCG/scade_model_without_unused.scade"/>
+    <Option name="probes" value="#off#"/>
+    <Option name="debug" value="#off#"/>
+    <Option name="no_observe" value="#off#"/>
+    <Option name="observe" value="#off#"/>
+    <Option name="user_config" value="./user_macros.h"/>
+    <Option name="input_threshold" value="2"/>
+    <Option name="header" value="#off#"/>
+    <Option name="significance_length" value="31"/>
+    <Option name="name_length" value="200"/>
+    <Option name="globals_prefix" value="#off#"/>
+    <Option name="keep_asserts" value="#off#"/>
+    <Option name="global_root_context" value="#off#"/>
+    <Option name="noexp" value="#off#"/>
+    <Option name="exp" value="#off#"/>
+    <Option name="expall" value="#on#"/>
+    <Option name="target_dir" value="C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/KCG"/>
+    <Option name="target" value="C"/>
+    <Option name="root" value="Main"/>
+    <Option name="auth" value="#off#"/>
+    <Constant macroDef="true" scadeName="MAX_FUEL_LEVEL" scadeType="uint32" targetName="MAX_FUEL_LEVEL" targetType="kcg_uint32"/>
+    <Constant macroDef="true" scadeName="FUEL_INCREMENT" scadeType="uint32" targetName="FUEL_INCREMENT" targetType="kcg_uint32"/>
+    <Constant macroDef="true" scadeName="FUEL_LEVEL_OFFSET" scadeType="uint32" targetName="FUEL_LEVEL_OFFSET" targetType="kcg_uint32"/>
+    <Constant macroDef="true" scadeName="OPEN_ID" scadeType="uint32" targetName="OPEN_ID" targetType="kcg_uint32"/>
+    <Constant macroDef="true" scadeName="A661_TRUE" scadeType="bool" targetName="A661_TRUE" targetType="kcg_bool"/>
+    <Constant macroDef="true" scadeName="A661_FALSE" scadeType="bool" targetName="A661_FALSE" targetType="kcg_bool"/>
+    <Constant macroDef="true" scadeName="ALCOHOL_COLOR" scadeType="uint8" targetName="ALCOHOL_COLOR" targetType="kcg_uint8"/>
+    <Constant macroDef="true" scadeName="DIESEL_COLOR" scadeType="uint8" targetName="DIESEL_COLOR" targetType="kcg_uint8"/>
+    <Constant macroDef="true" scadeName="GASOLINE_COLOR" scadeType="uint8" targetName="GASOLINE_COLOR" targetType="kcg_uint8"/>
+    <Constant macroDef="true" scadeName="CLOSED_ID" scadeType="uint32" targetName="CLOSED_ID" targetType="kcg_uint32"/>
+    <NamedType refType="BoolMsg" scadeName="BoolMsg" targetName="BoolMsg"/>
+    <NamedType refType="intMsg" scadeName="intMsg" targetName="intMsg"/>
+    <NamedType refType="intMsg2" scadeName="intMsg2" targetName="intMsg2"/>
+    <RootNode headerFile="Main.h" scadeName="Main" targetCycleFct="Main" targetInitFct="Main_reset" targetInitializationFct="Main_init">
+      <Input inCtx="true" scadeName="TankStatus" scadeType="bool" targetName="TankStatus" targetType="kcg_bool"/>
+      <Input inCtx="true" scadeName="FuelType" scadeType="uint16" targetName="FuelType" targetType="kcg_uint16"/>
+      <Input inCtx="true" scadeName="Refuel" scadeType="bool" targetName="Refuel" targetType="kcg_bool"/>
+      <Input inCtx="true" scadeName="EmptyTank" scadeType="bool" targetName="EmptyTank" targetType="kcg_bool"/>
+      <Output inCtx="true" scadeName="LayerVisible" scadeType="bool" targetName="LayerVisible" targetType="kcg_bool"/>
+      <Output inCtx="true" scadeName="FuelVisible" scadeType="BoolMsg" targetName="FuelVisible" targetType="BoolMsg"/>
+      <Output inCtx="true" scadeName="FuelLevel" scadeType="intMsg" targetName="FuelLevel" targetType="intMsg"/>
+      <Output inCtx="true" scadeName="RefuelEnable" scadeType="BoolMsg" targetName="RefuelEnable" targetType="BoolMsg"/>
+      <Output inCtx="true" scadeName="FuelTypeEnable" scadeType="BoolMsg" targetName="FuelTypeEnable" targetType="BoolMsg"/>
+      <Output inCtx="true" scadeName="TankFullVisible" scadeType="BoolMsg" targetName="TankFullVisible" targetType="BoolMsg"/>
+      <Output inCtx="true" scadeName="FuelColor" scadeType="intMsg2" targetName="FuelColor" targetType="intMsg2"/>
+      <NodeInlining instName="1" scadeName="ShowLayer">
+        <Output inCtx="true" scadeName="LayerVisible" scadeType="bool" targetName="LayerVisible" targetType="kcg_bool"/>
+        <FbyOp instName="1">
+          <Memory inCtx="true" targetName="_L1_ShowLayer_1" targetType="kcg_bool"/>
+        </FbyOp>
+      </NodeInlining>
+      <NodeInlining instName="1" scadeName="SetFuelLevel">
+        <Input inCtx="true" scadeName="Refuel" scadeType="bool" targetName="Refuel" targetType="kcg_bool"/>
+        <Input inCtx="true" scadeName="Empty" scadeType="bool" targetName="EmptyTank" targetType="kcg_bool"/>
+        <FbyOp instName="1">
+          <Memory inCtx="true" targetName="_L4_SetFuelLevel_1" targetType="kcg_uint32"/>
+        </FbyOp>
+      </NodeInlining>
+      <NodeInlining instName="1" scadeName="EnableWidgets">
+        <Input inCtx="true" scadeName="FuelType" scadeType="uint16" targetName="FuelType" targetType="kcg_uint16"/>
+        <Output inCtx="true" scadeName="RefuelEnable" scadeType="BoolMsg" targetName="RefuelEnable" targetType="BoolMsg"/>
+        <Output inCtx="true" scadeName="FuelTypeEnable" scadeType="BoolMsg" targetName="FuelTypeEnable" targetType="BoolMsg"/>
+      </NodeInlining>
+      <NodeInlining instName="1" scadeName="RepaintFuelLevel">
+        <Output inCtx="true" scadeName="FuelVisible" scadeType="BoolMsg" targetName="FuelVisible" targetType="BoolMsg"/>
+        <Output inCtx="true" scadeName="FuelLevel" scadeType="intMsg" targetName="FuelLevel" targetType="intMsg"/>
+      </NodeInlining>
+      <NodeInlining instName="1" scadeName="SetTankFullVisible">
+        <Output inCtx="true" scadeName="TankFullVisible" scadeType="BoolMsg" targetName="TankFullVisible" targetType="BoolMsg"/>
+      </NodeInlining>
+      <NodeInlining instName="1" scadeName="SetFuelColor">
+        <Input inCtx="true" scadeName="FuelType" scadeType="uint16" targetName="FuelType" targetType="kcg_uint16"/>
+        <Output inCtx="true" scadeName="FuelColor" scadeType="intMsg2" targetName="FuelColor" targetType="intMsg2"/>
+      </NodeInlining>
+      <Automaton scadeName="SM1" targetStatesType="SSM_ST_SM1" targetTransitionsType="SSM_TR_SM1">
+        <State scadeName="TankClosed" targetName="SSM_st_TankClosed_SM1">
+          <Fork priority="1">
+            <Condition/>
+            <Transition kind="strong" scadeDest="TankOpen" targetName="SSM_TR_TankClosed_TankOpen_1_TankClosed_SM1"/>
+          </Fork>
+        </State>
+        <State scadeName="TankOpen" targetName="SSM_st_TankOpen_SM1">
+          <Fork priority="1">
+            <Condition/>
+            <Transition kind="strong" scadeDest="TankClosed" targetName="SSM_TR_TankOpen_TankClosed_1_TankOpen_SM1"/>
+          </Fork>
+        </State>
+      </Automaton>
+      <Memory inCtx="true" targetName="_L4_SetFuelLevel_1" targetType="kcg_uint32"/>
+      <Memory inCtx="true" targetName="_L1_ShowLayer_1" targetType="kcg_bool"/>
+      <OutCtxType targetName="outC_Main"/>
+      <InCtxType targetName="inC_Main"/>
+    </RootNode>
+    <ExpNode scadeName="ShowLayer"/>
+    <ExpNode scadeName="SetFuelLevel"/>
+    <ExpNode scadeName="EnableWidgets"/>
+    <ExpNode scadeName="RepaintFuelLevel"/>
+    <ExpNode scadeName="SetTankFullVisible"/>
+    <ExpNode scadeName="SetFuelColor"/>
+    <StructType targetCompFct="kcg_comp_intMsg2" targetCopyFct="kcg_copy_intMsg2" targetName="intMsg2">
+      <Field scadeName="Emit" scadeType="kcg_bool" targetName="Emit" targetType="kcg_bool"/>
+      <Field scadeName="Value" scadeType="kcg_uint8" targetName="Value" targetType="kcg_uint8"/>
+    </StructType>
+    <StructType targetCompFct="kcg_comp_intMsg" targetCopyFct="kcg_copy_intMsg" targetName="intMsg">
+      <Field scadeName="Emit" scadeType="kcg_bool" targetName="Emit" targetType="kcg_bool"/>
+      <Field scadeName="Value" scadeType="kcg_uint32" targetName="Value" targetType="kcg_uint32"/>
+    </StructType>
+    <StructType targetCompFct="kcg_comp_BoolMsg" targetCopyFct="kcg_copy_BoolMsg" targetName="BoolMsg">
+      <Field scadeName="Emit" scadeType="kcg_bool" targetName="Emit" targetType="kcg_bool"/>
+      <Field scadeName="Value" scadeType="kcg_bool" targetName="Value" targetType="kcg_bool"/>
+    </StructType>
+    <PredefType scadeName="int8" targetName="kcg_int8"/>
+    <PredefType scadeName="int16" targetName="kcg_int16"/>
+    <PredefType scadeName="int32" targetName="kcg_int32"/>
+    <PredefType scadeName="int64" targetName="kcg_int64"/>
+    <PredefType scadeName="uint8" targetName="kcg_uint8"/>
+    <PredefType scadeName="uint16" targetName="kcg_uint16"/>
+    <PredefType scadeName="uint32" targetName="kcg_uint32"/>
+    <PredefType scadeName="uint64" targetName="kcg_uint64"/>
+    <PredefType scadeName="size" targetName="kcg_size"/>
+    <PredefType scadeName="float32" targetName="kcg_float32"/>
+    <PredefType scadeName="float64" targetName="kcg_float64"/>
+    <PredefType scadeName="bool" targetName="kcg_bool"/>
+    <PredefType scadeName="char" targetName="kcg_char"/>
+  </Model>

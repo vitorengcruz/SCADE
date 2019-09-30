@@ -1,0 +1,83 @@
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-09-29T23:26:50
+** Command: scade -code "C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\FuelManagement.etp" -root Main -conf Simulation -build -all
+*************************************************************$
+*** Build Execution Warning (MAKEEXE):  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\make_win64.log, line 0, character 0
+ make_win64.log: Warning(s) occurs during Makefile execution.
+  at file C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/Simulation/Main_UA_1_private.c:75, line 32, character 0
+ ~Main_UA_1_private.c:75(32) : cast from pointer to integer of different size [-Wpointer-to-int-cast]
+  at file C:/Repositorio_ITA/SCADE/ExLab2/FuelManagement/Simulation/Main_UA_1_private.c:94, line 32, character 0
+ ~Main_UA_1_private.c:94(32) : cast from pointer to integer of different size [-Wpointer-to-int-cast]
+*** Generated Files Information (GENFIL): KCG- Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\mapping.xml, line 0, character 0
+ ~mapping.xml
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\kcg_metrics.txt, line 0, character 0
+ ~kcg_metrics.txt
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main.c, line 0, character 0
+ ~Main.c
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main.h, line 0, character 0
+ ~Main.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\kcg_types.h, line 0, character 0
+ ~kcg_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\kcg_consts.h, line 0, character 0
+ ~kcg_consts.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\kcg_sensors.h, line 0, character 0
+ ~kcg_sensors.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\kcg_types.c, line 0, character 0
+ ~kcg_types.c
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\kcg_consts.c, line 0, character 0
+ ~kcg_consts.c
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\config.txt, line 0, character 0
+ ~config.txt
+*** Generated Files Information (GENFIL): Code Generator Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\user_macros.h, line 0, character 0
+ ~user_macros.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\kcg_imported_types.h, line 0, character 0
+ ~kcg_imported_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\sc2c.log, line 0, character 0
+ ~sc2c.log
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\sc2c_integration_files.txt, line 0, character 0
+ ~sc2c_integration_files.txt
+*** Generated Files Information (GENFIL): Simulator Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main_cosim.c, line 0, character 0
+ ~Main_cosim.c
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\FuelManagement_interface.h, line 0, character 0
+ ~FuelManagement_interface.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\FuelManagement_interface.c, line 0, character 0
+ ~FuelManagement_interface.c
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\FuelManagement_dll.c, line 0, character 0
+ ~FuelManagement_dll.c
+*** Generated Files Information (GENFIL): Type Utils Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\FuelManagement_type.h, line 0, character 0
+ ~FuelManagement_type.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\FuelManagement_type.c, line 0, character 0
+ ~FuelManagement_type.c
+*** Generated Files Information (GENFIL): Mapping Utils Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\FuelManagement_mapping.h, line 0, character 0
+ ~FuelManagement_mapping.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\FuelManagement_mapping.c, line 0, character 0
+ ~FuelManagement_mapping.c
+*** Generated Files Information (GENFIL): SCADE UA Adaptor Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main_UA_1.h, line 0, character 0
+ ~Main_UA_1.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main_UA_1.c, line 0, character 0
+ ~Main_UA_1.c
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main_UA_1_constants.h, line 0, character 0
+ ~Main_UA_1_constants.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main_UA_1_private.h, line 0, character 0
+ ~Main_UA_1_private.h
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main_UA_1_private.c, line 0, character 0
+ ~Main_UA_1_private.c
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main_UA_1_LAY_1.c, line 0, character 0
+ ~Main_UA_1_LAY_1.c
+*** Generated Files Information (GENFIL): Build Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Makefile_win64, line 0, character 0
+ ~Makefile_win64
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main.dll, line 0, character 0
+ ~Main.dll
+  at file C:\Repositorio_ITA\SCADE\ExLab2\FuelManagement\Simulation\Main.exe, line 0, character 0
+ ~Main.exe
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-09-29T23:27:49
+** sc2c.log
+*************************************************************$
