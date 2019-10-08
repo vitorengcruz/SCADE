@@ -83,14 +83,14 @@
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="55" name="@SDY:@SDYREP:OUTPUT">
-			<value>%ModelName%_Report</value>
+			<value>%ModelName%_Report_V2</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="56" name="@SDYREP:INTERNATIONALIZATION">
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="57" name="@SDYREP:AUTHORS">
-			<value>&lt;authors></value>
+			<value>Vítor Eduardo Sabadine da Cruz</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="58" name="@SDYREP:CLASSIFICATION">
@@ -98,7 +98,7 @@
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="59" name="@SDYREP:COMPANYINFO">
-			<value>&lt;company></value>
+			<value>ITA - Instituto Tecnológico de Aeronáutica</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="60" name="@SDYREP:DISTLIST">
@@ -106,6 +106,7 @@
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="61" name="@SDYREP:IMAGEPATH">
+			<value>.</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="62" name="@SDYREP:LOGOPATH">
@@ -113,6 +114,7 @@
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="63" name="@SDYREP:BANNERPATH">
+			<value>.</value>
 			<configuration>52</configuration>
 		</Prop>
 		<Prop id="64" name="@SDYREP:SUMMARY">

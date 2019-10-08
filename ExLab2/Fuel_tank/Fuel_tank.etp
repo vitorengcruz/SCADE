@@ -63,14 +63,14 @@
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="51" name="@SDY:@SDYREP:OUTPUT">
-			<value>%ModelName%_Report</value>
+			<value>%ModelName%_Report_V2</value>
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="52" name="@SDYREP:INTERNATIONALIZATION">
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="53" name="@SDYREP:AUTHORS">
-			<value>&lt;authors></value>
+			<value>Vítor Eduardo Sabadine da Cruz</value>
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="54" name="@SDYREP:CLASSIFICATION">
@@ -78,7 +78,7 @@
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="55" name="@SDYREP:COMPANYINFO">
-			<value>&lt;company></value>
+			<value>ITA - Instituto Tecnológico de Aeronáutica</value>
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="56" name="@SDYREP:DISTLIST">
@@ -86,6 +86,7 @@
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="57" name="@SDYREP:IMAGEPATH">
+			<value>.</value>
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="58" name="@SDYREP:LOGOPATH">
@@ -93,6 +94,7 @@
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="59" name="@SDYREP:BANNERPATH">
+			<value>.</value>
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="60" name="@SDYREP:SUMMARY">
@@ -185,7 +187,6 @@ $(CreatedDate)</value>
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="82" name="@SDYREP:COMMANDLINEOPTIONS">
-			<value></value>
 			<configuration>48</configuration>
 		</Prop>
 		<Prop id="92" name="@SDY:CONFTARGET">

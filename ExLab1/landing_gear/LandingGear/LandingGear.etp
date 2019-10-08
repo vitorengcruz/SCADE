@@ -287,13 +287,13 @@
 			<value>&lt;description&gt;</value>
 		</Prop>
 		<Prop id="86" name="@STUDIO:AUTHORS">
-			<value>&lt;authors&gt;</value>
+			<value>Vítor Eduardo Sabadine da Cruz</value>
 		</Prop>
 		<Prop id="87" name="@STUDIO:COMPAGNY">
-			<value>&lt;company&gt;</value>
+			<value>ITA - Instituto Tecnológico de Aeronáutica</value>
 		</Prop>
 		<Prop id="88" name="@STUDIO:DATE">
-			<value>&lt;date&gt;</value>
+			<value>25/09/2019</value>
 		</Prop>
 		<Prop id="89" name="@STUDIO:INDEX">
 			<value>&lt;index&gt;</value>
@@ -393,7 +393,7 @@
 			<configuration>36</configuration>
 		</Prop>
 		<Prop id="116" name="@REPORTER:DOCUMENT">
-			<value>Landing_gear</value>
+			<value>Landing_gear_V2</value>
 			<configuration>41</configuration>
 		</Prop>
 	</props>

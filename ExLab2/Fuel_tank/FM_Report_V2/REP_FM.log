@@ -1,0 +1,46 @@
+
+SCADE project: C:\Repositorio_ITA\SCADE\ExLab2\Fuel_tank\Fuel_tank.etp
+SCADE Display specification: FM.sgfx
+
+Project Properties:
+- @SDY:DEFAULTCOLORTABLE: color_table.sct
+- @SDY:DEFAULTLSTABLE: line_stipple_table.sst
+- @SDY:DEFAULTLWTABLE: line_width_table.swt
+- @SDY:FONTTABLE: font_table.sft
+- @UAPC:CHARSETENCODING: UTF-8
+- @UAPC:CONFFILE: a661.xml
+- @UAPC:DFPICTURETABLE: 
+- @UAPC:DFSYMBOLTABLE: 
+- @UAPC:STYLESETCAPACITIES: look_capacities.slc
+- @UAPC:STYLESETDEFINITION: look_definition.sld
+
+Reporter Properties:
+- @SDYREP:AUTHORS: Vítor Eduardo Sabadine da Cruz
+- @SDYREP:CLASSIFICATION: <document classification>
+- @SDYREP:COMPANYINFO: ITA - Instituto Tecnológico de Aeronáutica
+- @SDYREP:CONFSOURCE: C:\Repositorio_ITA\SCADE\ExLab2\Fuel_tank\FM.sgfx
+- @SDYREP:DATE: 30/09/2019
+- @SDYREP:DESCRIPTION: Sistema de controle de abastecimento desenvolvido para cumprimento dos requisitos da Listex 1.
+- @SDYREP:DISTLIST: <distribution list>
+- @SDYREP:FOOTERCENTER: <Corporate Info>
+- @SDYREP:FOOTERLEFT: 
+- @SDYREP:FOOTERRIGHT: 
+- @SDYREP:FORMAT: RTF
+- @SDYREP:HEADERCENTER: $(IssueNr)
+- @SDYREP:HEADERLEFT: $(ReferenceNr)
+$(CreatedDate)
+- @SDYREP:HEADERRIGHT: $(PageNumbering)
+- @SDYREP:IMAGEPATH: C:\Repositorio_ITA\SCADE\ExLab2\Fuel_tank
+- @SDYREP:INDEX: <index>
+- @SDYREP:ISSUE: <issue number>
+- @SDYREP:LOGOPATH: C:\Repositorio_ITA\SCADE\ExLab2\Fuel_tank
+- @SDYREP:OUTPUT: %ModelName%_Report_V2
+- @SDYREP:REFERENCE: <reference>
+- @SDYREP:REFERENCENB: <reference number>
+- @SDYREP:RESOURCES: $(CONFIG)/default
+- @SDYREP:SCREENSHOTS: true
+- @SDYREP:SUBTITLE: Laboratório 2 - Definition File
+- @SDYREP:SUMMARY: <summary>
+- @SDYREP:SYMBOLS: false
+- @SDYREP:TITLE: Sistema de Controle de Abastecimento
+- @SDYREP:WIDGETSETS: false

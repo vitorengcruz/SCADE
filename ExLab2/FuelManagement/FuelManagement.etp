@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Project id="1" oid_count="132" defaultConfiguration="24">
+<Project id="1" oid_count="133" defaultConfiguration="24">
 	<props>
 		<Prop id="10" name="@STUDIO:PRODUCT">
 			<value>SC</value>
@@ -291,7 +291,7 @@
 			<value>&lt;description&gt;</value>
 		</Prop>
 		<Prop id="86" name="@STUDIO:AUTHORS">
-			<value>&lt;authors&gt;</value>
+			<value>Vítor Eduardo Sabadine da Cruz</value>
 		</Prop>
 		<Prop id="87" name="@STUDIO:COMPAGNY">
 			<value>Instituto Tecnológico de Aeronáutica</value>
@@ -387,6 +387,10 @@
 		<Prop id="132" name="@GENERATOR:DISPLAY_ENABLED_PANELS">
 			<value>..\Fuel_tank\Fuel_tank.etp,DF Generation</value>
 			<configuration>24</configuration>
+		</Prop>
+		<Prop id="133" name="@REPORTER:DOCUMENT">
+			<value>FuelManagement_V2</value>
+			<configuration>41</configuration>
 		</Prop>
 	</props>
 	<roots>

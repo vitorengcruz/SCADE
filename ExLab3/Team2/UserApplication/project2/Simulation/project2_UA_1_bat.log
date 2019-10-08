@@ -1,0 +1,375 @@
+
+C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation>"C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/bin/uaadaptor.exe" -sdy "C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\project2.sdy" -n "C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661.xml" -outdir "C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/Simulation" -k "C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/Simulation/kcg_trace.xml" -o "project2_UA_1" -i "project2_interface.h"  -encoding "UTF-8"  "C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.sgfx" 
+I0001: SCADE Suite UA Adaptor Version 2019 R2a (build 20190702) (c) Esterel Technologies SAS 2012-2018 started at 2019-10-07T16:38:44.
+I0005: Command line: "C:/Program Files/ANSYS Inc/v194/SCADE/SCADE/bin/uaadaptor.exe" -sdy C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\project2.sdy -n "C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661.xml" -outdir C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/Simulation -k C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/Simulation/kcg_trace.xml -o project2_UA_1 -i project2_interface.h -encoding UTF-8 C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.sgfx
+I0006: Generated file: <log> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.log
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\const.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\type.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661hierarchy.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\a661symbolHierarchy.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\a661extensionHierarchy.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661layer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BasicContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BlinkingContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\RotationContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TranslationContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MaskContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MutuallyExclusiveContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PagingContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Panel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpPanel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpPanelButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ScrollPanel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\RadioBox.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TabbedPanelGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TabbedPanel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MenuBar.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SizeToFitContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ShuffleToFitContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WatchdogContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ActiveArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CheckButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ComboBox.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ComboBoxEdit.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CursorOver.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CursorPosOverlay.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxText.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxNumeric.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxNumericBCD.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxMasked.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxMultiLine.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GestureArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\KeyboardArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MultiStateButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PicturePushButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PictureToggleButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpMenu.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpMenuButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PushButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ScrollList.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ScrollWheelArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SelectionListButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Slider.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolPushButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolToggleButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ToggleButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TouchArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpArcCircle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpArcEllipse.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpCrown.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpPolyline.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpLine.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpLinePolar.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpRectangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpTriangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Label.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\LabelComplex.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Picture.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PictureAnimated.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Symbol.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolAnimated.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\NumericReadout.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_Source.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_ItemList.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\uaadaptor/MapHorz_ItemList_BufferOfMapItems.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\uaadaptor/MapHorz_ItemList_BlockedBufferOfMapItems.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapVert.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapVert_ItemList.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\uaadaptor/MapVert_ItemList_BufferOfItems.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\uaadaptor/MapVert_ItemList_BlockedBufferOfItems.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapVert_Source.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapGrid.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\uaadaptor/MapGrid_bufferOfFillStyles.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_Container.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_Panel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationOnParam.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationRotation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationScale.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationTranslation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BroadcastReceiver.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BufferFormat.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Connector.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CursorRef.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataConnector.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataScalingLong.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataScalingULong.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataScalingFR180.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ExternalSource.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\FocusIn.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\FocusOut.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\FocusLink.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\NoServiceMonitor.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ProxyButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Standard.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Focus.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Highlight.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\RectangularSensitiveArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\CircularSensitiveArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetColor.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetLineStyle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetFont.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetHalo.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetRotation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetTranslation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\StartGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\EndGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\LegendAnchor.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\ArcEllipse.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\ArcCircle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Crown.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Line.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\LinePolar.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Polyline.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Rectangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Triangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\TriangleFan.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\TriangleStrip.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Text.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\BoundingRectangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\BoundingCircle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\DirectionalTabbingExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\CursorEventsExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\LegendStringAlignmentExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\VisibleChildIndexExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\InitialFocusExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\FocusStopExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\CursorShapeExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\PictureExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\SymbolExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\TicsArrayExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\MultiSelectionExtension.xml
+I0007: Input file: <mapping> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\project2.sdy
+I0007: Input file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.sgfx
+I0007: Input file: <scade: kcg_trace.xml> : C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/Simulation/kcg_trace.xml
+I0007: Input file: UA Node Name project2
+I0007: Input file: Operator Name project2
+I0007: Input file: UA Node Name project2
+I0007: Input file: Operator Name project2
+I0006: Generated file: <.c> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1_private.c
+I0006: Generated file: <.c> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.c
+I0006: Generated file: <.c> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1_LAY_1.c
+I0006: Generated file: <.h> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1_constants.h
+I0006: Generated file: <.h> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1_private.h
+I0006: Generated file: <.h> : C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.h
+I0808: [SUCCESSFUL]
+I0006: Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.log
+I0002: SCADE Suite UA Adaptor finished with 0 error(s) at 2019-10-07T16:38:51.
+        1 arquivo(s) movido(s).
+
+C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation>"C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\bin\ScadeDisplayConsole.exe"   batch generate "C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.etp" -conf "DF Generation" -sconf -outdir "C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/Simulation" -prefix "project2_UA_1" 
+C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\bin\ScadeDisplayConsole.exe
+Setting SCADEDISPLAY_HOME to C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display
+
+Generating DF...
+"C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\DFGEN67\bin\dfgen.exe" -n "C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661.xml" -outdir C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation -encoding UTF-8 -o project2_UA_1 C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.sgfx
+I0001: SCADE UA DF Generator Version 6.7 (build i2) (c) Esterel Technologies SAS 2011-2016 started at 2019-10-07T16:39:08.
+I0005: Command line: "C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\DFGEN67\bin\dfgen.exe" -n "C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661.xml" -outdir C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation -encoding UTF-8 -o project2_UA_1 C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.sgfx
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\const.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\type.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661hierarchy.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\a661symbolHierarchy.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\a661extensionHierarchy.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\a661layer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BasicContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BlinkingContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\RotationContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TranslationContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MaskContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MutuallyExclusiveContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PagingContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Panel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpPanel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpPanelButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ScrollPanel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\RadioBox.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TabbedPanelGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TabbedPanel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MenuBar.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SizeToFitContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ShuffleToFitContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WatchdogContainer.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ActiveArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CheckButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ComboBox.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ComboBoxEdit.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CursorOver.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CursorPosOverlay.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxText.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxNumeric.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxNumericBCD.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxMasked.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\EditBoxMultiLine.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GestureArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\KeyboardArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MultiStateButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PicturePushButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PictureToggleButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpMenu.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PopUpMenuButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PushButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ScrollList.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ScrollWheelArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SelectionListButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Slider.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolPushButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolToggleButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ToggleButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\TouchArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpArcCircle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpArcEllipse.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpCrown.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpPolyline.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpLine.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpLinePolar.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpRectangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\GpTriangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Label.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\LabelComplex.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Picture.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\PictureAnimated.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Symbol.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolAnimated.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\NumericReadout.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_Source.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_ItemList.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapVert.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapVert_ItemList.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapVert_Source.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapGrid.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_Container.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\MapHorz_Panel.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationOnParam.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationRotation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationScale.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\AnimationTranslation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BroadcastReceiver.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\BufferFormat.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\Connector.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\CursorRef.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataConnector.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataScalingLong.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataScalingULong.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\DataScalingFR180.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ExternalSource.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\FocusIn.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\FocusOut.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\FocusLink.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\NoServiceMonitor.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\ProxyButton.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Standard.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Focus.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Highlight.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\RectangularSensitiveArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\CircularSensitiveArea.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetColor.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetLineStyle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetFont.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetHalo.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetRotation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\SetTranslation.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\StartGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\EndGroup.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\LegendAnchor.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\ArcEllipse.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\ArcCircle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Crown.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Line.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\LinePolar.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Polyline.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Rectangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Triangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\TriangleFan.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\TriangleStrip.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\Text.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\BoundingRectangle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\SymbolCommands\BoundingCircle.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\DirectionalTabbingExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\CursorEventsExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\LegendStringAlignmentExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\VisibleChildIndexExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\InitialFocusExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\FocusStopExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\CursorShapeExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\PictureExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\SymbolExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\TicsArrayExtension.xml
+I0007: Input file: C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\config\a661_description\WidgetExtensions\MultiSelectionExtension.xml
+I0007: Input file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.sgfx
+I0006: Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.hexa
+I0006: Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.bin
+I0006: Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.df.xml
+I0006: Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1.log
+I0002: SCADE UA DF Generator finished with 0 error(s) at 2019-10-07T16:39:15.
+
+Generating resource DF...
+"C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\rfgen.exe" -outdir C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\line_stipple_table.sst
+Ressource/Styleset Binary File Generator Version 2019 R2 (build 20190418) (c) Esterel Technologies SAS 2017-2019
+kcg path = C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\..\..\Scade display\KCG67
+reading file C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\line_stipple_table.sst
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\line_stipple_table.hexa
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\line_stipple_table.bin
+Completed
+
+Generating resource DF...
+"C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\rfgen.exe" -outdir C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\line_width_table.swt
+Ressource/Styleset Binary File Generator Version 2019 R2 (build 20190418) (c) Esterel Technologies SAS 2017-2019
+kcg path = C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\..\..\Scade display\KCG67
+reading file C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\line_width_table.swt
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\line_width_table.hexa
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\line_width_table.bin
+Completed
+
+Generating resource DF...
+"C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\rfgen.exe" -outdir C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\color_table.sct
+Ressource/Styleset Binary File Generator Version 2019 R2 (build 20190418) (c) Esterel Technologies SAS 2017-2019
+kcg path = C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\..\..\Scade display\KCG67
+reading file C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\color_table.sct
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\color_table.hexa
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\color_table.bin
+Completed
+
+Generating resource DF...
+"C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\rfgen.exe" -outdir C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\font_table.sft
+Ressource/Styleset Binary File Generator Version 2019 R2 (build 20190418) (c) Esterel Technologies SAS 2017-2019
+I0001: SCADE Display CG Simu Version 2019 R2 (build 20190418) (c) Esterel Technologies SAS 2006-2018 started at 2019-10-07T16:39:32.
+I0005: Command line: "C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\..\..\SCADE Display\bin\ScadeDisplayCGSimu.exe" -outdir C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp -prefix rfgen_ C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\font_table.sft
+I0006: Generated file: C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table.h
+I0006: Generated file: C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table.c
+I0006: Generated file: C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table1.c
+I0006: Generated file: C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\ScadeDisplayCGSimu.log
+I0002: SCADE Display CG Simu finished with 0 error(s) at 2019-10-07T16:39:40.
+SCADE Display Cstruct to binary Convertor Version 2019 R2 (build 20190418) (c) Esterel Technologies SAS 2017-2018
+Reading C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\..\..\Scade display\KCG67\oglx\include\glf.h
+Reading C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table.h
+Reading C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table.c
+Reading C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table1.c
+Writing C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table.bin
+Completed
+C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table.hexa
+        1 arquivo(s) movido(s).
+C:\Users\vcruz\AppData\Local\Temp\rfgen_tmp\rfgen_font_table.bin
+        1 arquivo(s) movido(s).
+kcg path = C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\..\..\Scade display\KCG67
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\font_table.hexa
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\font_table.bin
+Completed
+
+Generating Styleset DF...
+"C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\rfgen.exe" -outdir C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation -capacities "C:\Program Files\ANSYS Inc\v194\SCADE\SCADE Display\templates\uapc\look_capacities.slc" C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\look_definition.sld
+Ressource/Styleset Binary File Generator Version 2019 R2 (build 20190418) (c) Esterel Technologies SAS 2017-2019
+kcg path = C:\Program Files\ANSYS Inc\v194\SCADE\SCADE A661\bin\..\..\Scade display\KCG67
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\look_definition.hexa
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\look_definition.bin
+Completed
+
+============= END OF COMMAND: GENERATION SUCCESSFUL =============
+
+Generated file: C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\Simulation\project2_UA_1_conf.xml
+Status: 0
+        1 arquivo(s) movido(s).

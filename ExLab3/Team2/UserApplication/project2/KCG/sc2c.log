@@ -1,0 +1,38 @@
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-10-08T09:16:51
+** Command: scade -code "C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\project2.etp" -root project2 -conf KCG
+*************************************************************$
+*** Generated Files Information (GENFIL): KCG- Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\mapping.xml, line 0, character 0
+ ~mapping.xml
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\kcg_metrics.txt, line 0, character 0
+ ~kcg_metrics.txt
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\project2.c, line 0, character 0
+ ~project2.c
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\project2.h, line 0, character 0
+ ~project2.h
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\kcg_types.h, line 0, character 0
+ ~kcg_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\kcg_consts.h, line 0, character 0
+ ~kcg_consts.h
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\kcg_sensors.h, line 0, character 0
+ ~kcg_sensors.h
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\kcg_types.c, line 0, character 0
+ ~kcg_types.c
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\kcg_consts.c, line 0, character 0
+ ~kcg_consts.c
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\config.txt, line 0, character 0
+ ~config.txt
+*** Generated Files Information (GENFIL): Code Generator Generated files
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\user_macros.h, line 0, character 0
+ ~user_macros.h
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\kcg_imported_types.h, line 0, character 0
+ ~kcg_imported_types.h
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\sc2c.log, line 0, character 0
+ ~sc2c.log
+  at file C:\Repositorio_ITA\SCADE\ExLab3\Team2\UserApplication\project2\KCG\sc2c_integration_files.txt, line 0, character 0
+ ~sc2c_integration_files.txt
+$**************  SCADETOC Version 2019 R2 (build 20190418) **************
+** Generation date: 2019-10-08T09:16:58
+** sc2c.log
+*************************************************************$

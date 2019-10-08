@@ -1,0 +1,18 @@
+[scade_version: 2019 R2a]
+[scade_project: C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/project1.etp]
+[Code Generator]
+0c04d975f45603666fd1833a10e82e0a C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/scade_model_without_unused.scade
+8afe0f4495ff8441597bde11b9e618ff C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/cmd_cg.log
+bc77074ff09b2e3a06f0b1aacfc0bd7a C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/config.txt
+6da7a8b5002435205d6bd74168e92e1f C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_consts.c
+78362025ffe70a3fc3ade276563cfd2f C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_consts.h
+a32791efa0737a029bad7ee8bbfd2468 C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_files.txt
+c570e85441febaa6f6d5e23e14e58b55 C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_imported_types.h
+c24c186dbe102e03d9c7cf47667a1664 C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_metrics.txt
+b379e4538310f3d83a76d14478d9d662 C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_sensors.h
+ebcfd274a1ad8c601b0883ffc2cad151 C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_types.c
+14070eb2c56392340b4d3fd795cabf02 C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/kcg_types.h
+dd35506087cc2d0bffdc1dee78b139ab C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/mapping.xml
+4d6633fccb2a34623ebac7d7ded89e1b C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/project1.c
+16d697b41f82ea61291a940a7ebf42df C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/project1.h
+ae3eb7ab76cdc5ab7228e39b505e73d6 C:/Repositorio_ITA/SCADE/ExLab3/Team1/UserApplication/project1/KCG/user_macros.h
