@@ -1,3 +1,6 @@
 
 [STUDIO\TOOLS\CONFIGURATIONS\Generation]
 "C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.etp"="DF Generation"
+
+[STUDIO\TOOLS\CONFIGURATIONS\Reporter]
+"C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.etp"="Reporter"

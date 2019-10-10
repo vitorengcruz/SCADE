@@ -1,0 +1,45 @@
+*****************************
+*** Generated KCG H/Ads files ***
+*****************************
+project2.h
+kcg_types.h
+kcg_consts.h
+kcg_sensors.h
+
+*****************************
+*** Generated KCG C/Adb files ***
+*****************************
+project2.c
+kcg_types.c
+kcg_consts.c
+
+*****************************
+*** External C Files ***
+*****************************
+..\..\..\..\Program Files\Esterel Technologies\SCADE R17\SCADE\lib\A661Cosim.c
+project2_cosim.c
+project2_snapshot.c
+project2_type.c
+..\..\..\..\Program Files\Esterel Technologies\SCADE R17\SCADE\lib\C\SmuPredefConv.c
+..\..\..\..\Program Files\Esterel Technologies\SCADE R17\SCADE\lib\C\SmuTypes.c
+..\..\..\..\Program Files\Esterel Technologies\SCADE R17\SCADE\lib\C\SmuLib.c
+..\..\..\..\Program Files\Esterel Technologies\SCADE R17\SCADE\lib\C\SmuVTable.c
+project2_mapping.c
+
+*****************************
+*** Generated SC2C Files ***
+*****************************
+user_macros.h
+kcg_imported_types.h
+
+*****************************
+*** Include Directories ***
+*****************************
+.
+$(SCADE)
+$(SCADE)\include
+$(SCADE)\include\C
+$(SCADE)\include\Ada
+$(SCADE)\lib\Ada
+..\..\..\..\Program Files\Esterel Technologies\SCADE R17\SCADE\libraries\libmathext
+

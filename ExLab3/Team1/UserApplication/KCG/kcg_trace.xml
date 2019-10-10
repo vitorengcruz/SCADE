@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--$**************** KCG Version 6.4 (build i21) ****************
+** Command: kcg64.exe -config C:/Listex_2/Team1/UserApplication/KCG/config.txt
+** Generation date: 2016-08-24T07:26:15
+*************************************************************$-->
+<Model date="2016-08-24T07:26:15" commandLine="kcg64.exe -config C:/Listex_2/Team1/UserApplication/KCG/config.txt">
+  <Option name="xml_basename" value="kcg_xml_filter_out.scade"/>
+  <Option name="xml_filter" value="#off#"/>
+  <Option name="state_vector" value="#on#"/>
+  <Option name="static" value="#off#"/>
+  <Option name="warn_error" value="#off#"/>
+  <Option name="no_bitwise" value="#off#"/>
+  <Option name="wrap_c_ops" value="#on#"/>
+  <Option name="input_file" value="C:/Listex_2/Team1/UserApplication/KCG/scade_model_without_unused.scade"/>
+  <Option name="probes" value="#off#"/>
+  <Option name="debug" value="#off#"/>
+  <Option name="no_observe" value="#off#"/>
+  <Option name="observe" value="#off#"/>
+  <Option name="user_config" value="./user_macros.h"/>
+  <Option name="input_threshold" value="2"/>
+  <Option name="header" value="#off#"/>
+  <Option name="significance_length" value="31"/>
+  <Option name="name_length" value="200"/>
+  <Option name="globals_prefix" value="#off#"/>
+  <Option name="macro_on_assert" value="#off#"/>
+  <Option name="optimization_level" value="3"/>
+  <Option name="global_root_context" value="#off#"/>
+  <Option name="noexp" value="#off#"/>
+  <Option name="exp" value="#off#"/>
+  <Option name="expall" value="#on#"/>
+  <Option name="target_dir" value="C:/Listex_2/Team1/UserApplication/KCG"/>
+  <Option name="target" value="C"/>
+  <Option name="node" value="project1"/>
+  <Option name="auth" value="#off#"/>
+  <Constant scadeName="GREEN" scadeType="int" targetName="GREEN" targetType="kcg_int" macroDef="true"/>
+  <Constant scadeName="RED" scadeType="int" targetName="RED" targetType="kcg_int" macroDef="true"/>
+  <RootNode scadeName="project1" headerFile="project1.h" targetCycleFct="project1" targetInitFct="project1_reset"
+      targetInitializationFct="project1_init">
+    <Input scadeName="SignalFromButton" scadeType="bool" targetName="SignalFromButton" targetType="kcg_bool"
+        inCtx="true"/>
+    <Input scadeName="SignalFromTeam2" scadeType="bool" targetName="SignalFromTeam2" targetType="kcg_bool"
+        inCtx="true"/>
+    <Output scadeName="ReqLayerVisible" scadeType="bool" targetName="ReqLayerVisible" targetType="kcg_bool"
+        inCtx="true"/>
+    <Output scadeName="ReqLayerActive" scadeType="bool" targetName="ReqLayerActive" targetType="kcg_bool" inCtx="true"/>
+    <Output scadeName="SignalToTeam2" scadeType="bool" targetName="SignalToTeam2" targetType="kcg_bool" inCtx="true"/>
+    <Output scadeName="EmitToCDS" scadeType="bool" targetName="EmitToCDS" targetType="kcg_bool" inCtx="true"/>
+    <Output scadeName="SignalToLED" scadeType="int" targetName="SignalToLED" targetType="kcg_int" inCtx="true"/>
+    <Local scadeName="_L1" scadeType="bool" targetName="ReqLayerVisible" targetType="kcg_bool" inCtx="true"/>
+    <Local scadeName="_L2" scadeType="bool" targetName="SignalFromButton" targetType="kcg_bool"/>
+    <Memory scadeName="_L3" scadeType="bool" targetName="_L3" targetType="kcg_bool" inCtx="true"/>
+    <Local scadeName="_L4" scadeType="int" targetName="SignalToLED" targetType="kcg_int" inCtx="true"/>
+    <Memory scadeName="_L5" scadeType="bool" targetName="_L5" targetType="kcg_bool" inCtx="true"/>
+    <Local scadeName="_L6" scadeType="bool" targetName="SignalFromTeam2" targetType="kcg_bool"/>
+    <Local scadeName="_L9" scadeType="bool" targetName="EmitToCDS" targetType="kcg_bool" inCtx="true"/>
+    <FbyOp instName="1">
+      <Memory targetName="_L5" targetType="kcg_bool" inCtx="true"/>
+      <Init targetName="init" targetType="kcg_bool" inCtx="true"/>
+    </FbyOp>
+    <NodeInlining scadeName="toggle" instName="1">
+      <Input scadeName="Input" scadeType="bool" targetName="SignalFromTeam2" targetType="kcg_bool"/>
+      <Output scadeName="Output" scadeType="bool" targetName="_L3" targetType="kcg_bool" mem="true" inCtx="true"/>
+      <Local scadeName="_L1" scadeType="bool" targetName="SignalFromTeam2" targetType="kcg_bool"/>
+      <Memory scadeName="_L3" scadeType="bool" targetName="_L3" targetType="kcg_bool" inCtx="true"/>
+      <Local scadeName="_L5" scadeType="bool" targetName="_L5_1" targetType="kcg_bool"/>
+      <NodeInstance scadeName="if" instName="1"/>
+      <NodeInstance scadeName="not" instName="1"/>
+      <FbyOp instName="1">
+        <Memory targetName="_L3" targetType="kcg_bool" inCtx="true"/>
+        <Init targetName="init" targetType="kcg_bool" inCtx="true"/>
+      </FbyOp>
+    </NodeInlining>
+    <NodeInstance scadeName="if" instName="1"/>
+    <Init targetName="init" targetType="kcg_bool" inCtx="true"/>
+    <OutCtxType targetName="outC_project1"/>
+    <InCtxType targetName="inC_project1"/>
+    <StateVectorType targetName="SV_project1" saveFct="kcg_save_SV_project1" loadFct="kcg_load_SV_project1"/>
+  </RootNode>
+  <ExpNode scadeName="toggle"/>
+  <PredefType scadeName="real" targetName="kcg_real"/>
+  <PredefType scadeName="bool" targetName="kcg_bool"/>
+  <PredefType scadeName="char" targetName="kcg_char"/>
+  <PredefType scadeName="int" targetName="kcg_int"/>
+</Model>
+<!--$**************** KCG Version 6.4 (build i21) ****************
+** kcg_trace.xml
+** Generation date: 2016-08-24T07:26:15
+*************************************************************$-->

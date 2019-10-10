@@ -1,0 +1,3 @@
+-target_dir "C:/Listex_2/Team2/UserApplication/Simulation" -expall -target C -name_length 200 -significance_length 31 -user_config "./user_macros.h" -input_threshold 2 -probes -debug 
+-node project2
+"C:/Listex_2/Team2/UserApplication/Simulation/scade_model_without_unused.scade"

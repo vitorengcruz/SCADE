@@ -1,0 +1,47 @@
+
+SCADE project: C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.etp
+SCADE Display specification: project2.sgfx
+
+Project Properties:
+- @SDY:DEFAULTCOLORTABLE: color_table.sct
+- @SDY:DEFAULTLSTABLE: line_stipple_table.sst
+- @SDY:DEFAULTLWTABLE: line_width_table.swt
+- @SDY:FONTTABLE: font_table.sft
+- @UAPC:CHARSETENCODING: Ascii
+- @UAPC:CONFFILE: a661.xml
+- @UAPC:DFPICTURETABLE: 
+- @UAPC:DFSYMBOLTABLE: 
+- @UAPC:STYLESETCAPACITIES: look_capacities.slc
+- @UAPC:STYLESETDEFINITION: look_definition.sld
+
+Reporter Properties:
+- @SDYREP:AUTHORS: Vítor Eduardo Sabadine da Cruz
+- @SDYREP:CLASSIFICATION: <document classification>
+- @SDYREP:COMPANYINFO: Instituto Tecnológico de Aeronáutica
+- @SDYREP:CONFSOURCE: C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile\project2.sgfx
+- @SDYREP:DATE: 10/10/2019
+- @SDYREP:DESCRIPTION: Integração entre projetos do SCADE, para a troca de mensagens entre programas.
+
+- @SDYREP:DISTLIST: <distribution list>
+- @SDYREP:FOOTERCENTER: <Corporate Info>
+- @SDYREP:FOOTERLEFT: 
+- @SDYREP:FOOTERRIGHT: 
+- @SDYREP:FORMAT: RTF
+- @SDYREP:HEADERCENTER: $(IssueNr)
+- @SDYREP:HEADERLEFT: $(ReferenceNr)
+$(CreatedDate)
+- @SDYREP:HEADERRIGHT: $(PageNumbering)
+- @SDYREP:IMAGEPATH: C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile
+- @SDYREP:INDEX: <index>
+- @SDYREP:ISSUE: <issue number>
+- @SDYREP:LOGOPATH: C:\Repositorio_ITA\SCADE\ExLab3\Team2\DefinitionFile
+- @SDYREP:OUTPUT: %ModelName%_Report
+- @SDYREP:REFERENCE: <reference>
+- @SDYREP:REFERENCENB: <reference number>
+- @SDYREP:RESOURCES: $(CONFIG)/default
+- @SDYREP:SCREENSHOTS: true
+- @SDYREP:SUBTITLE: ListEx2
+- @SDYREP:SUMMARY: <summary>
+- @SDYREP:SYMBOLS: false
+- @SDYREP:TITLE: Integração entre projetos
+- @SDYREP:WIDGETSETS: false

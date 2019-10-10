@@ -1,0 +1,3 @@
+-target_dir "C:/Listex_2/Team1/UserApplication/KCG" -expall -target C -O 3 -name_length 200 -significance_length 31 -user_config "./user_macros.h" -input_threshold 2 -wrap_c_ops -state_vector 
+-node project1
+"C:/Listex_2/Team1/UserApplication/KCG/scade_model_without_unused.scade"

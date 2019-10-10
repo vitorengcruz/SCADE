@@ -915,7 +915,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_WHITE</valueRef>
@@ -933,7 +933,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_CYAN</valueRef>
@@ -951,7 +951,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_GREEN</valueRef>
@@ -969,7 +969,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_YELLOW</valueRef>
@@ -987,7 +987,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_AMBER</valueRef>
@@ -1005,7 +1005,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_RED</valueRef>
@@ -1023,7 +1023,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_50p_GREY</valueRef>
@@ -1041,7 +1041,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_BLACK</valueRef>
@@ -1059,7 +1059,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_40p_GREY</valueRef>
@@ -1077,7 +1077,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_60p_GREY</valueRef>
@@ -1095,7 +1095,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_80p_GREY</valueRef>
@@ -1113,7 +1113,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>1</value>
-                        <!-- F2 -->
+                        <!-- Not found: MonoBold20 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_DARKER_CYAN</valueRef>
@@ -1131,7 +1131,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_WHITE</valueRef>
@@ -1149,7 +1149,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_CYAN</valueRef>
@@ -1167,7 +1167,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_GREEN</valueRef>
@@ -1185,7 +1185,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_YELLOW</valueRef>
@@ -1203,7 +1203,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_AMBER</valueRef>
@@ -1221,7 +1221,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_RED</valueRef>
@@ -1239,7 +1239,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_50p_GREY</valueRef>
@@ -1257,7 +1257,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_BLACK</valueRef>
@@ -1275,7 +1275,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_40p_GREY</valueRef>
@@ -1293,7 +1293,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_60p_GREY</valueRef>
@@ -1311,7 +1311,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_80p_GREY</valueRef>
@@ -1329,7 +1329,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>2</value>
-                        <!-- F3 -->
+                        <!-- Not found: MonoBold24 A661.nfd -->
                     </property>
                     <property attributeRef="ColorIndex">
                         <valueRef>C_DARKER_CYAN</valueRef>
@@ -1454,7 +1454,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>0</value>
-                        <!-- F1 -->
+                        <!-- Not found: MonoBold16 A661.nfd -->
                     </property>
                 </properties>
             </styleset>
@@ -1475,7 +1475,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>0</value>
-                        <!-- F1 -->
+                        <!-- Not found: MonoBold16 A661.nfd -->
                     </property>
                 </properties>
             </styleset>
@@ -1496,7 +1496,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>0</value>
-                        <!-- F1 -->
+                        <!-- Not found: MonoBold16 A661.nfd -->
                     </property>
                 </properties>
             </styleset>
@@ -1517,7 +1517,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>0</value>
-                        <!-- F1 -->
+                        <!-- Not found: MonoBold16 A661.nfd -->
                     </property>
                 </properties>
             </styleset>
@@ -1539,7 +1539,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>0</value>
-                        <!-- F1 -->
+                        <!-- Not found: MonoBold16 A661.nfd -->
                     </property>
                 </properties>
             </styleset>
@@ -1560,7 +1560,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>0</value>
-                        <!-- F1 -->
+                        <!-- Not found: MonoBold16 A661.nfd -->
                     </property>
                 </properties>
             </styleset>
@@ -1581,7 +1581,7 @@
                     </property>
                     <property attributeRef="Font">
                         <value>0</value>
-                        <!-- F1 -->
+                        <!-- Not found: MonoBold16 A661.nfd -->
                     </property>
                 </properties>
             </styleset>
@@ -8266,119 +8266,6 @@
                 </properties>
             </styleset>
         </widgetDefinition>
-        <widgetDefinition widgetCapacitiesRef="GestureArea">
-            <styleset id="0" name="BLANK">
-                <scade:default/>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Enabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>NO_FRAME</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Disabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>NO_FRAME</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="15" name="RCT_GR">
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Enabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_FLAT</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Disabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="20" name="BORDER_WH">
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Enabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>BORDER_WH</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Disabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>BORDER_WH_DIS</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="21" name="BORDER_GR">
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Enabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>BORDER_GR</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Disabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>BORDER_GR_DIS</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="52" name="RCT_WH">
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Enabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Disabled"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL_DIS</valueRef>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-        </widgetDefinition>
         <widgetDefinition widgetCapacitiesRef="GpArcCircle">
             <styleset id="1" name="FREE">
                 <scade:default/>
@@ -10094,1511 +9981,6 @@
                 </properties>
             </styleset>
         </widgetDefinition>
-        <widgetDefinition widgetCapacitiesRef="MapHorz_ItemList">
-            <styleset id="1" name="YL_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>41</value>
-                            <!-- YELLOW -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>41</value>
-                            <!-- YELLOW -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>41</value>
-                            <!-- YELLOW -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="2" name="AM_4">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>2</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>31</value>
-                            <!-- AMBER -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>4</value>
-                            <!-- LW4 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>31</value>
-                            <!-- AMBER -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>4</value>
-                            <!-- LW4 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>31</value>
-                            <!-- AMBER -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>4</value>
-                            <!-- LW4 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>2</value>
-                            <!-- F3 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="3" name="WH_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="4" name="WH_1_2">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>2</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>2</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>2</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="5" name="WH_1_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>1</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>1</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>1</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="6" name="DR_2">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>2</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>26</value>
-                            <!-- DARKER RED -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>2</value>
-                            <!-- LW2 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>26</value>
-                            <!-- DARKER RED -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>2</value>
-                            <!-- LW2 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>26</value>
-                            <!-- DARKER RED -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>2</value>
-                            <!-- LW2 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="7" name="LineToCursor_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_DIST_HDG_FROM_LINE_BEGIN</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="8" name="LineToCursor_2">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_DIST_HDG_FROM_AIRCRAFT</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="9" name="LineToCursor_3">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_DIST_DIST_FROM_LINE_BEGIN</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="10" name="LineToCursor_4">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MHZ_LAT_LON</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-        </widgetDefinition>
-        <widgetDefinition widgetCapacitiesRef="MapVert_ItemList">
-            <styleset id="1" name="YL_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>41</value>
-                            <!-- YELLOW -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>41</value>
-                            <!-- YELLOW -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>41</value>
-                            <!-- YELLOW -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="2" name="AM_4">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>2</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>31</value>
-                            <!-- AMBER -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>4</value>
-                            <!-- LW4 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>31</value>
-                            <!-- AMBER -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>4</value>
-                            <!-- LW4 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>31</value>
-                            <!-- AMBER -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>4</value>
-                            <!-- LW4 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>2</value>
-                            <!-- F3 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="3" name="WH_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="4" name="WH_1_2">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>2</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>2</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>2</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="5" name="WH_1_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>1</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>1</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>1</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="6" name="DR_2">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>2</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_NONE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>26</value>
-                            <!-- DARKER RED -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>2</value>
-                            <!-- LW2 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>26</value>
-                            <!-- DARKER RED -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>2</value>
-                            <!-- LW2 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>26</value>
-                            <!-- DARKER RED -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>2</value>
-                            <!-- LW2 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>1</value>
-                            <!-- F2 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="7" name="LineToCursor_1">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_DIST_ALT_DIFF_FROM_LINE_BEGIN</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="8" name="LineToCursor_2">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_DIST_ABSOLUTE_ALT_FROM_LINE_BEGIN</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="9" name="LineToCursor_3">
-                <properties>
-                    <property attributeRef="Halo">
-                        <value>1</value>
-                    </property>
-                    <property attributeRef="Alignment">
-                        <value>0</value>
-                    </property>
-                    <property attributeRef="CoordinatesDisplay">
-                        <valueRef>MVT_DIST_ABSOLUTE_ALT_FROM_REFERENCE</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Normal"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="Highlight"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="PopUp"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="ColorIndex">
-                            <value>1</value>
-                            <!-- WHITE -->
-                        </property>
-                        <property attributeRef="LineWidth">
-                            <value>1</value>
-                            <!-- LW1 -->
-                        </property>
-                        <property attributeRef="LineStipple">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="Font">
-                            <value>0</value>
-                            <!-- F1 -->
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-        </widgetDefinition>
         <widgetDefinition widgetCapacitiesRef="MapHorz_Panel">
             <styleset id="0" name="BLANK">
                 <properties>
@@ -11635,1433 +10017,6 @@
                         <valueRef>RND_UNSEL</valueRef>
                     </property>
                 </properties>
-            </styleset>
-        </widgetDefinition>
-        <widgetDefinition widgetCapacitiesRef="MultiStateButton">
-            <styleset id="110" name="RCT_F2_WH">
-                <scade:default/>
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_WH</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_WH</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="111" name="RCT_F2_CY">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_CY</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_CY</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="112" name="RCT_F2_GN">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GN</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GN</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="113" name="RCT_F2_YL">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_YL</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_YL</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="114" name="RCT_F2_AM">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_AM</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_AM</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="115" name="RCT_F2_RD">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_RD</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_RD</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="130" name="RCT_F3_WH">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_WH</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_WH</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="131" name="RCT_F3_CY">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_CY</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_CY</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="132" name="RCT_F3_GN">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GN</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GN</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="133" name="RCT_F3_YL">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_YL</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_YL</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="134" name="RCT_F3_AM">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_AM</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_AM</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="135" name="RCT_F3_RD">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_RD</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_GR_DIS</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_RD</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="210" name="RND_F2_BK">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="211" name="RND_F2_CY">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_CY_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F2_CY_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="230" name="RND_F3_BK">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-            </styleset>
-            <styleset id="231" name="RND_F3_CY">
-                <properties>
-                    <property attributeRef="Border">
-                        <value>100</value>
-                    </property>
-                    <property attributeRef="PictureSymbolLayout">
-                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
-                    </property>
-                    <property attributeRef="SymbolStyle">
-                        <valueRef>COLOR_WH</valueRef>
-                    </property>
-                </properties>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_CY_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="DisabledUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_UNSEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>0</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>0</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="WaitForValidUnselected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL_DIS</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_BK_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
-                <stateDefinition>
-                    <statesList>
-                        <stateItem stateRef="EnabledSelected"/>
-                    </statesList>
-                    <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RND_SEL</valueRef>
-                        </property>
-                        <property attributeRef="Text">
-                            <valueRef>F3_CY_UNSAT</valueRef>
-                        </property>
-                        <property attributeRef="TextOffsetX">
-                            <value>20</value>
-                        </property>
-                        <property attributeRef="TextOffsetY">
-                            <value>-20</value>
-                        </property>
-                    </properties>
-                </stateDefinition>
             </styleset>
         </widgetDefinition>
         <widgetDefinition widgetCapacitiesRef="NumericReadout">
@@ -26861,114 +23816,2933 @@
                 </stateDefinition>
             </styleset>
         </widgetDefinition>
-        <widgetDefinition widgetCapacitiesRef="TouchArea">
-            <styleset id="0" name="BLANK">
-                <scade:default/>
+        <widgetDefinition widgetCapacitiesRef="MapHorz_ItemList">
+            <styleset id="1" name="YL_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_NONE</valueRef>
+                    </property>
+                </properties>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Enabled"/>
+                        <stateItem stateRef="Normal"/>
                     </statesList>
                     <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>NO_FRAME</valueRef>
+                        <property attributeRef="ColorIndex">
+                            <value>41</value>
+                            <!-- YELLOW -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
                         </property>
                     </properties>
                 </stateDefinition>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Disabled"/>
+                        <stateItem stateRef="Highlight"/>
                     </statesList>
                     <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>NO_FRAME</valueRef>
+                        <property attributeRef="ColorIndex">
+                            <value>41</value>
+                            <!-- YELLOW -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>41</value>
+                            <!-- YELLOW -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
                         </property>
                     </properties>
                 </stateDefinition>
             </styleset>
-            <styleset id="15" name="RCT_GR">
+            <styleset id="2" name="AM_4">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>2</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_NONE</valueRef>
+                    </property>
+                </properties>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Enabled"/>
+                        <stateItem stateRef="Normal"/>
                     </statesList>
                     <properties>
-                        <property attributeRef="Frame">
-                            <valueRef>RCT_FLAT</valueRef>
+                        <property attributeRef="ColorIndex">
+                            <value>31</value>
+                            <!-- AMBER -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>4</value>
+                            <!-- LW4 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
                         </property>
                     </properties>
                 </stateDefinition>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Disabled"/>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>31</value>
+                            <!-- AMBER -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>4</value>
+                            <!-- LW4 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>31</value>
+                            <!-- AMBER -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>4</value>
+                            <!-- LW4 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>2</value>
+                            <!-- Not found: MonoBold24 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="3" name="WH_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="4" name="WH_1_2">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>2</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>2</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>2</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="5" name="WH_1_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>1</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>1</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>1</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="6" name="DR_2">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>2</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>26</value>
+                            <!-- DARKER RED -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>2</value>
+                            <!-- LW2 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>26</value>
+                            <!-- DARKER RED -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>2</value>
+                            <!-- LW2 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>26</value>
+                            <!-- DARKER RED -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>2</value>
+                            <!-- LW2 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="7" name="LineToCursor_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_DIST_HDG_FROM_LINE_BEGIN</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="8" name="LineToCursor_2">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_DIST_HDG_FROM_AIRCRAFT</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="9" name="LineToCursor_3">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_DIST_DIST_FROM_LINE_BEGIN</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="10" name="LineToCursor_4">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MHZ_LAT_LON</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+        </widgetDefinition>
+        <widgetDefinition widgetCapacitiesRef="MapVert_ItemList">
+            <styleset id="1" name="YL_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>41</value>
+                            <!-- YELLOW -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>41</value>
+                            <!-- YELLOW -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>41</value>
+                            <!-- YELLOW -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="2" name="AM_4">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>2</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>31</value>
+                            <!-- AMBER -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>4</value>
+                            <!-- LW4 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>31</value>
+                            <!-- AMBER -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>4</value>
+                            <!-- LW4 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>31</value>
+                            <!-- AMBER -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>4</value>
+                            <!-- LW4 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>2</value>
+                            <!-- Not found: MonoBold24 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="3" name="WH_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="4" name="WH_1_2">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>2</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>2</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>2</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="5" name="WH_1_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>1</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>1</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>1</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="6" name="DR_2">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>2</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_NONE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>26</value>
+                            <!-- DARKER RED -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>2</value>
+                            <!-- LW2 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>26</value>
+                            <!-- DARKER RED -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>2</value>
+                            <!-- LW2 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>26</value>
+                            <!-- DARKER RED -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>2</value>
+                            <!-- LW2 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>1</value>
+                            <!-- Not found: MonoBold20 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="7" name="LineToCursor_1">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_DIST_ALT_DIFF_FROM_LINE_BEGIN</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="8" name="LineToCursor_2">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_DIST_ABSOLUTE_ALT_FROM_LINE_BEGIN</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="9" name="LineToCursor_3">
+                <properties>
+                    <property attributeRef="Halo">
+                        <value>1</value>
+                    </property>
+                    <property attributeRef="Alignment">
+                        <value>0</value>
+                    </property>
+                    <property attributeRef="CoordinatesDisplay">
+                        <valueRef>MVT_DIST_ABSOLUTE_ALT_FROM_REFERENCE</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Normal"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Highlight"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="PopUp"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="ColorIndex">
+                            <value>1</value>
+                            <!-- WHITE -->
+                        </property>
+                        <property attributeRef="LineWidth">
+                            <value>1</value>
+                            <!-- LW1 -->
+                        </property>
+                        <property attributeRef="LineStipple">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="Font">
+                            <value>0</value>
+                            <!-- Not found: MonoBold16 A661.nfd -->
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+        </widgetDefinition>
+        <widgetDefinition widgetCapacitiesRef="MultiStateButton">
+            <styleset id="110" name="RCT_F2_WH">
+                <scade:default/>
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_WH</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
                     </statesList>
                     <properties>
                         <property attributeRef="Frame">
                             <valueRef>RCT_UNSEL_DIS</valueRef>
                         </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_WH</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
                     </properties>
                 </stateDefinition>
             </styleset>
-            <styleset id="20" name="BORDER_WH">
+            <styleset id="111" name="RCT_F2_CY">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Enabled"/>
+                        <stateItem stateRef="EnabledUnselected"/>
                     </statesList>
                     <properties>
                         <property attributeRef="Frame">
-                            <valueRef>BORDER_WH</valueRef>
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_CY</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
                         </property>
                     </properties>
                 </stateDefinition>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Disabled"/>
+                        <stateItem stateRef="DisabledUnselected"/>
                     </statesList>
                     <properties>
                         <property attributeRef="Frame">
-                            <valueRef>BORDER_WH_DIS</valueRef>
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_CY</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
                         </property>
                     </properties>
                 </stateDefinition>
             </styleset>
-            <styleset id="21" name="BORDER_GR">
+            <styleset id="112" name="RCT_F2_GN">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Enabled"/>
+                        <stateItem stateRef="EnabledUnselected"/>
                     </statesList>
                     <properties>
                         <property attributeRef="Frame">
-                            <valueRef>BORDER_GR</valueRef>
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GN</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
                         </property>
                     </properties>
                 </stateDefinition>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Disabled"/>
+                        <stateItem stateRef="DisabledUnselected"/>
                     </statesList>
                     <properties>
                         <property attributeRef="Frame">
-                            <valueRef>BORDER_GR_DIS</valueRef>
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GN</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
                         </property>
                     </properties>
                 </stateDefinition>
             </styleset>
-            <styleset id="52" name="RCT_WH">
+            <styleset id="113" name="RCT_F2_YL">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Enabled"/>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_YL</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_YL</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="114" name="RCT_F2_AM">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_AM</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_AM</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="115" name="RCT_F2_RD">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_RD</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_RD</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="130" name="RCT_F3_WH">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_WH</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_WH</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="131" name="RCT_F3_CY">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_CY</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_CY</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="132" name="RCT_F3_GN">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GN</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GN</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="133" name="RCT_F3_YL">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_YL</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_YL</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="134" name="RCT_F3_AM">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_AM</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_AM</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="135" name="RCT_F3_RD">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_RD</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_GR_DIS</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_RD</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="210" name="RND_F2_BK">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
                     </statesList>
                     <properties>
                         <property attributeRef="Frame">
                             <valueRef>RND_SEL</valueRef>
                         </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="211" name="RND_F2_CY">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_CY_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
                     </properties>
                 </stateDefinition>
                 <stateDefinition>
                     <statesList>
-                        <stateItem stateRef="Disabled"/>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
                     </statesList>
                     <properties>
                         <property attributeRef="Frame">
                             <valueRef>RND_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F2_CY_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="230" name="RND_F3_BK">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="231" name="RND_F3_CY">
+                <properties>
+                    <property attributeRef="Border">
+                        <value>100</value>
+                    </property>
+                    <property attributeRef="PictureSymbolLayout">
+                        <valueRef>OPPOSITE_SIZE_100P</valueRef>
+                    </property>
+                    <property attributeRef="SymbolStyle">
+                        <valueRef>COLOR_WH</valueRef>
+                    </property>
+                </properties>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_CY_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="DisabledUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_UNSEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>0</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>0</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="WaitForValidUnselected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL_DIS</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_BK_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="EnabledSelected"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL</valueRef>
+                        </property>
+                        <property attributeRef="Text">
+                            <valueRef>F3_CY_UNSAT</valueRef>
+                        </property>
+                        <property attributeRef="TextOffsetX">
+                            <value>20</value>
+                        </property>
+                        <property attributeRef="TextOffsetY">
+                            <value>-20</value>
                         </property>
                     </properties>
                 </stateDefinition>
@@ -27266,8 +27040,234 @@
                 </properties>
             </styleset>
         </widgetDefinition>
+        <widgetDefinition widgetCapacitiesRef="GestureArea">
+            <styleset id="0" name="BLANK">
+                <scade:default/>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>NO_FRAME</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>NO_FRAME</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="15" name="RCT_GR">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_FLAT</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="20" name="BORDER_WH">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_WH</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_WH_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="21" name="BORDER_GR">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_GR</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_GR_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="52" name="RCT_WH">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+        </widgetDefinition>
+        <widgetDefinition widgetCapacitiesRef="TouchArea">
+            <styleset id="0" name="BLANK">
+                <scade:default/>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>NO_FRAME</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>NO_FRAME</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="15" name="RCT_GR">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_FLAT</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RCT_UNSEL_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="20" name="BORDER_WH">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_WH</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_WH_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="21" name="BORDER_GR">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_GR</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>BORDER_GR_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+            <styleset id="52" name="RCT_WH">
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Enabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+                <stateDefinition>
+                    <statesList>
+                        <stateItem stateRef="Disabled"/>
+                    </statesList>
+                    <properties>
+                        <property attributeRef="Frame">
+                            <valueRef>RND_SEL_DIS</valueRef>
+                        </property>
+                    </properties>
+                </stateDefinition>
+            </styleset>
+        </widgetDefinition>
     </widgetsDefinitions>
 </LookDefinition>
 
-<!-- crc32 : 3430258766 -->
+<!-- crc32 : 3503439888 -->
 

@@ -1,0 +1,40 @@
+$**************  SCADETOC Version R17 (build i15) **************
+** Generation date: 2016-08-24T02:14:26
+** Command: scade -code "C:\Listex_2\Team2\UserApplication\project2.etp" -root project2 -conf KCG
+*************************************************************$
+*** Generated Files Information (GENFIL): KCG- Generated files
+ ~kcg_trace.xml
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_trace.xml, line 0, character 0
+ ~kcg_metrics.txt
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_metrics.txt, line 0, character 0
+ ~project2.c
+  at file C:\Listex_2\Team2\UserApplication\KCG\project2.c, line 0, character 0
+ ~project2.h
+  at file C:\Listex_2\Team2\UserApplication\KCG\project2.h, line 0, character 0
+ ~kcg_types.h
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_types.h, line 0, character 0
+ ~kcg_consts.h
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_consts.h, line 0, character 0
+ ~kcg_sensors.h
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_sensors.h, line 0, character 0
+ ~kcg_types.c
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_types.c, line 0, character 0
+ ~kcg_consts.c
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_consts.c, line 0, character 0
+ ~kcg_xml_filter_out.scade
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_xml_filter_out.scade, line 0, character 0
+ ~config.txt
+  at file C:\Listex_2\Team2\UserApplication\KCG\config.txt, line 0, character 0
+*** Generated Files Information (GENFIL): Code Generator Generated files
+ ~user_macros.h
+  at file C:\Listex_2\Team2\UserApplication\KCG\user_macros.h, line 0, character 0
+ ~kcg_imported_types.h
+  at file C:\Listex_2\Team2\UserApplication\KCG\kcg_imported_types.h, line 0, character 0
+ ~sc2c.log
+  at file C:\Listex_2\Team2\UserApplication\KCG\sc2c.log, line 0, character 0
+ ~sc2c_integration_files.txt
+  at file C:\Listex_2\Team2\UserApplication\KCG\sc2c_integration_files.txt, line 0, character 0
+$**************  SCADETOC Version R17 (build i15) **************
+** Generation date: 2016-08-24T02:14:44
+** sc2c.log
+*************************************************************$

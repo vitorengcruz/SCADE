@@ -1,3 +1,0 @@
--target_dir "C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/KCG" -expall -target C -name_length 200 -significance_length 31 -user_config "./user_macros.h" -input_threshold 2 
--root project2
-"C:/Repositorio_ITA/SCADE/ExLab3/Team2/UserApplication/project2/KCG/scade_model_without_unused.scade"

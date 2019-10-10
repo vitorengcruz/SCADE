@@ -1,0 +1,183 @@
+EXPORTS
+    A661ConnectServer @1
+    A661GetLastError @2
+    A661KillServer @3
+    A661Receive @4
+    A661Send @5
+    A661SetLogFile @6
+    A661SetServerPath @7
+    AfterSimInit @8
+    AfterSimStep @9
+    BeforeSimInit @10
+    BeforeSimStep @11
+    EnumToString @12
+    ExtendedGatherDumpData @13
+    ExtendedGetDumpSize @14
+    ExtendedRestoreDumpData @15
+    ExtendedSimStop @16
+    GraphicalInputsConnected @17 DATA
+    OutputMessageCallback @18 DATA
+    READ_FLOAT @19
+    RefreshSimValues @20
+    SimCustomInit @21
+    SimInit @22
+    SimRealloc @23
+    SimReset @24
+    SimStep @25
+    SimStop @26
+    SimStringAlloc @27
+    SimStringAllocEx @28
+    SimStringAppend @29
+    SimStringFree @30
+    SimStringGet @31
+    SimStringListAlloc @32
+    SimStringListAllocEx @33
+    SimStringListAppend @34
+    SimStringListFree @35
+    SimStringListGetCount @36
+    SimStringListGetData @37
+    SimStringListReset @38
+    SimStringReset @39
+    SsmConnectExternalInputs @40
+    SsmCustomInit @41
+    SsmGatherDumpData @42
+    SsmGetCheckSum @43
+    SsmGetConverter @44
+    SsmGetDefaultRealFormat @45
+    SsmGetDumpSize @46
+    SsmGetMapping @47
+    SsmGetSmuTypesCheckSum @48
+    SsmInit @49
+    SsmInitValues @50
+    SsmLoadSnapshot @51
+    SsmOutputMessage @52
+    SsmReset @53
+    SsmRestoreDumpData @54
+    SsmSaveSnapshot @55
+    SsmSetOutputMessageCallback @56
+    SsmSetUpdateCallback @57
+    SsmStep @58
+    SsmStop @59
+    SsmUpdateValues @60
+    StringToEnum @61
+    UpdateSimulatorValues @62
+    UpdateSimulatorValuesCallback @63 DATA
+    UpdateValues @64
+    VTable_to_double @65
+    VTable_to_long @66
+    WRITE_FLOAT @67
+    _SCSIM_CheckSum @68 DATA
+    _SCSIM_SmuTypesCheckSum @69 DATA
+    _Type_kcg_bool_Utils @70 DATA
+    _Type_kcg_char_Utils @71 DATA
+    _Type_kcg_int_Utils @72 DATA
+    _Type_kcg_real_Utils @73 DATA
+    a661_com_A661_CMD_UA_REQUEST_8 @74
+    a661_com_csp_widget_GpArcCircle @75
+    a661_com_layer_1 @76
+    a661_com_msg_char @77
+    a661_msg_cmd_header @78
+    a661_msg_csp_header @79
+    any_true @80
+    check_kcg_bool_string @81
+    check_kcg_char_string @82
+    check_kcg_int_string @83
+    check_kcg_real_string @84
+    check_string_access @85
+    compare_kcg_bool @86
+    compare_kcg_char @87
+    compare_kcg_int @88
+    compare_kcg_real @89
+    get_kcg_bool_signature @90
+    get_kcg_char_signature @91
+    get_kcg_int_signature @92
+    get_kcg_real_signature @93
+    inputs_ctx @94 DATA
+    is_VTable_double_conversion_allowed @95
+    is_VTable_long_conversion_allowed @96
+    is_kcg_bool_double_conversion_allowed @97
+    is_kcg_bool_long_conversion_allowed @98
+    is_kcg_char_double_conversion_allowed @99
+    is_kcg_char_long_conversion_allowed @100
+    is_kcg_int_double_conversion_allowed @101
+    is_kcg_int_long_conversion_allowed @102
+    is_kcg_real_double_conversion_allowed @103
+    is_kcg_real_long_conversion_allowed @104
+    kcg_bool_to_double @105
+    kcg_bool_to_long @106
+    kcg_bool_to_string @107
+    kcg_char_to_double @108
+    kcg_char_to_long @109
+    kcg_char_to_string @110
+    kcg_int_to_double @111
+    kcg_int_to_long @112
+    kcg_int_to_string @113
+    kcg_real_to_double @114
+    kcg_real_to_long @115
+    kcg_real_to_string @116
+    layerstring @117 DATA
+    load_inC_project2 @118
+    load_outC_project2 @119
+    load_snapshot @120
+    load_var @121
+    nSsmRtVersion @122 DATA
+    notvalid @123
+    outputs_ctx @124 DATA
+    pConverter @125 DATA
+    pSimBoolVTable @126 DATA
+    pSimCharVTable @127 DATA
+    pSimDoubleVTable @128 DATA
+    pSimLongVTable @129 DATA
+    pSimoutC_project2CIVTable @130 DATA
+    pSimulator @131 DATA
+    pTop @132 DATA
+    parameterstring @133 DATA
+    predef_compare_enum @134
+    predef_compare_kcg_bool @135
+    predef_compare_kcg_char @136
+    predef_compare_kcg_int @137
+    predef_compare_kcg_real @138
+    predef_kcg_bool_to_string @139
+    predef_kcg_char_to_string @140
+    predef_kcg_char_to_string_helper @141
+    predef_kcg_int_to_string @142
+    predef_kcg_real_to_string @143
+    predef_string_to_kcg_bool @144
+    predef_string_to_kcg_char @145
+    predef_string_to_kcg_char_helper @146
+    predef_string_to_kcg_int @147
+    predef_string_to_kcg_real @148
+    project2 @149
+    project2_UA_2_receive @150
+    project2_UA_2_receive_clear @151
+    project2_UA_2_send @152
+    project2_init @153
+    project2_reset @154
+    read_line @155
+    rt_version @156 DATA
+    save_context @157
+    save_field @158
+    save_inC_project2 @159
+    save_outC_project2 @160
+    save_snapshot @161
+    save_var @162
+    scope_0 @163 DATA
+    scope_0_entries @164 DATA
+    scope_1 @165 DATA
+    scope_1_entries @166 DATA
+    scope_2 @167 DATA
+    scope_2_entries @168 DATA
+    set_kcg_bool_default_value @169
+    set_kcg_char_default_value @170
+    set_kcg_int_default_value @171
+    set_kcg_real_default_value @172
+    strDefaultRealFormat @173 DATA
+    string_to_VTable @174
+    string_to_kcg_bool @175
+    string_to_kcg_char @176
+    string_to_kcg_int @177
+    string_to_kcg_real @178
+    szKcgTraceCheckSum @179 DATA
+    updateCompareResult @180
+    valid @181
+    widgetstring @182 DATA

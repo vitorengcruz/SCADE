@@ -5,7 +5,7 @@
 <specification>
     <IDE>
         <project path="project1.etp"/>
-        <ratio horizontal="1" vertical="1"/>
+        <ratio horizontal="20" vertical="20"/>
     </IDE>
     <symbology>
         <dimension height="256" width="256"/>
@@ -14,7 +14,7 @@
         <intprop name="ApplicationId">1</intprop>
     </A661>
     <children>
-        <A661Layer name="a661_layer" oid="0fd42616-6e9c-4028-aedc-44ca397c8182">
+        <A661Layer name="a661_layer" oid="d28476ba-06c3-4ac4-83e9-c8286b1b61ee">
             <IDE>
                 <ratio horizontal="20" vertical="20"/>
             </IDE>
@@ -32,15 +32,15 @@
             </runtime>
             <events/>
             <children>
-                <widget name="PushButton" oid="d0030978-663e-421b-8f41-0f789629e88a" type="PushButton">
+                <widget name="PushButton" oid="88d923a3-7d23-4cd2-afa1-30df193c73c7" type="PushButton">
                     <model>
                         <intprop name="WidgetIdent">1</intprop>
                         <enumprop name="Enable">A661_TRUE</enumprop>
                         <enumprop name="Visible">A661_TRUE</enumprop>
-                        <intprop name="PosX">1060</intprop>
-                        <intprop name="PosY">2800</intprop>
-                        <intprop name="SizeX">3000</intprop>
-                        <intprop name="SizeY">800</intprop>
+                        <intprop name="PosX">1580</intprop>
+                        <intprop name="PosY">3000</intprop>
+                        <intprop name="SizeX">1840</intprop>
+                        <intprop name="SizeY">780</intprop>
                         <intprop name="StyleSet">110</intprop>
                         <intprop name="NextFocusedWidget">0</intprop>
                         <intprop name="MaxStringLength">32</intprop>
@@ -64,17 +64,16 @@
                     </events>
                     <children/>
                 </widget>
-                <widget name="GpArcEllipse" oid="45ef8b0f-2a86-4664-b0c4-0fde4d63e4fd" type="GpArcEllipse">
+                <widget name="GpArcCircle" oid="d5af4a92-a7df-4bcd-bfca-4d0a365234f4" type="GpArcCircle">
                     <model>
                         <intprop name="WidgetIdent">2</intprop>
                         <enumprop name="Anonymous">A661_FALSE</enumprop>
                         <enumprop name="Visible">A661_TRUE</enumprop>
-                        <intprop name="PosX">2060</intprop>
-                        <intprop name="PosY">500</intprop>
-                        <intprop name="SizeX">1000</intprop>
-                        <intprop name="SizeY">1000</intprop>
+                        <intprop name="PosX">2460</intprop>
+                        <intprop name="PosY">1160</intprop>
                         <intprop name="StartAngle">-2147483648</intprop>
                         <intprop name="EndAngle">2147483647</intprop>
+                        <intprop name="Radius">500</intprop>
                         <intprop name="StyleSet">1</intprop>
                         <intprop name="ColorIndex">1</intprop>
                         <enumprop name="Filled">A661_TRUE</enumprop>
@@ -82,31 +81,29 @@
                         <enumprop name="Halo">A661_FALSE</enumprop>
                     </model>
                     <runtime>
-                        <connect msg_id="A661_VISIBLE" name="GpArcEllipse_A661_VISIBLE"/>
-                        <connect msg_id="A661_STYLE_SET" name="GpArcEllipse_A661_STYLE_SET"/>
-                        <connect msg_id="A661_POS_XY" name="GpArcEllipse_A661_POS_XY"/>
-                        <connect msg_id="A661_POS_X" name="GpArcEllipse_A661_POS_X"/>
-                        <connect msg_id="A661_POS_Y" name="GpArcEllipse_A661_POS_Y"/>
-                        <connect msg_id="A661_SIZE_X" name="GpArcEllipse_A661_SIZE_X"/>
-                        <connect msg_id="A661_SIZE_Y" name="GpArcEllipse_A661_SIZE_Y"/>
-                        <connect msg_id="A661_SIZE_XY" name="GpArcEllipse_A661_SIZE_XY"/>
-                        <connect msg_id="A661_COLOR_INDEX" name="GpArcEllipse_A661_COLOR_INDEX"/>
-                        <connect msg_id="A661_FILL_INDEX" name="GpArcEllipse_A661_FILL_INDEX"/>
-                        <connect msg_id="A661_START_ANGLE" name="GpArcEllipse_A661_START_ANGLE"/>
-                        <connect msg_id="A661_END_ANGLE" name="GpArcEllipse_A661_END_ANGLE"/>
-                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="GpArcEllipse_A661_REQ_FOCUS_ON_WIDGET"/>
-                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="GpArcEllipse_A661_REQ_CURSOR_ON_WIDGET"/>
+                        <connect msg_id="A661_VISIBLE" name="GpArcCircle_A661_VISIBLE"/>
+                        <connect msg_id="A661_STYLE_SET" name="GpArcCircle_A661_STYLE_SET"/>
+                        <connect msg_id="A661_POS_XY" name="GpArcCircle_A661_POS_XY"/>
+                        <connect msg_id="A661_POS_X" name="GpArcCircle_A661_POS_X"/>
+                        <connect msg_id="A661_POS_Y" name="GpArcCircle_A661_POS_Y"/>
+                        <connect msg_id="A661_COLOR_INDEX" name="GpArcCircle_A661_COLOR_INDEX"/>
+                        <connect msg_id="A661_FILL_INDEX" name="GpArcCircle_A661_FILL_INDEX"/>
+                        <connect msg_id="A661_RADIUS" name="GpArcCircle_A661_RADIUS"/>
+                        <connect msg_id="A661_START_ANGLE" name="GpArcCircle_A661_START_ANGLE"/>
+                        <connect msg_id="A661_END_ANGLE" name="GpArcCircle_A661_END_ANGLE"/>
+                        <connect msg_id="A661_REQ_FOCUS_ON_WIDGET" name="GpArcCircle_A661_REQ_FOCUS_ON_WIDGET"/>
+                        <connect msg_id="A661_REQ_CURSOR_ON_WIDGET" name="GpArcCircle_A661_REQ_CURSOR_ON_WIDGET"/>
                     </runtime>
                     <children/>
                 </widget>
-                <widget name="Label" oid="4b1b0ce7-6a92-47cf-899c-c9020c1ffb9c" type="Label">
+                <widget name="Label" oid="4b40046e-92c8-4ee1-b2eb-7a9c8f5a4c4a" type="Label">
                     <model>
                         <intprop name="WidgetIdent">3</intprop>
                         <enumprop name="Anonymous">A661_FALSE</enumprop>
                         <enumprop name="Visible">A661_TRUE</enumprop>
-                        <intprop name="PosX">1840</intprop>
-                        <intprop name="PosY">1600</intprop>
-                        <intprop name="SizeX">1700</intprop>
+                        <intprop name="PosX">1020</intprop>
+                        <intprop name="PosY">3860</intprop>
+                        <intprop name="SizeX">3000</intprop>
                         <intprop name="SizeY">800</intprop>
                         <intprop name="RotationAngle">0</intprop>
                         <intprop name="StyleSet">1</intprop>
@@ -114,8 +111,8 @@
                         <enumprop name="MotionAllowed">A661_TRUE</enumprop>
                         <intprop name="Font">0</intprop>
                         <intprop name="ColorIndex">1</intprop>
-                        <enumprop name="Alignment">A661_LEFT</enumprop>
-                        <stringprop name="LabelString">Receive</stringprop>
+                        <enumprop name="Alignment">A661_CENTER</enumprop>
+                        <stringprop name="LabelString">Team 1</stringprop>
                     </model>
                     <runtime>
                         <connect msg_id="A661_VISIBLE" name="Label_A661_VISIBLE"/>
@@ -132,14 +129,14 @@
                     </runtime>
                     <children/>
                 </widget>
-                <widget name="Label" oid="eb653ac6-f152-4de2-a090-ad4fd35a4554" type="Label">
+                <widget name="Label" oid="553f7806-cae8-4bba-ad34-47e06720ae8c" type="Label">
                     <model>
                         <intprop name="WidgetIdent">4</intprop>
                         <enumprop name="Anonymous">A661_FALSE</enumprop>
                         <enumprop name="Visible">A661_TRUE</enumprop>
-                        <intprop name="PosX">1960</intprop>
-                        <intprop name="PosY">3880</intprop>
-                        <intprop name="SizeX">1500</intprop>
+                        <intprop name="PosX">980</intprop>
+                        <intprop name="PosY">1760</intprop>
+                        <intprop name="SizeX">3000</intprop>
                         <intprop name="SizeY">800</intprop>
                         <intprop name="RotationAngle">0</intprop>
                         <intprop name="StyleSet">1</intprop>
@@ -147,8 +144,8 @@
                         <enumprop name="MotionAllowed">A661_TRUE</enumprop>
                         <intprop name="Font">0</intprop>
                         <intprop name="ColorIndex">1</intprop>
-                        <enumprop name="Alignment">A661_LEFT</enumprop>
-                        <stringprop name="LabelString">Team 1</stringprop>
+                        <enumprop name="Alignment">A661_CENTER</enumprop>
+                        <stringprop name="LabelString">Receive</stringprop>
                     </model>
                     <runtime>
                         <connect msg_id="A661_VISIBLE" name="Label_A661_VISIBLE"/>
@@ -170,5 +167,5 @@
     </children>
 </specification>
 
-<!-- crc32 : 896036025 -->
+<!-- crc32 : 4174323221 -->
 
